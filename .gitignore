@@ -1,0 +1,7 @@
+# Ignore everything
+*
+# except for .gitignore and XML files
+!.gitignore
+!*.xml
+# or such files in subdirectories
+!*/
