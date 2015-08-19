@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setting>
+	<projects>
+		<project name="TempEval-2013-Train" numOfAnnotator="2">
+			<admin>coral-admin</admin>
+			<annotator>annotatorGroup</annotator>
+			<schema>TimeML</schema>
+		</project>
+	</projects>
+	<schemas>
+		<schema name="TimeML">
+			<file>timeml-schema.xml</file>
+		</schema>
+	</schemas>
+</setting>
