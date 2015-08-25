@@ -5,11 +5,15 @@
 			<admin>coral-admin</admin>
 			<annotator>annotatorGroup</annotator>
 			<schema>TimeML</schema>
+			<schema>TimeNorm</schema>
 		</project>
 	</projects>
 	<schemas>
 		<schema name="TimeML">
 			<file>timeml-schema.xml</file>
+		</schema>
+		<schema name="TimeNorm">
+			<file>timenorm-schema.xml</file>
 		</schema>
 	</schemas>
 </setting>
