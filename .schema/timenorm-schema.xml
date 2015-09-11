@@ -20,6 +20,7 @@
 	<properties>
 	  <property type="Type" input="choice">,Year,Month,Week,Day,Hour,Minute,Second</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -28,6 +29,7 @@
 	<properties>
 	  <property type="Type" input="choice">,Spring,Summer,Fall,Winter</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -37,6 +39,7 @@
 	  <property type="Type" input="choice">,January,February,March,April,May,June,July,August,September,October,November,December</property>
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Day-Of-Month" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -46,6 +49,7 @@
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Day-Of-Week" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -55,6 +59,7 @@
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -64,6 +69,7 @@
 	  <property type="Type" input="choice">,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</property>
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -72,6 +78,7 @@
 	<properties>
 	  <property type="Type" input="choice">,Morning,Afternoon,Evening,Night</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -80,6 +87,7 @@
 	<properties>
 	  <property type="Type" input="choice">,AM,PM</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -91,6 +99,7 @@
 	  <property type="Time-Zone" input="list" maxlink="1" required="False" instanceOf="Time-Zone" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Minute-Of-Hour" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -100,6 +109,7 @@
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Second-Of-Minute" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -108,6 +118,7 @@
 	<properties>
 	  <property type="Value" input="text" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
 	</properties>
@@ -137,18 +148,12 @@
       </entity>
       <entity type="Union" color="b2df8a" hotkey="u">
 	<properties>
-	  <property type="Repeating-Intervals" input="list" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
+	  <property type="Repeating-Intervals" input="list" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	</properties>
       </entity>
       <entity type="Intersection" color="b2df8a" hotkey="i">
 	<properties>
-	  <property type="Repeating-Intervals" input="list" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
-	</properties>
-      </entity>
-      <entity type="Nth" color="b2df8a">
-	<properties>
-	  <property type="Number" input="text" />
-	  <property type="Repeating-Interval" input="list" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
+	  <property type="Repeating-Intervals" input="list" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	</properties>
       </entity>
       <entity type="Two-Digit-Year" color="cab2d6" hotkey="2">
@@ -163,7 +168,7 @@
 	<properties>
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
-	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
+	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	</properties>
       </entity>
       <entity type="Last" color="cab2d6" hotkey="l">
@@ -172,7 +177,7 @@
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period" />
-	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
+	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
       </entity>
@@ -181,7 +186,7 @@
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period" />
-	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
+	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
       </entity>
@@ -190,7 +195,7 @@
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period" />
-	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
+	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
       </entity>
@@ -199,7 +204,7 @@
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period" />
-	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
+	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
       </entity>
@@ -215,7 +220,7 @@
 	<properties>
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
-	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Nth" />
+	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	</properties>
       </entity>
     </entities>
