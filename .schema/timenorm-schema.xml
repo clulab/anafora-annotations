@@ -22,7 +22,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Season-Of-Year" color="b2df8a">
@@ -31,7 +31,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Month-Of-Year" color="b2df8a" hotkey="m">
@@ -41,7 +41,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Week-Of-Year" color="b2df8a">
@@ -51,7 +51,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Day-Of-Month" color="b2df8a" hotkey="d">
@@ -61,7 +61,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Day-Of-Week" color="b2df8a" hotkey="w">
@@ -71,7 +71,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Part-Of-Day" color="b2df8a">
@@ -80,7 +80,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="AMPM-Of-Day" color="b2df8a">
@@ -89,7 +89,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Hour-Of-Day" color="b2df8a" hotkey="h">
@@ -101,7 +101,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Minute-Of-Hour" color="b2df8a" hotkey="1">
@@ -111,7 +111,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Second-Of-Minute" color="b2df8a" hotkey="s">
@@ -120,7 +120,7 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Event-Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	</properties>
       </entity>
       <entity type="Time-Zone" color="b2df8a" hotkey="z" />
@@ -176,7 +176,7 @@
 	  <property type="Semantics" input="choice">Standard,Newswire</property>
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
-	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
@@ -185,7 +185,7 @@
 	<properties>
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
-	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
@@ -194,7 +194,7 @@
 	<properties>
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
-	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
@@ -203,7 +203,7 @@
 	<properties>
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Event" />
-	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period" />
+	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection" />
 	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
