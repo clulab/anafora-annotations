@@ -76,7 +76,7 @@
       </entity>
       <entity type="Part-Of-Day" color="b2df8a">
 	<properties>
-	  <property type="Type" input="choice">,Morning,Afternoon,Evening,Night</property>
+	  <property type="Type" input="choice">,Morning,Noon,Afternoon,Evening,Night,Midnight</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	  <property type="Every-Nth" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Event-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
