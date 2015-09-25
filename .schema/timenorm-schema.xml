@@ -20,14 +20,12 @@
 	<properties>
 	  <property type="Type" input="choice">,Year,Month,Week,Day,Hour,Minute,Second</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Season-Of-Year" color="b2df8a">
 	<properties>
 	  <property type="Type" input="choice">,Spring,Summer,Fall,Winter</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Month-Of-Year" color="b2df8a" hotkey="m">
@@ -35,7 +33,6 @@
 	  <property type="Type" input="choice">,January,February,March,April,May,June,July,August,September,October,November,December</property>
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Day-Of-Month" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Week-Of-Year" color="b2df8a">
@@ -43,7 +40,6 @@
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Day-Of-Week" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Day-Of-Month" color="b2df8a" hotkey="d">
@@ -51,7 +47,6 @@
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Day-Of-Week" color="b2df8a" hotkey="w">
@@ -59,21 +54,18 @@
 	  <property type="Type" input="choice">,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</property>
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Part-Of-Day" color="b2df8a">
 	<properties>
 	  <property type="Type" input="choice">,Morning,Noon,Afternoon,Evening,Night,Midnight</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="AMPM-Of-Day" color="b2df8a">
 	<properties>
 	  <property type="Type" input="choice">,AM,PM</property>
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Hour-Of-Day" color="b2df8a" hotkey="h">
@@ -83,7 +75,6 @@
 	  <property type="Time-Zone" input="list" maxlink="1" required="False" instanceOf="Time-Zone" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Minute-Of-Hour" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Minute-Of-Hour" color="b2df8a" hotkey="1">
@@ -91,14 +82,12 @@
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Second-Of-Minute" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Second-Of-Minute" color="b2df8a" hotkey="s">
 	<properties>
 	  <property type="Value" input="text" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
 	</properties>
       </entity>
       <entity type="Time-Zone" color="b2df8a" hotkey="z" />
@@ -109,7 +98,12 @@
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Month-Of-Year,Week-Of-Year" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
-	  <property type="Event-Within" input="list" required="False" instanceOf="Event" />
+	</properties>
+      </entity>
+      <entity type="Century" color="cab2d6">
+	<properties>
+	  <property type="Value" input="text" />
+	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
     </entities>
@@ -220,13 +214,12 @@
 	  <property type="Type" input="choice">,Approx,Less-Than,More-Than,Start,Mid,End</property>
 	</properties>
       </entity>
-      <entity type="Event" color="e0e0e0" hotkey="e">
+      <entity type="Frequency" color="fdbf6f" hotkey="f">
 	<properties>
-	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
-	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
-	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
 	</properties>
       </entity>
+      <entity type="Event" color="e0e0e0" hotkey="e" />
       <entity type="PreAnnotation" color="ffff99" />
       <entity type="NotNormalizable" color="e31a1c" hotkey="!" />
     </entities>
