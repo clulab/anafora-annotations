@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>10:24:22 01-09-2015</savetime>
+  <progress>in-progress</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>0@regex</id>
+		<span>14,18</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1@regex</id>
+		<span>20,39</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>2@regex</id>
+		<span>54,58</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>3@regex</id>
+		<span>70,89</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>4@regex</id>
+		<span>160,164</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>6@regex</id>
+		<span>542,548</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>7@regex</id>
+		<span>593,596</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>8@regex</id>
+		<span>874,880</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>9@regex</id>
+		<span>926,931</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@regex</id>
+		<span>988,994</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@regex</id>
+		<span>1170,1173</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@regex</id>
+		<span>1323,1329</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@regex</id>
+		<span>1660,1663</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@regex</id>
+		<span>1697,1702</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@regex</id>
+		<span>1819,1823</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@regex</id>
+		<span>1855,1859</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@regex</id>
+		<span>1907,1915</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@regex</id>
+		<span>1946,1952</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@regex</id>
+		<span>2064,2072</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@regex</id>
+		<span>2551,2555</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@regex</id>
+		<span>2733,2739</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@regex</id>
+		<span>2759,2765</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@regex</id>
+		<span>2836,2842</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@regex</id>
+		<span>3067,3071</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@regex</id>
+		<span>3078,3085</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>26@regex</id>
+		<span>3170,3175</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@regex</id>
+		<span>3181,3185</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>28@regex</id>
+		<span>3492,3498</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>29@regex</id>
+		<span>3575,3581</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>30@regex</id>
+		<span>3670,3682</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>31@regex</id>
+		<span>3918,3925</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>32@regex</id>
+		<span>3926,3932</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>33@regex</id>
+		<span>4560,4568</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>34@e@APW19980322.0749@aescgar</id>
+		<span>223,226</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>35@e@APW19980322.0749@aescgar</id>
+		<span>223,226</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>36@e@APW19980322.0749@aescgar</Interval>
+			<Period></Period>
+			<Repeating-Interval>34@e@APW19980322.0749@aescgar</Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>36@e@APW19980322.0749@aescgar</id>
+		<span>242,248</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>
