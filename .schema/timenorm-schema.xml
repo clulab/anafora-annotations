@@ -214,11 +214,7 @@
 	  <property type="Type" input="choice">,Approx,Less-Than,More-Than,Start,Mid,End</property>
 	</properties>
       </entity>
-      <entity type="Frequency" color="fdbf6f" hotkey="f">
-	<properties>
-	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
-	</properties>
-      </entity>
+      <entity type="Frequency" color="fdbf6f" hotkey="f" />
       <entity type="Event" color="e0e0e0" hotkey="e" />
       <entity type="PreAnnotation" color="ffff99" />
       <entity type="NotNormalizable" color="e31a1c" hotkey="!" />
