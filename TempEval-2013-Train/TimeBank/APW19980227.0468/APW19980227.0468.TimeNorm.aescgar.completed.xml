@@ -2,22 +2,13 @@
 
 <data>
 <info>
-  <savetime>11:40:37 24-08-2015</savetime>
-  <progress>in-progress</progress>
+  <savetime>09:57:59 15-09-2015</savetime>
+  <progress>completed</progress>
 </info>
 
 <schema path="./" protocol="file">temporal.schema.xml</schema>
 
 <annotations>
-	<entity>
-		<id>7@regex</id>
-		<span>1196,1204</span>
-		<type>PreAnnotation</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
 	<entity>
 		<id>8@e@APW19980227.0468@aescgar</id>
 		<span>523,529</span>
@@ -189,14 +180,65 @@
 	</entity>
 
 	<entity>
-		<id>25@e@APW19980227.0468@aescgar</id>
-		<span>1205,1251</span>
+		<id>26@e@APW19980227.0468@aescgar</id>
+		<span>1207,1209</span>
 		<type>Minute-Of-Hour</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Value></Value>
+			<Value>56</Value>
 			<Sub-Interval></Sub-Interval>
 			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@APW19980227.0468@aescgar</id>
+		<span>1205,1207</span>
+		<type>Hour-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>7</Value>
+			<AMPM-Of-Day></AMPM-Of-Day>
+			<Time-Zone>24@e@APW19980227.0468@aescgar</Time-Zone>
+			<Sub-Interval>26@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>28@e@APW19980227.0468@aescgar</id>
+		<span>1199,1201</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>27</Value>
+			<Sub-Interval>27@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>29@e@APW19980227.0468@aescgar</id>
+		<span>1196,1198</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>February</Type>
+			<Sub-Interval>28@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>30@e@APW19980227.0468@aescgar</id>
+		<span>1202,1204</span>
+		<type>Two-Digit-Year</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>98</Value>
+			<Sub-Interval>29@e@APW19980227.0468@aescgar</Sub-Interval>
 		</properties>
 	</entity>
 
