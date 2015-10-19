@@ -2,7 +2,7 @@
 <setting>
 	<projects>
 		<project name="TempEval-2013-Train" numOfAnnotator="2">
-			<admin>coral-admin</admin>
+			<admin>anaforaadmin</admin>
 			<annotator>annotatorGroup</annotator>
 			<schema>TimeML</schema>
 			<schema>TimeNorm</schema>
