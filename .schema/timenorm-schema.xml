@@ -211,7 +211,7 @@
       </entity>
       <entity type="Modifier" color="fb9a99">
 	<properties>
-	  <property type="Type" input="choice">,Approx,Less-Than,More-Than,Start,Mid,End</property>
+	  <property type="Type" input="choice">,Approx,Less-Than,More-Than,Start,Mid,End,Fiscal</property>
 	</properties>
       </entity>
       <entity type="Frequency" color="fdbf6f" hotkey="f" />
