@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>11:26:58 24-08-2015</savetime>
+  <savetime>10:25:59 05-10-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -259,7 +259,7 @@
 
 	<entity>
 		<id>76@e@AP900815-0044@aescgar</id>
-		<span>2173,2180</span>
+		<span>2173,2179</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
@@ -926,6 +926,21 @@
 			<Interval></Interval>
 			<Period>147@e@AP900815-0044@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>149@e@AP900815-0044@aescgar</id>
+		<span>2339,2343</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>82@e@AP900815-0044@aescgar</Repeating-Interval>
 			<Repeating-Interval-Number></Repeating-Interval-Number>
 		</properties>
 	</entity>

@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:24:58 05-10-2015</savetime>
+  <savetime>13:05:01 05-10-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -10,7 +10,19 @@
 
 <annotations>
 	<entity>
-		<id>11@e@ABC19980304.1830.1636@aescgar</id>
+		<id>10@e@ABC19980304.1830.1636@colh1995</id>
+		<span>80,85</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Repeating-Interval>19@e@ABC19980304.1830.1636@colh1995</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@ABC19980304.1830.1636@colh1995</id>
 		<span>275,283</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -22,7 +34,19 @@
 	</entity>
 
 	<entity>
-		<id>12@e@ABC19980304.1830.1636@aescgar</id>
+		<id>14@e@ABC19980304.1830.1636@colh1995</id>
+		<span>478,483</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>15@e@ABC19980304.1830.1636@colh1995</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@ABC19980304.1830.1636@colh1995</id>
 		<span>471,477</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -32,42 +56,21 @@
 	</entity>
 
 	<entity>
-		<id>13@e@ABC19980304.1830.1636@aescgar</id>
-		<span>478,483</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Years</Type>
-			<Number>12@e@ABC19980304.1830.1636@aescgar</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>17@e@ABC19980304.1830.1636@aescgar</id>
-		<span>80,85</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Day</Type>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>18@e@ABC19980304.1830.1636@aescgar</id>
-		<span>80,85</span>
-		<type>This</type>
+		<id>16@e@ABC19980304.1830.1636@colh1995</id>
+		<span>484,489</span>
+		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Repeating-Interval>17@e@ABC19980304.1830.1636@aescgar</Repeating-Interval>
+			<Period>14@e@ABC19980304.1830.1636@colh1995</Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>19@e@ABC19980304.1830.1636@aescgar</id>
+		<id>17@e@ABC19980304.1830.1636@colh1995</id>
 		<span>659,662</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
@@ -79,7 +82,7 @@
 	</entity>
 
 	<entity>
-		<id>20@e@ABC19980304.1830.1636@aescgar</id>
+		<id>18@e@ABC19980304.1830.1636@colh1995</id>
 		<span>1070,1073</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
@@ -91,7 +94,18 @@
 	</entity>
 
 	<entity>
-		<id>21@e@ABC19980304.1830.1636@aescgar</id>
+		<id>19@e@ABC19980304.1830.1636@colh1995</id>
+		<span>80,85</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@ABC19980304.1830.1636@colh1995</id>
 		<span>275,283</span>
 		<type>Next</type>
 		<parentsType>Operator</parentsType>
@@ -99,7 +113,7 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>11@e@ABC19980304.1830.1636@aescgar</Repeating-Interval>
+			<Repeating-Interval>12@e@ABC19980304.1830.1636@colh1995</Repeating-Interval>
 			<Repeating-Interval-Number></Repeating-Interval-Number>
 		</properties>
 	</entity>
