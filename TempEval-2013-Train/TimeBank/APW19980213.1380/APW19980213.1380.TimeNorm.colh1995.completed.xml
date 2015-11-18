@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>12:52:49 05-10-2015</savetime>
+  <savetime>13:16:27 12-10-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -319,7 +319,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Thursday</Type>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>50@e@APW19980213.1380@colh1995</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -399,17 +399,6 @@
 			<Period>53@e@APW19980213.1380@colh1995</Period>
 			<Repeating-Interval></Repeating-Interval>
 			<Repeating-Interval-Number></Repeating-Interval-Number>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>52@e@APW19980213.1380@colh1995</id>
-		<span>1506,1511</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Year</Type>
-			<Modifier></Modifier>
 		</properties>
 	</entity>
 

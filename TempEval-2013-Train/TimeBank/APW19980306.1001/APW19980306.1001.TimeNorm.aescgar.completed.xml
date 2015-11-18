@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:17:05 15-09-2015</savetime>
+  <savetime>12:15:34 12-10-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -258,8 +258,8 @@
 		<type>Next</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>85@e@APW19980306.1001@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 			<Repeating-Interval-Number></Repeating-Interval-Number>
@@ -639,6 +639,15 @@
 			<Value>1998</Value>
 			<Sub-Interval>83@e@APW19980306.1001@aescgar</Sub-Interval>
 			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>85@e@APW19980306.1001@aescgar</id>
+		<span>2857,2861</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
 		</properties>
 	</entity>
 
