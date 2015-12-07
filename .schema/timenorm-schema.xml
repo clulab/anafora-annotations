@@ -120,6 +120,7 @@
       </entity>
       <entity type="Intersection" color="7FAC57" hotkey="i">
 	<properties>
+	  <property type="Intervals" input="list" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Nth,Event" />
 	  <property type="Repeating-Intervals" input="list" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
 	</properties>
       </entity>
