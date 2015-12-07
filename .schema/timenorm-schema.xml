@@ -19,12 +19,14 @@
       <entity type="Calendar-Interval" color="b2df8a" hotkey="c">
 	<properties>
 	  <property type="Type" input="choice">,Century,Decade,Year,Quarter,Month,Week,Day,Hour,Minute,Second</property>
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
       <entity type="Season-Of-Year" color="b2df8a">
 	<properties>
 	  <property type="Type" input="choice">,Spring,Summer,Fall,Winter</property>
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
@@ -32,6 +34,7 @@
 	<properties>
 	  <property type="Type" input="choice">,January,February,March,April,May,June,July,August,September,October,November,December</property>
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Day-Of-Month" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
@@ -39,6 +42,7 @@
 	<properties>
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Day-Of-Week" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
@@ -46,6 +50,7 @@
 	<properties>
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
@@ -53,18 +58,21 @@
 	<properties>
 	  <property type="Type" input="choice">,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</property>
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
       <entity type="Part-Of-Day" color="b2df8a">
 	<properties>
 	  <property type="Type" input="choice">,Morning,Noon,Afternoon,Evening,Night,Midnight</property>
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
       <entity type="AMPM-Of-Day" color="b2df8a">
 	<properties>
 	  <property type="Type" input="choice">,AM,PM</property>
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
@@ -74,6 +82,7 @@
 	  <property type="AMPM-Of-Day" input="list" maxlink="1" required="False" instanceOf="AMPM-Of-Day" />
 	  <property type="Time-Zone" input="list" maxlink="1" required="False" instanceOf="Time-Zone" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Minute-Of-Hour" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
@@ -81,12 +90,14 @@
 	<properties>
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Second-Of-Minute" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
       <entity type="Second-Of-Minute" color="b2df8a" hotkey="s">
 	<properties>
 	  <property type="Value" input="text" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
