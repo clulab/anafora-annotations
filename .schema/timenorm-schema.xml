@@ -153,7 +153,6 @@
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Nth,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
-	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
       </entity>
       <entity type="Next" color="977FA3" hotkey="n">
@@ -162,7 +161,6 @@
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Nth,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
-	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
       </entity>
       <entity type="Before" color="977FA3" hotkey="b">
@@ -171,7 +169,6 @@
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Nth,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
-	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
       </entity>
       <entity type="After" color="977FA3" hotkey="a">
@@ -180,7 +177,6 @@
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Nth,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
-	  <property type="Repeating-Interval-Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	</properties>
       </entity>
       <entity type="Between" color="977FA3">
