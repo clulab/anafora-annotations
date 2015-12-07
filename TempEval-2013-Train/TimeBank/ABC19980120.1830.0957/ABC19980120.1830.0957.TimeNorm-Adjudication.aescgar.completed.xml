@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>11:19:08 19-10-2015</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>18@e@ABC19980120.1830.0957@gold</id>
+		<span>733,738</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>40</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@ABC19980120.1830.0957@gold</id>
+		<span>739,744</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>18@e@ABC19980120.1830.0957@gold</Number>
+			<Modifier>23@e@ABC19980120.1830.0957@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@ABC19980120.1830.0957@gold</id>
+		<span>2008,2012</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Repeating-Interval>22@e@ABC19980120.1830.0957@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@ABC19980120.1830.0957@gold</id>
+		<span>2112,2118</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@ABC19980120.1830.0957@gold</id>
+		<span>2013,2020</span>
+		<type>Part-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Evening</Type>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@ABC19980120.1830.0957@gold</id>
+		<span>726,732</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Approx</Type>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

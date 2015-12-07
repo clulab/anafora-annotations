@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>18:22:10 04-10-2015</savetime>
+  <savetime>12:37:04 19-10-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -127,6 +127,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -195,6 +196,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -285,6 +287,29 @@
 			<Period></Period>
 			<Repeating-Interval>44@e@ABC19980108.1830.0711@colh1995</Repeating-Interval>
 			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>52@e@ABC19980108.1830.0711@colh1995</id>
+		<span>689,695</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>54@e@ABC19980108.1830.0711@colh1995</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>54@e@ABC19980108.1830.0711@colh1995</id>
+		<span>708,716</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
 		</properties>
 	</entity>
 

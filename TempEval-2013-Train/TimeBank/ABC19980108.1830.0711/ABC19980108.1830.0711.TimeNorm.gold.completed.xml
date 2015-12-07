@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>11:42:16 19-10-2015</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>53@e@ABC19980108.1830.0711@gold</id>
+		<span>261,265</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>55@e@ABC19980108.1830.0711@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>54@e@ABC19980108.1830.0711@gold</id>
+		<span>266,277</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>24</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>55@e@ABC19980108.1830.0711@gold</id>
+		<span>278,283</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Hours</Type>
+			<Number>54@e@ABC19980108.1830.0711@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>56@e@ABC19980108.1830.0711@gold</id>
+		<span>449,453</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>5</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>57@e@ABC19980108.1830.0711@gold</id>
+		<span>454,458</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>56@e@ABC19980108.1830.0711@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>58@e@ABC19980108.1830.0711@gold</id>
+		<span>486,490</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>4</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>59@e@ABC19980108.1830.0711@gold</id>
+		<span>491,495</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>58@e@ABC19980108.1830.0711@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>60@e@ABC19980108.1830.0711@gold</id>
+		<span>670,683</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>61@e@ABC19980108.1830.0711@gold</id>
+		<span>684,687</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>60@e@ABC19980108.1830.0711@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>62@e@ABC19980108.1830.0711@gold</id>
+		<span>1036,1039</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>63@e@ABC19980108.1830.0711@gold</id>
+		<span>1344,1351</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>October</Type>
+			<Sub-Interval></Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>64@e@ABC19980108.1830.0711@gold</id>
+		<span>1344,1351</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>63@e@ABC19980108.1830.0711@gold</Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>65@e@ABC19980108.1830.0711@gold</id>
+		<span>1378,1381</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>66@e@ABC19980108.1830.0711@gold</id>
+		<span>1549,1553</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>68@e@ABC19980108.1830.0711@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>67@e@ABC19980108.1830.0711@gold</id>
+		<span>1554,1559</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>3</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>68@e@ABC19980108.1830.0711@gold</id>
+		<span>1560,1566</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Months</Type>
+			<Number>67@e@ABC19980108.1830.0711@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>69@e@ABC19980108.1830.0711@gold</id>
+		<span>1965,1968</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>10</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>70@e@ABC19980108.1830.0711@gold</id>
+		<span>1969,1974</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>69@e@ABC19980108.1830.0711@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>71@e@ABC19980108.1830.0711@gold</id>
+		<span>2099,2105</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>couple</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>72@e@ABC19980108.1830.0711@gold</id>
+		<span>2109,2114</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>71@e@ABC19980108.1830.0711@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>73@e@ABC19980108.1830.0711@gold</id>
+		<span>131,140</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Fiscal</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>74@e@ABC19980108.1830.0711@gold</id>
+		<span>141,145</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Week</Type>
+			<Modifier>73@e@ABC19980108.1830.0711@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>75@e@ABC19980108.1830.0711@gold</id>
+		<span>1959,1964</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Unknown</Interval-Type>
+			<Interval></Interval>
+			<Period>70@e@ABC19980108.1830.0711@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

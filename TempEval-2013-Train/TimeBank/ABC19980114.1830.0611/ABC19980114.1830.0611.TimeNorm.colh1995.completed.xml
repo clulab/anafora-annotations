@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>13:04:10 05-10-2015</savetime>
+  <savetime>12:46:21 19-10-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -69,6 +69,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>17@e@ABC19980114.1830.0611@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
@@ -114,6 +115,30 @@
 			<Type>Minutes</Type>
 			<Number></Number>
 			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@ABC19980114.1830.0611@colh1995</id>
+		<span>362,366</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval>24@e@ABC19980114.1830.0611@colh1995</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval-Number></Repeating-Interval-Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@ABC19980114.1830.0611@colh1995</id>
+		<span>367,379</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
 		</properties>
 	</entity>
 
