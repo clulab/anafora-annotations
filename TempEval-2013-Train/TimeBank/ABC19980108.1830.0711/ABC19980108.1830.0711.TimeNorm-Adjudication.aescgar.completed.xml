@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>11:42:16 19-10-2015</savetime>
+  <savetime>11:18:12 16-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -122,6 +122,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -134,6 +135,7 @@
 		<properties>
 			<Type>October</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -160,6 +162,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -261,6 +264,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier>73@e@ABC19980108.1830.0711@gold</Modifier>
 		</properties>
 	</entity>
@@ -271,11 +275,22 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>Unknown</Interval-Type>
-			<Interval></Interval>
-			<Period>70@e@ABC19980108.1830.0711@gold</Period>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>76@e@ABC19980108.1830.0711@gold</Interval>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
+	</entity>
+
+	<entity>
+		<id>76@e@ABC19980108.1830.0711@gold</id>
+		<span>1978,1982</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 </annotations>

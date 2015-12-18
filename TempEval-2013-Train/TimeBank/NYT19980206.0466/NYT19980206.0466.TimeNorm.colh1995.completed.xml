@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>13:47:31 12-10-2015</savetime>
+  <savetime>12:35:00 10-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -35,6 +35,7 @@
 		<properties>
 			<Value>29</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -49,6 +50,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>20@e@NYT19980206.0466@colh1995</Time-Zone>
 			<Sub-Interval>21@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -61,6 +63,7 @@
 		<properties>
 			<Value>6</Value>
 			<Sub-Interval>22@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -73,6 +76,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>23@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -97,6 +101,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -118,6 +123,7 @@
 		<properties>
 			<Value>29</Value>
 			<Sub-Interval>26@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -132,6 +138,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>28@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -144,6 +151,7 @@
 		<properties>
 			<Value>6</Value>
 			<Sub-Interval>29@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -156,6 +164,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>30@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -179,6 +188,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -191,6 +201,7 @@
 		<properties>
 			<Value>29</Value>
 			<Sub-Interval>34@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -205,6 +216,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>35@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -217,6 +229,7 @@
 		<properties>
 			<Value>6</Value>
 			<Sub-Interval>36@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -229,6 +242,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>37@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -253,6 +267,7 @@
 		<properties>
 			<Value>6</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -265,6 +280,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>40@e@NYT19980206.0466@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -277,6 +293,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -289,6 +306,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -340,6 +358,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -366,6 +385,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -392,6 +412,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -428,7 +449,7 @@
 		<type>Number</type>
 		<parentsType>Other</parentsType>
 		<properties>
-			<Value>few</Value>
+			<Value>?</Value>
 		</properties>
 	</entity>
 
@@ -468,6 +489,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -494,6 +516,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -519,6 +542,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -531,6 +555,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>61@e@NYT19980206.0466@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
@@ -542,6 +567,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Morning</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -554,6 +580,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>63@e@NYT19980206.0466@colh1995</Repeating-Interval>
 		</properties>
 	</entity>

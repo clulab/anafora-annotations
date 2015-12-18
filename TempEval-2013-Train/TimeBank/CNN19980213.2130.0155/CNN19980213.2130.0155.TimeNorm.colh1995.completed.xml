@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>18:02:32 11-10-2015</savetime>
+  <savetime>12:40:23 10-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -49,6 +49,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -74,6 +75,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -99,6 +101,7 @@
 		<properties>
 			<Value>13</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -111,6 +114,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>25@e@CNN19980213.2130.0155@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -135,6 +139,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -160,6 +165,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -172,6 +178,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>31@e@CNN19980213.2130.0155@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
@@ -197,6 +204,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -208,6 +216,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -233,6 +242,7 @@
 		<properties>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>41@e@CNN19980213.2130.0155@colh1995</Interval>
+			<Period></Period>
 			<Repeating-Interval>37@e@CNN19980213.2130.0155@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
@@ -243,6 +253,19 @@
 		<type>Event</type>
 		<parentsType>Other</parentsType>
 		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>42@e@CNN19980213.2130.0155@colh1995</id>
+		<span>1452,1457</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>41@e@CNN19980213.2130.0155@colh1995</Interval>
+			<Period></Period>
+			<Repeating-Interval>37@e@CNN19980213.2130.0155@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
 

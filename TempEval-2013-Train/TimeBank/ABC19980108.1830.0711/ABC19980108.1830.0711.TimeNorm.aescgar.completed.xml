@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>21:32:15 16-08-2015</savetime>
+  <savetime>11:57:06 15-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -122,6 +122,7 @@
 		<properties>
 			<Type>October</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -178,7 +179,7 @@
 		<type>Number</type>
 		<parentsType>Other</parentsType>
 		<properties>
-			<Value>couple</Value>
+			<Value>?</Value>
 		</properties>
 	</entity>
 
@@ -215,6 +216,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -239,6 +241,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -251,7 +254,90 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>53@e@ABC19980108.1830.0711@aescgar</id>
+		<span>25,29</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>1998</Value>
+			<Sub-Interval>54@e@ABC19980108.1830.0711@aescgar</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>54@e@ABC19980108.1830.0711@aescgar</id>
+		<span>29,31</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>January</Type>
+			<Sub-Interval>56@e@ABC19980108.1830.0711@aescgar</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>56@e@ABC19980108.1830.0711@aescgar</id>
+		<span>31,33</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>8</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>57@e@ABC19980108.1830.0711@aescgar</id>
+		<span>708,716</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>58@e@ABC19980108.1830.0711@aescgar</id>
+		<span>689,695</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>57@e@ABC19980108.1830.0711@aescgar</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>59@e@ABC19980108.1830.0711@aescgar</id>
+		<span>1959,1964</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>60@e@ABC19980108.1830.0711@aescgar</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>60@e@ABC19980108.1830.0711@aescgar</id>
+		<span>1978,1982</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
 		</properties>
 	</entity>
 
