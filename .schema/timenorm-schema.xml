@@ -18,7 +18,7 @@
     <entities type="Repeating-Interval" color="b2df8a">
       <entity type="Calendar-Interval" color="b2df8a" hotkey="c">
 	<properties>
-	  <property type="Type" input="choice">,Century,Decade,Year,Quarter,Month,Week,Day,Hour,Minute,Second</property>
+	  <property type="Type" input="choice">,Century,Quarter-Century,Decade,Year,Quarter-Year,Month,Week,Day,Hour,Minute,Second</property>
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
