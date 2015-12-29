@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>12:55:31 24-10-2015</savetime>
+  <savetime>12:11:14 21-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -17,6 +17,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>87@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -29,6 +30,7 @@
 		<properties>
 			<Value>13</Value>
 			<Sub-Interval>89@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -55,6 +57,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>90@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -67,6 +70,7 @@
 		<properties>
 			<Value>35</Value>
 			<Sub-Interval>91@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -78,6 +82,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -90,6 +95,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>93@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -102,6 +108,7 @@
 		<properties>
 			<Value>13</Value>
 			<Sub-Interval>95@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -128,6 +135,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>96@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -140,6 +148,7 @@
 		<properties>
 			<Value>35</Value>
 			<Sub-Interval>97@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -151,6 +160,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -163,6 +173,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>99@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -175,6 +186,7 @@
 		<properties>
 			<Value>13</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -186,6 +198,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -198,6 +211,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -221,6 +235,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -245,6 +260,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -257,6 +273,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -283,6 +300,7 @@
 		<properties>
 			<Type>Monday</Type>
 			<Sub-Interval>111@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -306,6 +324,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval>111@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -317,6 +336,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Night</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -329,6 +349,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>113@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -341,6 +362,7 @@
 		<properties>
 			<Value>30</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -353,6 +375,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -365,8 +388,12 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>116@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -377,8 +404,12 @@
 		<properties>
 			<Value>6</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -388,6 +419,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -400,6 +432,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>119@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -412,6 +445,7 @@
 		<properties>
 			<Value>13</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -439,6 +473,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>123@e@APW19980213.1320@gold</Time-Zone>
 			<Sub-Interval>122@e@APW19980213.1320@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -451,6 +486,7 @@
 		<properties>
 			<Value>35</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -475,6 +511,9 @@
 			<Period></Period>
 			<Repeating-Interval>115@e@APW19980213.1320@gold</Repeating-Interval>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -506,10 +545,13 @@
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
-			<Start-Interval></Start-Interval>
+			<Start-Interval>124@e@APW19980213.1320@gold</Start-Interval>
 			<End-Interval-Type>Unknown</End-Interval-Type>
 			<End-Interval></End-Interval>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>

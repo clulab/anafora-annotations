@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>12:36:39 10-11-2015</savetime>
+  <savetime>13:27:42 19-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -310,7 +310,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Newswire</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -359,18 +359,6 @@
 	</entity>
 
 	<entity>
-		<id>40@e@NYT19980212.0019@colh1995</id>
-		<span>1315,1320</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Years</Type>
-			<Number>41@e@NYT19980212.0019@colh1995</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>41@e@NYT19980212.0019@colh1995</id>
 		<span>1311,1314</span>
 		<type>Number</type>
@@ -388,8 +376,20 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Period>40@e@NYT19980212.0019@colh1995</Period>
-			<Repeating-Interval></Repeating-Interval>
+			<Period></Period>
+			<Repeating-Interval>43@e@NYT19980212.0019@colh1995</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>43@e@NYT19980212.0019@colh1995</id>
+		<span>1315,1320</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Year</Type>
+			<Number>41@e@NYT19980212.0019@colh1995</Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 

@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>16:34:55 18-10-2015</savetime>
+  <savetime>13:29:51 19-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -26,6 +26,7 @@
 		<properties>
 			<Value>52</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -40,6 +41,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>14@e@NYT19980402.0453@colh1995</Time-Zone>
 			<Sub-Interval>15@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -52,6 +54,7 @@
 		<properties>
 			<Value>2</Value>
 			<Sub-Interval>16@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -64,6 +67,7 @@
 		<properties>
 			<Type>April</Type>
 			<Sub-Interval>17@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -88,6 +92,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -100,6 +105,7 @@
 		<properties>
 			<Value>52</Value>
 			<Sub-Interval>20@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -114,6 +120,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>21@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -126,6 +133,7 @@
 		<properties>
 			<Value>2</Value>
 			<Sub-Interval>22@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -138,6 +146,7 @@
 		<properties>
 			<Type>April</Type>
 			<Sub-Interval>23@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -161,6 +170,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -173,6 +183,7 @@
 		<properties>
 			<Value>52</Value>
 			<Sub-Interval>26@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -187,6 +198,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>27@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -199,6 +211,7 @@
 		<properties>
 			<Value>2</Value>
 			<Sub-Interval>28@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -211,6 +224,7 @@
 		<properties>
 			<Type>April</Type>
 			<Sub-Interval>29@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -235,6 +249,7 @@
 		<properties>
 			<Value>2</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -247,6 +262,7 @@
 		<properties>
 			<Type>April</Type>
 			<Sub-Interval>32@e@NYT19980402.0453@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -271,6 +287,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -281,23 +298,11 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Newswire</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>35@e@NYT19980402.0453@colh1995</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>37@e@NYT19980402.0453@colh1995</id>
-		<span>479,484</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Years</Type>
-			<Number>38@e@NYT19980402.0453@colh1995</Number>
-			<Modifier></Modifier>
 		</properties>
 	</entity>
 
@@ -320,20 +325,8 @@
 			<Semantics>Standard</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Period>37@e@NYT19980402.0453@colh1995</Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>40@e@NYT19980402.0453@colh1995</id>
-		<span>910,916</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Months</Type>
-			<Number></Number>
-			<Modifier></Modifier>
+			<Period></Period>
+			<Repeating-Interval>50@e@NYT19980402.0453@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -346,8 +339,8 @@
 			<Semantics>Standard</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Period>40@e@NYT19980402.0453@colh1995</Period>
-			<Repeating-Interval></Repeating-Interval>
+			<Period></Period>
+			<Repeating-Interval>51@e@NYT19980402.0453@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -384,6 +377,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -403,18 +397,6 @@
 	</entity>
 
 	<entity>
-		<id>48@e@NYT19980402.0453@colh1995</id>
-		<span>1141,1145</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Years</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>49@e@NYT19980402.0453@colh1995</id>
 		<span>1136,1140</span>
 		<type>Last</type>
@@ -423,8 +405,44 @@
 			<Semantics>Standard</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Period>48@e@NYT19980402.0453@colh1995</Period>
-			<Repeating-Interval></Repeating-Interval>
+			<Period></Period>
+			<Repeating-Interval>52@e@NYT19980402.0453@colh1995</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>50@e@NYT19980402.0453@colh1995</id>
+		<span>479,484</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Year</Type>
+			<Number>38@e@NYT19980402.0453@colh1995</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>51@e@NYT19980402.0453@colh1995</id>
+		<span>910,916</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Month</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>52@e@NYT19980402.0453@colh1995</id>
+		<span>1141,1145</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Year</Type>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 

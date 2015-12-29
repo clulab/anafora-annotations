@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>12:41:58 10-11-2015</savetime>
+  <savetime>13:15:26 19-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -268,18 +268,6 @@
 	</entity>
 
 	<entity>
-		<id>56@e@APW19980322.0749@colh1995</id>
-		<span>223,226</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Days</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>57@e@APW19980322.0749@colh1995</id>
 		<span>223,226</span>
 		<type>Last</type>
@@ -288,7 +276,7 @@
 			<Semantics>Standard</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval></Interval>
-			<Period>56@e@APW19980322.0749@colh1995</Period>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -312,23 +300,11 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
-			<Interval-Type>Link</Interval-Type>
+			<Semantics>Newswire</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>59@e@APW19980322.0749@colh1995</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>62@e@APW19980322.0749@colh1995</id>
-		<span>593,596</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Days</Type>
-			<Number></Number>
-			<Modifier></Modifier>
 		</properties>
 	</entity>
 
@@ -341,7 +317,7 @@
 			<Semantics>Standard</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval></Interval>
-			<Period>62@e@APW19980322.0749@colh1995</Period>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -356,20 +332,6 @@
 			<Sub-Interval></Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>68@e@APW19980322.0749@colh1995</id>
-		<span>988,994</span>
-		<type>Last</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Semantics>Standard</Semantics>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval>67@e@APW19980322.0749@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -432,7 +394,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Newswire</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -608,7 +570,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Newswire</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -786,7 +748,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Newswire</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -824,9 +786,9 @@
 		<properties>
 			<Semantics>Standard</Semantics>
 			<Interval-Type>Link</Interval-Type>
-			<Interval></Interval>
+			<Interval>112@e@APW19980322.0749@colh1995</Interval>
 			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
+			<Repeating-Interval>107@e@APW19980322.0749@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -836,6 +798,80 @@
 		<type>Event</type>
 		<parentsType>Other</parentsType>
 		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>113@e@APW19980322.0749@colh1995</id>
+		<span>223,226</span>
+		<type>Part-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Evening</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>114@e@APW19980322.0749@colh1995</id>
+		<span>223,226</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>113@e@APW19980322.0749@colh1995</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>115@e@APW19980322.0749@colh1995</id>
+		<span>593,596</span>
+		<type>Part-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Evening</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>116@e@APW19980322.0749@colh1995</id>
+		<span>593,596</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>117@e@APW19980322.0749@colh1995</Interval>
+			<Period></Period>
+			<Repeating-Interval>115@e@APW19980322.0749@colh1995</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>117@e@APW19980322.0749@colh1995</id>
+		<span>604,610</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>118@e@APW19980322.0749@colh1995</id>
+		<span>988,994</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>67@e@APW19980322.0749@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
 

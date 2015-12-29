@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>17:16:05 11-10-2015</savetime>
+  <savetime>13:19:37 19-11-2015</savetime>
   <progress>completed</progress>
 </info>
 
@@ -17,6 +17,7 @@
 		<properties>
 			<Value>22</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -29,6 +30,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>10@e@CNN19980222.1130.0084@colh1995</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -52,6 +54,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -64,6 +67,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>13@e@CNN19980222.1130.0084@colh1995</Repeating-Interval>
 		</properties>
 	</entity>
@@ -75,6 +79,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Afternoon</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -87,19 +92,8 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>15@e@CNN19980222.1130.0084@colh1995</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>17@e@CNN19980222.1130.0084@colh1995</id>
-		<span>600,604</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Days</Type>
-			<Number>18@e@CNN19980222.1130.0084@colh1995</Number>
-			<Modifier>22@e@CNN19980222.1130.0084@colh1995</Modifier>
 		</properties>
 	</entity>
 
@@ -142,6 +136,18 @@
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Less-Than</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@CNN19980222.1130.0084@colh1995</id>
+		<span>600,604</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number>18@e@CNN19980222.1130.0084@colh1995</Number>
+			<Modifier>22@e@CNN19980222.1130.0084@colh1995</Modifier>
 		</properties>
 	</entity>
 
