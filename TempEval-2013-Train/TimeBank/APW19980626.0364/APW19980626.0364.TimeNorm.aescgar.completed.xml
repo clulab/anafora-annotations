@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:35:26 05-10-2015</savetime>
+  <savetime>22:12:47 11-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -26,6 +26,7 @@
 		<properties>
 			<Value>7</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -40,6 +41,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>10@e@APW19980626.0364@aescgar</Time-Zone>
 			<Sub-Interval>11@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -52,6 +54,7 @@
 		<properties>
 			<Value>26</Value>
 			<Sub-Interval>12@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -64,6 +67,7 @@
 		<properties>
 			<Type>June</Type>
 			<Sub-Interval>13@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -89,6 +93,7 @@
 		<properties>
 			<Type>September</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -101,6 +106,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>17@e@APW19980626.0364@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -112,7 +118,7 @@
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Semantics>Standard</Semantics>
-			<Interval-Type></Interval-Type>
+			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
@@ -139,6 +145,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -151,6 +158,7 @@
 		<properties>
 			<Value>26</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -163,6 +171,7 @@
 		<properties>
 			<Type>June</Type>
 			<Sub-Interval>23@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -174,6 +183,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -186,6 +196,7 @@
 		<properties>
 			<Value>7</Value>
 			<Sub-Interval>25@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -200,6 +211,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>26@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -212,6 +224,7 @@
 		<properties>
 			<Value>26</Value>
 			<Sub-Interval>27@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -224,6 +237,7 @@
 		<properties>
 			<Type>June</Type>
 			<Sub-Interval>28@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -247,6 +261,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -259,6 +274,7 @@
 		<properties>
 			<Value>7</Value>
 			<Sub-Interval>31@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -273,6 +289,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>32@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -285,6 +302,7 @@
 		<properties>
 			<Value>26</Value>
 			<Sub-Interval>33@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -297,6 +315,7 @@
 		<properties>
 			<Type>June</Type>
 			<Sub-Interval>34@e@APW19980626.0364@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>

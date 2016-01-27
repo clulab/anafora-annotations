@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:59:07 05-10-2015</savetime>
+  <savetime>10:14:32 26-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -16,6 +16,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -50,6 +51,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -62,6 +64,7 @@
 		<properties>
 			<Value>57</Value>
 			<Sub-Interval>37@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -76,6 +79,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>38@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -88,6 +92,7 @@
 		<properties>
 			<Value>22</Value>
 			<Sub-Interval>39@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -100,6 +105,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>40@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -124,6 +130,7 @@
 		<properties>
 			<Value>22</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -136,6 +143,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>43@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -147,6 +155,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -159,6 +168,7 @@
 		<properties>
 			<Value>57</Value>
 			<Sub-Interval>45@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -173,6 +183,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>46@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -185,6 +196,7 @@
 		<properties>
 			<Value>22</Value>
 			<Sub-Interval>47@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -197,6 +209,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>48@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -230,6 +243,7 @@
 		<properties>
 			<Value>57</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -244,6 +258,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>51@e@APW19980322.0749@aescgar</Time-Zone>
 			<Sub-Interval>52@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -256,6 +271,7 @@
 		<properties>
 			<Value>22</Value>
 			<Sub-Interval>53@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -268,6 +284,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>54@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -293,6 +310,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -318,6 +336,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -362,6 +381,7 @@
 		<properties>
 			<Type>Monday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -387,6 +407,7 @@
 		<properties>
 			<Value>20</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -399,6 +420,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>66@e@APW19980322.0749@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -425,6 +447,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -451,6 +474,7 @@
 		<properties>
 			<Type>May</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -545,6 +569,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -571,6 +596,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -597,6 +623,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -671,6 +698,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -696,6 +724,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Year</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -726,6 +755,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Summer</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -752,6 +782,7 @@
 		<properties>
 			<Type>July</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -763,6 +794,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Summer</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -775,6 +807,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>100@e@APW19980322.0749@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -786,6 +819,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Summer</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -798,6 +832,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>102@e@APW19980322.0749@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -810,6 +845,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -825,6 +861,40 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>104@e@APW19980322.0749@aescgar</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>106@e@APW19980322.0749@aescgar</id>
+		<span>3918,3925</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>107@e@APW19980322.0749@aescgar</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>107@e@APW19980322.0749@aescgar</id>
+		<span>3750,3759</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>108@e@APW19980322.0749@aescgar</id>
+		<span>3918,3925</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>106@e@APW19980322.0749@aescgar</Intervals>
+			<Intervals>105@e@APW19980322.0749@aescgar</Intervals>
+			<Repeating-Intervals></Repeating-Intervals>
 		</properties>
 	</entity>
 

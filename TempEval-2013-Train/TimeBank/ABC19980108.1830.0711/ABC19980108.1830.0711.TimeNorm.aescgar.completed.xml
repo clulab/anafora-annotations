@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>11:57:06 15-11-2015</savetime>
+  <savetime>14:43:49 20-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -217,7 +217,7 @@
 		<properties>
 			<Type>Week</Type>
 			<Number></Number>
-			<Modifier></Modifier>
+			<Modifier>61@e@ABC19980108.1830.0711@aescgar</Modifier>
 		</properties>
 	</entity>
 
@@ -338,6 +338,16 @@
 		<type>Event</type>
 		<parentsType>Other</parentsType>
 		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>61@e@ABC19980108.1830.0711@aescgar</id>
+		<span>131,140</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Fiscal</Type>
 		</properties>
 	</entity>
 

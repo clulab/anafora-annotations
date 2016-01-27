@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>17:59:37 23-11-2015</savetime>
+  <savetime>10:02:05 26-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -122,8 +122,8 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>26@e@CNN19980222.1130.0084@aescgar</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
@@ -161,6 +161,27 @@
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Less-Than</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>26@e@CNN19980222.1130.0084@aescgar</id>
+		<span>345,352</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@CNN19980222.1130.0084@aescgar</id>
+		<span>473,478</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>20@e@CNN19980222.1130.0084@aescgar</Intervals>
+			<Intervals>23@e@CNN19980222.1130.0084@aescgar</Intervals>
+			<Repeating-Intervals></Repeating-Intervals>
 		</properties>
 	</entity>
 

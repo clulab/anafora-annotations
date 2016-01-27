@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>12:18:47 05-10-2015</savetime>
+  <savetime>14:47:11 20-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -38,6 +38,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Evening</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -50,6 +51,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>12@e@ABC19980120.1830.0957@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -72,6 +74,44 @@
 		<properties>
 			<Type>Unknown</Type>
 			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@ABC19980120.1830.0957@aescgar</id>
+		<span>31,33</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>20</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@ABC19980120.1830.0957@aescgar</id>
+		<span>29,31</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>January</Type>
+			<Sub-Interval>16@e@ABC19980120.1830.0957@aescgar</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@ABC19980120.1830.0957@aescgar</id>
+		<span>25,29</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>1998</Value>
+			<Sub-Interval>17@e@ABC19980120.1830.0957@aescgar</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>

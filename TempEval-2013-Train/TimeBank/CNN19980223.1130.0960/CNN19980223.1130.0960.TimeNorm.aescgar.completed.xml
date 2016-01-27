@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>18:05:42 23-11-2015</savetime>
+  <savetime>10:03:51 26-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -193,6 +193,19 @@
 			<Interval></Interval>
 			<Period>27@e@CNN19980223.1130.0960@aescgar</Period>
 			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>31@e@CNN19980223.1130.0960@aescgar</id>
+		<span>393,397</span>
+		<type>Between</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Start-Interval-Type>Link</Start-Interval-Type>
+			<Start-Interval>20@e@CNN19980223.1130.0960@aescgar</Start-Interval>
+			<End-Interval-Type>DocTime</End-Interval-Type>
+			<End-Interval></End-Interval>
 		</properties>
 	</entity>
 

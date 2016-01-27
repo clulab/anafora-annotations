@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:30:44 05-10-2015</savetime>
+  <savetime>11:09:05 12-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -17,6 +17,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -43,6 +44,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -67,6 +69,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>14@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -79,6 +82,7 @@
 		<properties>
 			<Value>27</Value>
 			<Sub-Interval>16@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -105,6 +109,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>18@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -117,6 +122,7 @@
 		<properties>
 			<Value>56</Value>
 			<Sub-Interval>19@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -128,6 +134,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -139,6 +146,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -151,6 +159,7 @@
 		<properties>
 			<Value>56</Value>
 			<Sub-Interval>20@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -165,6 +174,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>22@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -186,6 +196,7 @@
 		<properties>
 			<Value>56</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -200,6 +211,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>24@e@APW19980227.0468@aescgar</Time-Zone>
 			<Sub-Interval>26@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -212,6 +224,7 @@
 		<properties>
 			<Value>27</Value>
 			<Sub-Interval>27@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -224,6 +237,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>28@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -249,6 +263,7 @@
 		<properties>
 			<Value>27</Value>
 			<Sub-Interval>23@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -261,6 +276,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>31@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -285,6 +301,7 @@
 		<properties>
 			<Value>27</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -297,7 +314,30 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval>34@e@APW19980227.0468@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>36@e@APW19980227.0468@aescgar</id>
+		<span>881,888</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>37@e@APW19980227.0468@aescgar</id>
+		<span>872,877</span>
+		<type>Between</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Start-Interval-Type>Link</Start-Interval-Type>
+			<Start-Interval>36@e@APW19980227.0468@aescgar</Start-Interval>
+			<End-Interval-Type>DocTime</End-Interval-Type>
+			<End-Interval></End-Interval>
 		</properties>
 	</entity>
 

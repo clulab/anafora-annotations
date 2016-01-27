@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>12:20:27 17-08-2015</savetime>
+  <savetime>09:40:02 26-00-2016</savetime>
   <progress>in-progress</progress>
 </info>
 
@@ -16,6 +16,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Night</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -27,6 +28,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -39,6 +41,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>23@e@ABC19980114.1830.0611@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -111,13 +114,23 @@
 	</entity>
 
 	<entity>
-		<id>36@e@ABC19980114.1830.0611@aescgar</id>
-		<span>173,178</span>
+		<id>37@e@ABC19980114.1830.0611@aescgar</id>
+		<span>208,212</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>38@e@ABC19980114.1830.0611@aescgar</id>
+		<span>169,172</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>Unknown</Interval-Type>
-			<Interval></Interval>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>37@e@ABC19980114.1830.0611@aescgar</Interval>
+			<Period></Period>
 			<Repeating-Interval>15@e@ABC19980114.1830.0611@aescgar</Repeating-Interval>
 		</properties>
 	</entity>

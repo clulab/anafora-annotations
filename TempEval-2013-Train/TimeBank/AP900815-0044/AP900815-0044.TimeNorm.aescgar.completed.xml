@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:25:59 05-10-2015</savetime>
+  <savetime>14:56:14 20-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -17,6 +17,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>48@e@AP900815-0044@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -28,7 +29,8 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>15</Value>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>51@e@AP900815-0044@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -42,7 +44,7 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Value>90</Value>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>47@e@AP900815-0044@aescgar</Sub-Interval>
 		</properties>
 	</entity>
 
@@ -56,6 +58,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>54@e@AP900815-0044@aescgar</Time-Zone>
 			<Sub-Interval>53@e@AP900815-0044@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -68,6 +71,7 @@
 		<properties>
 			<Value>37</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -89,6 +93,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>56@e@AP900815-0044@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -100,7 +105,8 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>15</Value>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>58@e@AP900815-0044@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -114,7 +120,7 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Value>90</Value>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>55@e@AP900815-0044@aescgar</Sub-Interval>
 		</properties>
 	</entity>
 
@@ -128,6 +134,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>59@e@AP900815-0044@aescgar</Time-Zone>
 			<Sub-Interval>60@e@AP900815-0044@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -149,6 +156,7 @@
 		<properties>
 			<Value>37</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -161,6 +169,7 @@
 		<properties>
 			<Value>15</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -173,32 +182,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>61@e@AP900815-0044@aescgar</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>63@e@AP900815-0044@aescgar</id>
-		<span>110,112</span>
-		<type>Hour-Of-Day</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>13</Value>
-			<AMPM-Of-Day></AMPM-Of-Day>
-			<Time-Zone></Time-Zone>
-			<Sub-Interval></Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>64@e@AP900815-0044@aescgar</id>
-		<span>112,114</span>
-		<type>Minute-Of-Hour</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>34</Value>
-			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -211,6 +195,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -237,6 +222,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -263,6 +249,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -309,6 +296,7 @@
 		<properties>
 			<Value>2</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -321,6 +309,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>81@e@AP900815-0044@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -355,6 +344,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -381,6 +371,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -407,6 +398,7 @@
 		<properties>
 			<Value>6</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -419,6 +411,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>95@e@AP900815-0044@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -430,6 +423,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -442,6 +436,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>97@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -453,6 +448,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -465,6 +461,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>99@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -476,6 +473,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -488,6 +486,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>101@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -500,6 +499,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -511,6 +511,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -523,6 +524,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>104@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -534,6 +536,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -546,6 +549,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>106@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -557,6 +561,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -569,6 +574,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>108@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -581,6 +587,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -593,6 +600,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -618,6 +626,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -630,6 +639,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>114@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -642,6 +652,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -668,6 +679,7 @@
 		<properties>
 			<Type>Monday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -694,6 +706,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -718,6 +731,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -730,19 +744,8 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>124@e@AP900815-0044@aescgar</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>126@e@AP900815-0044@aescgar</id>
-		<span>6380,6386</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Unknown</Type>
-			<Number></Number>
-			<Modifier></Modifier>
 		</properties>
 	</entity>
 
@@ -754,7 +757,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Period>126@e@AP900815-0044@aescgar</Period>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -767,6 +770,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -793,6 +797,7 @@
 		<properties>
 			<Type>Tuesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -819,6 +824,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -830,6 +836,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -842,6 +849,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>135@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -854,6 +862,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -865,16 +874,8 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>144@e@AP900815-0044@aescgar</id>
-		<span>7738,7744</span>
-		<type>NotNormalizable</type>
-		<parentsType>Other</parentsType>
-		<properties>
 		</properties>
 	</entity>
 
@@ -928,6 +929,50 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>82@e@AP900815-0044@aescgar</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>150@e@AP900815-0044@aescgar</id>
+		<span>6380,6386</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>151@e@AP900815-0044@aescgar</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>151@e@AP900815-0044@aescgar</id>
+		<span>6235,6239</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>153@e@AP900815-0044@aescgar</id>
+		<span>7754,7767</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>154@e@AP900815-0044@aescgar</id>
+		<span>7738,7744</span>
+		<type>Nth</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>153@e@AP900815-0044@aescgar</Interval>
+			<Value>8</Value>
+			<Repeating-Interval>142@e@AP900815-0044@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
 

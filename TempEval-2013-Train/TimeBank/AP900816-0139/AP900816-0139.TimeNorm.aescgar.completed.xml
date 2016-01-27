@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>17:25:48 11-10-2015</savetime>
+  <savetime>14:52:31 20-00-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -17,6 +17,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>30@e@AP900816-0139@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -28,7 +29,8 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>16</Value>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>32@e@AP900816-0139@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -56,6 +58,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>33@e@AP900816-0139@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -68,6 +71,7 @@
 		<properties>
 			<Value>41</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -89,6 +93,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -159,6 +164,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -185,6 +191,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>47@e@AP900816-0139@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -197,6 +204,7 @@
 		<properties>
 			<Value>2</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -209,6 +217,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -247,6 +256,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -259,6 +269,7 @@
 		<properties>
 			<Interval-Type>Unknown</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -292,6 +303,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -304,6 +316,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval>61@e@AP900816-0139@aescgar</Repeating-Interval>
 		</properties>
 	</entity>
@@ -316,6 +329,7 @@
 		<properties>
 			<Type>Wednesday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -342,6 +356,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -368,6 +383,7 @@
 		<properties>
 			<Type>September</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -393,6 +409,7 @@
 		<properties>
 			<Type>Thursday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -418,7 +435,8 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>16</Value>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>74@e@AP900816-0139@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -431,6 +449,7 @@
 		<properties>
 			<Type>August</Type>
 			<Sub-Interval>71@e@AP900816-0139@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -458,6 +477,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>78@e@AP900816-0139@aescgar</Time-Zone>
 			<Sub-Interval>77@e@AP900816-0139@aescgar</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -470,6 +490,7 @@
 		<properties>
 			<Value>41</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -503,6 +524,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
