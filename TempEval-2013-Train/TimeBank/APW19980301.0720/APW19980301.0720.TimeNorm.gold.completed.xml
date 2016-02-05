@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>16:36:50 02-11-2015</savetime>
+  <savetime>20:45:24 03-01-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -17,6 +17,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>84@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -29,6 +30,7 @@
 		<properties>
 			<Value>1</Value>
 			<Sub-Interval>86@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -55,6 +57,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>87@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -67,6 +70,7 @@
 		<properties>
 			<Value>11</Value>
 			<Sub-Interval>88@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -78,6 +82,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -90,6 +95,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>90@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -102,6 +108,7 @@
 		<properties>
 			<Value>1</Value>
 			<Sub-Interval>92@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -128,6 +135,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
 			<Sub-Interval>93@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -140,6 +148,7 @@
 		<properties>
 			<Value>11</Value>
 			<Sub-Interval>94@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -151,6 +160,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>0</Value>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -177,6 +187,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -203,6 +214,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -241,6 +253,7 @@
 		<properties>
 			<Type>Friday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -253,6 +266,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -278,6 +292,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -341,6 +356,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -366,6 +382,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Year</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -392,6 +409,7 @@
 		<properties>
 			<Type>February</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -404,6 +422,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -443,6 +462,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -468,6 +488,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Week</Type>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -480,6 +501,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -490,7 +512,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Newswire</Semantics>
+			<Semantics>Standard</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -573,6 +595,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>129@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -585,6 +608,7 @@
 		<properties>
 			<Value>1</Value>
 			<Sub-Interval>131@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -597,7 +621,7 @@
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Value>98</Value>
+			<Value>2</Value>
 			<Sub-Interval>128@e@APW19980301.0720@gold</Sub-Interval>
 		</properties>
 	</entity>
@@ -612,6 +636,7 @@
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone>133@e@APW19980301.0720@gold</Time-Zone>
 			<Sub-Interval>132@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -624,6 +649,7 @@
 		<properties>
 			<Value>11</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -657,6 +683,7 @@
 		<properties>
 			<Value>1</Value>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -669,6 +696,7 @@
 		<properties>
 			<Type>March</Type>
 			<Sub-Interval>135@e@APW19980301.0720@gold</Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -681,6 +709,7 @@
 		<properties>
 			<Type>Sunday</Type>
 			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -691,7 +720,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Newswire</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>

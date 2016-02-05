@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>12:01:06 21-11-2015</savetime>
+  <savetime>13:01:19 03-01-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -10,54 +10,45 @@
 
 <annotations>
 	<entity>
-		<id>80@e@APW19980213.1310@gold</id>
+		<id>81@e@APW19980213.1310@gold</id>
 		<span>20,22</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>February</Type>
-			<Sub-Interval>81@e@APW19980213.1310@gold</Sub-Interval>
+			<Sub-Interval>82@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>81@e@APW19980213.1310@gold</id>
+		<id>82@e@APW19980213.1310@gold</id>
 		<span>23,25</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>13</Value>
-			<Sub-Interval>83@e@APW19980213.1310@gold</Sub-Interval>
+			<Sub-Interval>84@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>82@e@APW19980213.1310@gold</id>
+		<id>83@e@APW19980213.1310@gold</id>
 		<span>26,30</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>1998</Value>
-			<Sub-Interval>80@e@APW19980213.1310@gold</Sub-Interval>
+			<Sub-Interval>81@e@APW19980213.1310@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>83@e@APW19980213.1310@gold</id>
+		<id>84@e@APW19980213.1310@gold</id>
 		<span>31,33</span>
 		<type>Hour-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -65,33 +56,27 @@
 			<Value>14</Value>
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
-			<Sub-Interval>84@e@APW19980213.1310@gold</Sub-Interval>
+			<Sub-Interval>85@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>84@e@APW19980213.1310@gold</id>
+		<id>85@e@APW19980213.1310@gold</id>
 		<span>34,36</span>
 		<type>Minute-Of-Hour</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>26</Value>
-			<Sub-Interval>85@e@APW19980213.1310@gold</Sub-Interval>
+			<Sub-Interval>86@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>85@e@APW19980213.1310@gold</id>
+		<id>86@e@APW19980213.1310@gold</id>
 		<span>37,39</span>
 		<type>Second-Of-Minute</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -100,32 +85,16 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>86@e@APW19980213.1310@gold</id>
+		<id>87@e@APW19980213.1310@gold</id>
 		<span>70,72</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>February</Type>
-			<Sub-Interval>87@e@APW19980213.1310@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>87@e@APW19980213.1310@gold</id>
-		<span>73,75</span>
-		<type>Day-Of-Month</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>13</Value>
-			<Sub-Interval>89@e@APW19980213.1310@gold</Sub-Interval>
+			<Sub-Interval>88@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
@@ -133,25 +102,11 @@
 
 	<entity>
 		<id>88@e@APW19980213.1310@gold</id>
-		<span>76,80</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>1998</Value>
-			<Sub-Interval>86@e@APW19980213.1310@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>89@e@APW19980213.1310@gold</id>
-		<span>81,83</span>
-		<type>Hour-Of-Day</type>
+		<span>73,75</span>
+		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Value>14</Value>
-			<AMPM-Of-Day></AMPM-Of-Day>
-			<Time-Zone></Time-Zone>
+			<Value>13</Value>
 			<Sub-Interval>90@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
@@ -159,12 +114,26 @@
 	</entity>
 
 	<entity>
+		<id>89@e@APW19980213.1310@gold</id>
+		<span>76,80</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>1998</Value>
+			<Sub-Interval>87@e@APW19980213.1310@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
 		<id>90@e@APW19980213.1310@gold</id>
-		<span>84,86</span>
-		<type>Minute-Of-Hour</type>
+		<span>81,83</span>
+		<type>Hour-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Value>26</Value>
+			<Value>14</Value>
+			<AMPM-Of-Day></AMPM-Of-Day>
+			<Time-Zone></Time-Zone>
 			<Sub-Interval>91@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
@@ -173,6 +142,19 @@
 
 	<entity>
 		<id>91@e@APW19980213.1310@gold</id>
+		<span>84,86</span>
+		<type>Minute-Of-Hour</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>26</Value>
+			<Sub-Interval>92@e@APW19980213.1310@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>92@e@APW19980213.1310@gold</id>
 		<span>87,89</span>
 		<type>Second-Of-Minute</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -184,20 +166,20 @@
 	</entity>
 
 	<entity>
-		<id>92@e@APW19980213.1310@gold</id>
+		<id>93@e@APW19980213.1310@gold</id>
 		<span>157,159</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>February</Type>
-			<Sub-Interval>93@e@APW19980213.1310@gold</Sub-Interval>
+			<Sub-Interval>94@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>93@e@APW19980213.1310@gold</id>
+		<id>94@e@APW19980213.1310@gold</id>
 		<span>160,162</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -210,7 +192,7 @@
 	</entity>
 
 	<entity>
-		<id>94@e@APW19980213.1310@gold</id>
+		<id>95@e@APW19980213.1310@gold</id>
 		<span>515,518</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -220,26 +202,13 @@
 	</entity>
 
 	<entity>
-		<id>95@e@APW19980213.1310@gold</id>
+		<id>96@e@APW19980213.1310@gold</id>
 		<span>519,524</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Years</Type>
-			<Number>94@e@APW19980213.1310@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>96@e@APW19980213.1310@gold</id>
-		<span>614,620</span>
-		<type>Day-Of-Week</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Friday</Type>
-			<Sub-Interval></Sub-Interval>
-			<Number></Number>
+			<Number>95@e@APW19980213.1310@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -254,26 +223,13 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>96@e@APW19980213.1310@gold</Repeating-Interval>
+			<Repeating-Interval>98@e@APW19980213.1310@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>98@e@APW19980213.1310@gold</id>
-		<span>779,783</span>
-		<type>Next</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval>114@e@APW19980213.1310@gold</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>99@e@APW19980213.1310@gold</id>
-		<span>1472,1478</span>
+		<span>614,620</span>
 		<type>Day-Of-Week</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
@@ -281,6 +237,19 @@
 			<Sub-Interval></Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>99@e@APW19980213.1310@gold</id>
+		<span>779,783</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>119@e@APW19980213.1310@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -294,12 +263,25 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>99@e@APW19980213.1310@gold</Repeating-Interval>
+			<Repeating-Interval>101@e@APW19980213.1310@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>101@e@APW19980213.1310@gold</id>
+		<span>1472,1478</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Friday</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>102@e@APW19980213.1310@gold</id>
 		<span>1687,1691</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
@@ -311,19 +293,19 @@
 	</entity>
 
 	<entity>
-		<id>102@e@APW19980213.1310@gold</id>
+		<id>103@e@APW19980213.1310@gold</id>
 		<span>2479,2484</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Years</Type>
-			<Number></Number>
+			<Number>120@e@APW19980213.1310@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>103@e@APW19980213.1310@gold</id>
+		<id>104@e@APW19980213.1310@gold</id>
 		<span>2509,2513</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
@@ -331,25 +313,37 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>116@e@APW19980213.1310@gold</Repeating-Interval>
+			<Repeating-Interval>105@e@APW19980213.1310@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>104@e@APW19980213.1310@gold</id>
+		<id>105@e@APW19980213.1310@gold</id>
+		<span>2514,2518</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Year</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>106@e@APW19980213.1310@gold</id>
 		<span>2591,2596</span>
 		<type>Between</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
-			<Start-Interval>105@e@APW19980213.1310@gold</Start-Interval>
+			<Start-Interval>107@e@APW19980213.1310@gold</Start-Interval>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>105@e@APW19980213.1310@gold</id>
+		<id>107@e@APW19980213.1310@gold</id>
 		<span>2597,2601</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
@@ -361,7 +355,32 @@
 	</entity>
 
 	<entity>
-		<id>106@e@APW19980213.1310@gold</id>
+		<id>108@e@APW19980213.1310@gold</id>
+		<span>2965,2969</span>
+		<type>Nth</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>20</Value>
+			<Repeating-Interval>109@e@APW19980213.1310@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>109@e@APW19980213.1310@gold</id>
+		<span>2970,2977</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Century</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>110@e@APW19980213.1310@gold</id>
 		<span>3107,3114</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -371,19 +390,19 @@
 	</entity>
 
 	<entity>
-		<id>107@e@APW19980213.1310@gold</id>
+		<id>111@e@APW19980213.1310@gold</id>
 		<span>3115,3120</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Years</Type>
-			<Number>106@e@APW19980213.1310@gold</Number>
-			<Modifier>117@e@APW19980213.1310@gold</Modifier>
+			<Number>110@e@APW19980213.1310@gold</Number>
+			<Modifier>121@e@APW19980213.1310@gold</Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>108@e@APW19980213.1310@gold</id>
+		<id>112@e@APW19980213.1310@gold</id>
 		<span>3470,3474</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
@@ -395,35 +414,61 @@
 	</entity>
 
 	<entity>
-		<id>109@e@APW19980213.1310@gold</id>
-		<span>3884,3886</span>
-		<type>Day-Of-Month</type>
+		<id>113@e@APW19980213.1310@gold</id>
+		<span>3881,3883</span>
+		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Value>13</Value>
-			<Sub-Interval>110@e@APW19980213.1310@gold</Sub-Interval>
+			<Type>February</Type>
+			<Sub-Interval>114@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>110@e@APW19980213.1310@gold</id>
+		<id>114@e@APW19980213.1310@gold</id>
+		<span>3884,3886</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>13</Value>
+			<Sub-Interval>116@e@APW19980213.1310@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>115@e@APW19980213.1310@gold</id>
+		<span>3887,3889</span>
+		<type>Two-Digit-Year</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>98</Value>
+			<Sub-Interval>113@e@APW19980213.1310@gold</Sub-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>116@e@APW19980213.1310@gold</id>
 		<span>3890,3892</span>
 		<type>Hour-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>14</Value>
 			<AMPM-Of-Day></AMPM-Of-Day>
-			<Time-Zone>112@e@APW19980213.1310@gold</Time-Zone>
-			<Sub-Interval>111@e@APW19980213.1310@gold</Sub-Interval>
+			<Time-Zone>118@e@APW19980213.1310@gold</Time-Zone>
+			<Sub-Interval>117@e@APW19980213.1310@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>111@e@APW19980213.1310@gold</id>
+		<id>117@e@APW19980213.1310@gold</id>
 		<span>3892,3894</span>
 		<type>Minute-Of-Hour</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -436,7 +481,7 @@
 	</entity>
 
 	<entity>
-		<id>112@e@APW19980213.1310@gold</id>
+		<id>118@e@APW19980213.1310@gold</id>
 		<span>3894,3897</span>
 		<type>Time-Zone</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -445,20 +490,7 @@
 	</entity>
 
 	<entity>
-		<id>113@e@APW19980213.1310@gold</id>
-		<span>2485,2488</span>
-		<type>Before</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period>102@e@APW19980213.1310@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>114@e@APW19980213.1310@gold</id>
+		<id>119@e@APW19980213.1310@gold</id>
 		<span>784,788</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -470,7 +502,7 @@
 	</entity>
 
 	<entity>
-		<id>115@e@APW19980213.1310@gold</id>
+		<id>120@e@APW19980213.1310@gold</id>
 		<span>2471,2478</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -480,19 +512,7 @@
 	</entity>
 
 	<entity>
-		<id>116@e@APW19980213.1310@gold</id>
-		<span>2514,2518</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Year</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>117@e@APW19980213.1310@gold</id>
+		<id>121@e@APW19980213.1310@gold</id>
 		<span>3098,3104</span>
 		<type>Modifier</type>
 		<parentsType>Other</parentsType>
@@ -502,72 +522,25 @@
 	</entity>
 
 	<entity>
-		<id>118@e@APW19980213.1310@gold</id>
-		<span>3881,3883</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>February</Type>
-			<Sub-Interval>109@e@APW19980213.1310@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>119@e@APW19980213.1310@gold</id>
-		<span>3887,3889</span>
-		<type>Two-Digit-Year</type>
+		<id>122@e@APW19980213.1310@gold</id>
+		<span>2485,2488</span>
+		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Value>98</Value>
-			<Sub-Interval>118@e@APW19980213.1310@gold</Sub-Interval>
+			<Period>103@e@APW19980213.1310@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
 		</properties>
-	</entity>
-
-	<entity>
-		<id>120@e@APW19980213.1310@gold</id>
-		<span>2970,2977</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Century</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>121@e@APW19980213.1310@gold</id>
-		<span>2965,2969</span>
-		<type>Nth</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Value>20</Value>
-			<Repeating-Interval>120@e@APW19980213.1310@gold</Repeating-Interval>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
 		<id>123@e@APW19980213.1310@gold</id>
-		<span>816,821</span>
-		<type>Event</type>
+		<span>1709,1726</span>
+		<type>NotNormalizable</type>
 		<parentsType>Other</parentsType>
 		<properties>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 </annotations>
