@@ -56,30 +56,6 @@
 	</entity>
 
 	<entity>
-		<id>43@e@ABC19980114.1830.0611@gold</id>
-		<span>575,581</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Minutes</Type>
-			<Number>47@e@ABC19980114.1830.0611@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>45@e@ABC19980114.1830.0611@gold</id>
-		<span>575,581</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Minutes</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>45@e@ABC19980114.1830.0611@gold</id>
 		<span>575,581</span>
 		<type>Period</type>
@@ -170,18 +146,6 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Night</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>45@e@ABC19980114.1830.0611@gold</id>
-		<span>575,581</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Minutes</Type>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
