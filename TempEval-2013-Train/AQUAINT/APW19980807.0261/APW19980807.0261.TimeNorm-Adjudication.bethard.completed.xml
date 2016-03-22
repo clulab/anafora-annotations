@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:01:24 01-02-2016</savetime>
+  <savetime>22:04:53 15-02-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -162,6 +162,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -248,9 +251,12 @@
 		<properties>
 			<Interval-Type>Unknown</Interval-Type>
 			<Interval></Interval>
-			<Period></Period>
+			<Period>42@e@APW19980807.0261@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>

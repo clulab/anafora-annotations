@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:30:26 01-02-2016</savetime>
+  <savetime>10:11:29 15-02-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -401,11 +401,14 @@
 		<type>This</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>119@e@APW19980818.0515@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -600,6 +603,46 @@
 		<parentsType>Other</parentsType>
 		<properties>
 		</properties>
+	</entity>
+
+	<entity>
+		<id>117@e@APW19980818.0515@gold</id>
+		<span>2535,2541</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>118@e@APW19980818.0515@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>118@e@APW19980818.0515@gold</id>
+		<span>2542,2549</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>119@e@APW19980818.0515@gold</id>
+		<span>4350,4354</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 </annotations>
