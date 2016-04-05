@@ -64,15 +64,20 @@
 		<entity>
 			<id>12@regex</id>
 			<type>PreAnnotation</type>
-			<span>2728,2733</span>
+			<span>2706,2713</span>
 		</entity>
 		<entity>
 			<id>13@regex</id>
 			<type>PreAnnotation</type>
-			<span>2872,2877</span>
+			<span>2728,2733</span>
 		</entity>
 		<entity>
 			<id>14@regex</id>
+			<type>PreAnnotation</type>
+			<span>2872,2877</span>
+		</entity>
+		<entity>
+			<id>15@regex</id>
 			<type>PreAnnotation</type>
 			<span>2892,2895</span>
 		</entity>

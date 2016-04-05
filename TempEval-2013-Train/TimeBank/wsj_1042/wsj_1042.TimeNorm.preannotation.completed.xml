@@ -34,10 +34,20 @@
 		<entity>
 			<id>6@regex</id>
 			<type>PreAnnotation</type>
-			<span>577,581</span>
+			<span>568,573</span>
 		</entity>
 		<entity>
 			<id>7@regex</id>
+			<type>PreAnnotation</type>
+			<span>577,581</span>
+		</entity>
+		<entity>
+			<id>8@regex</id>
+			<type>PreAnnotation</type>
+			<span>582,587</span>
+		</entity>
+		<entity>
+			<id>9@regex</id>
 			<type>PreAnnotation</type>
 			<span>600,604</span>
 		</entity>

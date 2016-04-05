@@ -49,80 +49,90 @@
 		<entity>
 			<id>9@regex</id>
 			<type>PreAnnotation</type>
-			<span>845,849</span>
+			<span>839,844</span>
 		</entity>
 		<entity>
 			<id>10@regex</id>
 			<type>PreAnnotation</type>
-			<span>981,985</span>
+			<span>845,849</span>
 		</entity>
 		<entity>
 			<id>11@regex</id>
 			<type>PreAnnotation</type>
-			<span>989,995</span>
+			<span>981,985</span>
 		</entity>
 		<entity>
 			<id>12@regex</id>
 			<type>PreAnnotation</type>
-			<span>1596,1600</span>
+			<span>989,995</span>
 		</entity>
 		<entity>
 			<id>13@regex</id>
 			<type>PreAnnotation</type>
-			<span>1604,1609</span>
+			<span>1596,1600</span>
 		</entity>
 		<entity>
 			<id>14@regex</id>
 			<type>PreAnnotation</type>
-			<span>1671,1675</span>
+			<span>1604,1609</span>
 		</entity>
 		<entity>
 			<id>15@regex</id>
 			<type>PreAnnotation</type>
-			<span>1806,1812</span>
+			<span>1671,1675</span>
 		</entity>
 		<entity>
 			<id>16@regex</id>
 			<type>PreAnnotation</type>
-			<span>1960,1965</span>
+			<span>1806,1812</span>
 		</entity>
 		<entity>
 			<id>17@regex</id>
 			<type>PreAnnotation</type>
-			<span>2169,2177</span>
+			<span>1833,1842</span>
 		</entity>
 		<entity>
 			<id>18@regex</id>
 			<type>PreAnnotation</type>
-			<span>2329,2333</span>
+			<span>1960,1965</span>
 		</entity>
 		<entity>
 			<id>19@regex</id>
 			<type>PreAnnotation</type>
-			<span>2475,2479</span>
+			<span>2169,2177</span>
 		</entity>
 		<entity>
 			<id>20@regex</id>
 			<type>PreAnnotation</type>
-			<span>2531,2535</span>
+			<span>2329,2333</span>
 		</entity>
 		<entity>
 			<id>21@regex</id>
 			<type>PreAnnotation</type>
-			<span>2668,2676</span>
+			<span>2475,2479</span>
 		</entity>
 		<entity>
 			<id>22@regex</id>
 			<type>PreAnnotation</type>
-			<span>3068,3075</span>
+			<span>2531,2535</span>
 		</entity>
 		<entity>
 			<id>23@regex</id>
 			<type>PreAnnotation</type>
-			<span>3163,3167</span>
+			<span>2668,2676</span>
 		</entity>
 		<entity>
 			<id>24@regex</id>
+			<type>PreAnnotation</type>
+			<span>3068,3075</span>
+		</entity>
+		<entity>
+			<id>25@regex</id>
+			<type>PreAnnotation</type>
+			<span>3163,3167</span>
+		</entity>
+		<entity>
+			<id>26@regex</id>
 			<type>PreAnnotation</type>
 			<span>3241,3245</span>
 		</entity>

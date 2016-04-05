@@ -89,35 +89,40 @@
 		<entity>
 			<id>17@regex</id>
 			<type>PreAnnotation</type>
-			<span>2131,2134</span>
+			<span>2070,2075</span>
 		</entity>
 		<entity>
 			<id>18@regex</id>
 			<type>PreAnnotation</type>
-			<span>2445,2469</span>
+			<span>2131,2134</span>
 		</entity>
 		<entity>
 			<id>19@regex</id>
 			<type>PreAnnotation</type>
-			<span>2813,2818</span>
+			<span>2445,2469</span>
 		</entity>
 		<entity>
 			<id>20@regex</id>
 			<type>PreAnnotation</type>
-			<span>2839,2845</span>
+			<span>2813,2818</span>
 		</entity>
 		<entity>
 			<id>21@regex</id>
 			<type>PreAnnotation</type>
-			<span>3125,3130</span>
+			<span>2839,2845</span>
 		</entity>
 		<entity>
 			<id>22@regex</id>
 			<type>PreAnnotation</type>
-			<span>3226,3234</span>
+			<span>3125,3130</span>
 		</entity>
 		<entity>
 			<id>23@regex</id>
+			<type>PreAnnotation</type>
+			<span>3226,3234</span>
+		</entity>
+		<entity>
+			<id>24@regex</id>
 			<type>PreAnnotation</type>
 			<span>3235,3239</span>
 		</entity>

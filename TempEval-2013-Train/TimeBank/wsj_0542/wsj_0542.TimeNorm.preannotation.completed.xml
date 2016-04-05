@@ -29,70 +29,80 @@
 		<entity>
 			<id>5@regex</id>
 			<type>PreAnnotation</type>
-			<span>430,433</span>
+			<span>422,427</span>
 		</entity>
 		<entity>
 			<id>6@regex</id>
 			<type>PreAnnotation</type>
-			<span>440,443</span>
+			<span>430,433</span>
 		</entity>
 		<entity>
 			<id>7@regex</id>
 			<type>PreAnnotation</type>
-			<span>532,542</span>
+			<span>440,443</span>
 		</entity>
 		<entity>
 			<id>8@regex</id>
 			<type>PreAnnotation</type>
-			<span>575,583</span>
+			<span>532,542</span>
 		</entity>
 		<entity>
 			<id>9@regex</id>
 			<type>PreAnnotation</type>
-			<span>584,590</span>
+			<span>575,583</span>
 		</entity>
 		<entity>
 			<id>10@regex</id>
 			<type>PreAnnotation</type>
-			<span>651,655</span>
+			<span>584,590</span>
 		</entity>
 		<entity>
 			<id>11@regex</id>
 			<type>PreAnnotation</type>
-			<span>738,744</span>
+			<span>651,655</span>
 		</entity>
 		<entity>
 			<id>12@regex</id>
 			<type>PreAnnotation</type>
-			<span>893,897</span>
+			<span>738,744</span>
 		</entity>
 		<entity>
 			<id>13@regex</id>
 			<type>PreAnnotation</type>
-			<span>995,999</span>
+			<span>855,860</span>
 		</entity>
 		<entity>
 			<id>14@regex</id>
 			<type>PreAnnotation</type>
-			<span>1170,1185</span>
+			<span>893,897</span>
 		</entity>
 		<entity>
 			<id>15@regex</id>
 			<type>PreAnnotation</type>
-			<span>1517,1523</span>
+			<span>995,999</span>
 		</entity>
 		<entity>
 			<id>16@regex</id>
 			<type>PreAnnotation</type>
-			<span>1572,1578</span>
+			<span>1170,1185</span>
 		</entity>
 		<entity>
 			<id>17@regex</id>
 			<type>PreAnnotation</type>
-			<span>1833,1837</span>
+			<span>1517,1523</span>
 		</entity>
 		<entity>
 			<id>18@regex</id>
+			<type>PreAnnotation</type>
+			<span>1572,1578</span>
+		</entity>
+		<entity>
+			<id>19@regex</id>
+			<type>PreAnnotation</type>
+			<span>1833,1837</span>
+		</entity>
+		<entity>
+			<id>20@regex</id>
 			<type>PreAnnotation</type>
 			<span>1843,1847</span>
 		</entity>

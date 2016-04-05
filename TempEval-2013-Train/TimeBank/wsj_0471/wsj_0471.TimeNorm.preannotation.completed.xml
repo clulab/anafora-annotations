@@ -29,15 +29,20 @@
 		<entity>
 			<id>5@regex</id>
 			<type>PreAnnotation</type>
-			<span>660,667</span>
+			<span>468,475</span>
 		</entity>
 		<entity>
 			<id>6@regex</id>
 			<type>PreAnnotation</type>
-			<span>673,677</span>
+			<span>660,667</span>
 		</entity>
 		<entity>
 			<id>7@regex</id>
+			<type>PreAnnotation</type>
+			<span>673,677</span>
+		</entity>
+		<entity>
+			<id>8@regex</id>
 			<type>PreAnnotation</type>
 			<span>782,786</span>
 		</entity>

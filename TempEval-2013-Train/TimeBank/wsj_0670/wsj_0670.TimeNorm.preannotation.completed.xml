@@ -34,30 +34,35 @@
 		<entity>
 			<id>6@regex</id>
 			<type>PreAnnotation</type>
-			<span>589,596</span>
+			<span>546,551</span>
 		</entity>
 		<entity>
 			<id>7@regex</id>
 			<type>PreAnnotation</type>
-			<span>606,616</span>
+			<span>589,596</span>
 		</entity>
 		<entity>
 			<id>8@regex</id>
 			<type>PreAnnotation</type>
-			<span>706,710</span>
+			<span>606,616</span>
 		</entity>
 		<entity>
 			<id>9@regex</id>
 			<type>PreAnnotation</type>
-			<span>721,728</span>
+			<span>706,710</span>
 		</entity>
 		<entity>
 			<id>10@regex</id>
 			<type>PreAnnotation</type>
-			<span>1267,1272</span>
+			<span>721,728</span>
 		</entity>
 		<entity>
 			<id>11@regex</id>
+			<type>PreAnnotation</type>
+			<span>1267,1272</span>
+		</entity>
+		<entity>
+			<id>12@regex</id>
 			<type>PreAnnotation</type>
 			<span>1441,1445</span>
 		</entity>

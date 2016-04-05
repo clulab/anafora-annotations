@@ -34,20 +34,35 @@
 		<entity>
 			<id>6@regex</id>
 			<type>PreAnnotation</type>
-			<span>1473,1483</span>
+			<span>1166,1172</span>
 		</entity>
 		<entity>
 			<id>7@regex</id>
 			<type>PreAnnotation</type>
-			<span>2013,2020</span>
+			<span>1391,1398</span>
 		</entity>
 		<entity>
 			<id>8@regex</id>
 			<type>PreAnnotation</type>
-			<span>2092,2096</span>
+			<span>1473,1483</span>
 		</entity>
 		<entity>
 			<id>9@regex</id>
+			<type>PreAnnotation</type>
+			<span>2013,2020</span>
+		</entity>
+		<entity>
+			<id>10@regex</id>
+			<type>PreAnnotation</type>
+			<span>2077,2082</span>
+		</entity>
+		<entity>
+			<id>11@regex</id>
+			<type>PreAnnotation</type>
+			<span>2092,2096</span>
+		</entity>
+		<entity>
+			<id>12@regex</id>
 			<type>PreAnnotation</type>
 			<span>2112,2118</span>
 		</entity>

@@ -59,10 +59,20 @@
 		<entity>
 			<id>11@regex</id>
 			<type>PreAnnotation</type>
-			<span>1362,1370</span>
+			<span>1244,1250</span>
 		</entity>
 		<entity>
 			<id>12@regex</id>
+			<type>PreAnnotation</type>
+			<span>1278,1283</span>
+		</entity>
+		<entity>
+			<id>13@regex</id>
+			<type>PreAnnotation</type>
+			<span>1362,1370</span>
+		</entity>
+		<entity>
+			<id>14@regex</id>
 			<type>PreAnnotation</type>
 			<span>1414,1424</span>
 		</entity>

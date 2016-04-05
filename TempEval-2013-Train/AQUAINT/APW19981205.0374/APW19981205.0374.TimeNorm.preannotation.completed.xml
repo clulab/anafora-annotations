@@ -59,10 +59,15 @@
 		<entity>
 			<id>11@regex</id>
 			<type>PreAnnotation</type>
-			<span>914,917</span>
+			<span>901,907</span>
 		</entity>
 		<entity>
 			<id>12@regex</id>
+			<type>PreAnnotation</type>
+			<span>914,917</span>
+		</entity>
+		<entity>
+			<id>13@regex</id>
 			<type>PreAnnotation</type>
 			<span>1235,1243</span>
 		</entity>
