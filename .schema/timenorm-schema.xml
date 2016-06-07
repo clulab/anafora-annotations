@@ -41,7 +41,7 @@
       <entity type="Week-Of-Year" color="b2df8a">
 	<properties>
 	  <property type="Value" input="text" />
-	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Day-Of-Week,Part-Of-Week" />
+	  <property type="Sub-Interval" input="list" required="False" instanceOf="Day-Of-Week,Part-Of-Week" />
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
@@ -49,7 +49,7 @@
       <entity type="Day-Of-Month" color="b2df8a" hotkey="d">
 	<properties>
 	  <property type="Value" input="text" />
-	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
+	  <property type="Sub-Interval" input="list" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
@@ -57,7 +57,7 @@
       <entity type="Day-Of-Week" color="b2df8a" hotkey="w">
 	<properties>
 	  <property type="Type" input="choice">,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</property>
-	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
+	  <property type="Sub-Interval" input="list" required="False" instanceOf="Part-Of-Day,Hour-Of-Day" />
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
@@ -88,7 +88,7 @@
 	  <property type="Value" input="text" />
 	  <property type="AMPM-Of-Day" input="list" maxlink="1" required="False" instanceOf="AMPM-Of-Day" />
 	  <property type="Time-Zone" input="list" maxlink="1" required="False" instanceOf="Time-Zone" />
-	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Minute-Of-Hour" />
+	  <property type="Sub-Interval" input="list" required="False" instanceOf="Minute-Of-Hour" />
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
@@ -96,7 +96,7 @@
       <entity type="Minute-Of-Hour" color="b2df8a" hotkey="1">
 	<properties>
 	  <property type="Value" input="text" />
-	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Second-Of-Minute" />
+	  <property type="Sub-Interval" input="list" required="False" instanceOf="Second-Of-Minute" />
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
@@ -114,7 +114,7 @@
       <entity type="Year" color="cab2d6" hotkey="y">
 	<properties>
 	  <property type="Value" input="text" />
-	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Season-Of-Year,Month-Of-Year,Week-Of-Year" />
+	  <property type="Sub-Interval" input="list" required="False" instanceOf="Season-Of-Year,Month-Of-Year,Week-Of-Year" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
@@ -153,7 +153,7 @@
 	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,Nth,Event" />
 	  <property type="Value" input="text" />
-	  <property type="Sub-Interval" input="list" maxlink="1" required="False" instanceOf="Season-Of-Year,Month-Of-Year,Week-Of-Year" />
+	  <property type="Sub-Interval" input="list" required="False" instanceOf="Season-Of-Year,Month-Of-Year,Week-Of-Year" />
 	</properties>
       </entity>
       <entity type="This" color="977FA3" hotkey="t">
