@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>21:09:53 17-05-2016</savetime>
+  <savetime>15:49:15 22-05-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -977,6 +977,9 @@
 		<properties>
 			<Type>Approx</Type>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -987,6 +990,9 @@
 		<properties>
 			<Value>4</Value>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1799,6 +1805,9 @@
 			<Number>280@e@ID001_clinic_003@gold</Number>
 			<Modifier>279@e@ID001_clinic_003@gold</Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1853,7 +1862,7 @@
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>361@e@ID001_clinic_003@gold</Interval>
+			<Interval>362@e@ID001_clinic_003@gold</Interval>
 			<Period>324@e@ID001_clinic_003@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
@@ -1893,23 +1902,38 @@
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Start-Interval-Type>DocTime</Start-Interval-Type>
+			<Start-Interval></Start-Interval>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>77@e@ID001_clinic_003@gold</End-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>361@e@ID001_clinic_003@gold</id>
-		<span>4829,4834</span>
-		<type>Nth</type>
+		<id>362@e@ID001_clinic_003@gold</id>
+		<span>4835,4839</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>363@e@ID001_clinic_003@gold</id>
+		<span>893,895</span>
+		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>267@e@ID001_clinic_003@colh1995</Interval>
-			<Value>1</Value>
-			<Period></Period>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>351@e@ID001_clinic_003@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 </annotations>
