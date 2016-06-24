@@ -71,7 +71,7 @@
       </entity>
       <entity type="Part-Of-Day" color="b2df8a">
 	<properties>
-	  <property type="Type" input="choice">,Dawn,Morning,Noon,Afternoon,Evening,Dusk,Night,Midnight</property>
+	  <property type="Type" input="choice">,Dawn,Day,Morning,Noon,Afternoon,Evening,Dusk,Night,Midnight,Unknown</property>
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
