@@ -9,7 +9,7 @@
     <entities type="Duration" color="a6cee3">
       <entity type="Period" color="a6cee3" hotkey="p">
 	<properties>
-	  <property type="Type" input="choice">,Centuries,Decades,Years,Months,Weeks,Days,Hours,Minutes,Seconds,Unknown</property>
+	  <property type="Type" input="choice">,Centuries,Quarter-Centuries,Decades,Years,Quarter-Years,Months,Weeks,Days,Hours,Minutes,Seconds,Unknown</property>
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
@@ -226,7 +226,14 @@
 	  <property type="Type" input="choice">,Approx,Less-Than,More-Than,Start,Mid,End,Fiscal</property>
 	</properties>
       </entity>
-      <entity type="Frequency" color="fdbf6f" hotkey="f" />
+      <entity type="Frequency" color="ff7030" hotkey="f">
+	<properties>
+	  <property type="Type" input="choice">,Century,Quarter-Century,Decade,Year,Quarter-Year,Month,Week,Day,Hour,Minute,Second,Other</property>
+	  <property type="Every" input="list" maxlink="1" required="False" instanceOf="Frequency,Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
+	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	</properties>
+      </entity>
       <entity type="Event" color="e0e0e0" hotkey="e" />
       <entity type="PreAnnotation" color="ffff99" />
       <entity type="NotNormalizable" color="e31a1c" hotkey="!" />
