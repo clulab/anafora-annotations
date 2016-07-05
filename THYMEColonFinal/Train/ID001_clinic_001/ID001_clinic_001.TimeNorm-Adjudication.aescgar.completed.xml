@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>12:21:59 14-05-2016</savetime>
+  <savetime>15:11:12 29-05-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -1077,6 +1077,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1090,6 +1093,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1103,6 +1109,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1115,6 +1124,9 @@
 			<Sub-Interval>298@e@ID001_clinic_001@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1130,6 +1142,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1143,6 +1158,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1155,6 +1173,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1608,6 +1629,20 @@
 		<parentsType>Other</parentsType>
 		<properties>
 		</properties>
+	</entity>
+
+	<entity>
+		<id>344@e@ID001_clinic_001@gold</id>
+		<span>3780,3788</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>300@e@ID001_clinic_001@gold</Intervals>
+			<Repeating-Intervals>297@e@ID001_clinic_001@gold</Repeating-Intervals>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 </annotations>
