@@ -63,7 +63,7 @@
 	<entity>
 		<id>17@e@wsj_0132@colh1995</id>
 		<span>95,100</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
@@ -128,7 +128,7 @@
 	<entity>
 		<id>22@e@wsj_0132@colh1995</id>
 		<span>243,248</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>

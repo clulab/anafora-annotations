@@ -435,7 +435,7 @@
 	<entity>
 		<id>55@e@APW19980818.0515@aescgar</id>
 		<span>2208,2213</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>

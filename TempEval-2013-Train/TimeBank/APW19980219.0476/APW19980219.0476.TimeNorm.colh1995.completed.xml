@@ -680,7 +680,7 @@
 	<entity>
 		<id>108@e@APW19980219.0476@colh1995</id>
 		<span>1075,1079</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>

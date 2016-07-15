@@ -966,7 +966,7 @@
 	<entity>
 		<id>154@e@AP900815-0044@aescgar</id>
 		<span>7738,7744</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>

@@ -143,7 +143,7 @@
 	<entity>
 		<id>47@e@wsj_0124@gold</id>
 		<span>656,661</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>

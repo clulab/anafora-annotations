@@ -389,7 +389,7 @@
 	<entity>
 		<id>63@e@WSJ900813-0157@aescgar</id>
 		<span>8564,8569</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>

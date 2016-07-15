@@ -299,7 +299,7 @@
 	<entity>
 		<id>178@e@NYT19980206.0460@gold</id>
 		<span>861,866</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
@@ -656,7 +656,7 @@
 	<entity>
 		<id>206@e@NYT19980206.0460@gold</id>
 		<span>2979,2984</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
@@ -1167,7 +1167,7 @@
 	<entity>
 		<id>249@e@NYT19980206.0460@gold</id>
 		<span>5554,5559</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>

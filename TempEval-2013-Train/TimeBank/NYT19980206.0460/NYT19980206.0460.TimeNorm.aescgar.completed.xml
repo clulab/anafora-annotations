@@ -429,7 +429,7 @@
 	<entity>
 		<id>85@e@NYT19980206.0460@aescgar</id>
 		<span>861,866</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
@@ -939,7 +939,7 @@
 	<entity>
 		<id>128@e@NYT19980206.0460@aescgar</id>
 		<span>2979,2984</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
@@ -1153,7 +1153,7 @@
 	<entity>
 		<id>146@e@NYT19980206.0460@aescgar</id>
 		<span>5554,5559</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>

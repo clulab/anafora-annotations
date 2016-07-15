@@ -112,7 +112,7 @@
 	<entity>
 		<id>28@e@PRI19980306.2000.1675@gold</id>
 		<span>204,210</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>

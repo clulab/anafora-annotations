@@ -1965,7 +1965,7 @@
 	<entity>
 		<id>266@e@ID001_clinic_003@colh1995</id>
 		<span>4829,4834</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>

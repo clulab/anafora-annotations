@@ -719,7 +719,7 @@
 	<entity>
 		<id>119@e@APW19980219.0476@aescgar</id>
 		<span>1075,1079</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>

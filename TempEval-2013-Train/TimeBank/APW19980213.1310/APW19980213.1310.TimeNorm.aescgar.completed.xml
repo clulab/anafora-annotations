@@ -486,7 +486,7 @@
 	<entity>
 		<id>75@e@APW19980213.1310@aescgar</id>
 		<span>2965,2969</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>

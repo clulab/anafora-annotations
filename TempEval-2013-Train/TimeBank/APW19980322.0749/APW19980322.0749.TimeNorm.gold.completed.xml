@@ -800,20 +800,6 @@
 	</entity>
 
 	<entity>
-		<id>134@e@APW19980322.0749@gold</id>
-		<span>223,226</span>
-		<type>Last</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Semantics>Standard</Semantics>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>184@e@APW19980322.0749@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval>182@e@APW19980322.0749@gold</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>184@e@APW19980322.0749@gold</id>
 		<span>242,248</span>
 		<type>Event</type>

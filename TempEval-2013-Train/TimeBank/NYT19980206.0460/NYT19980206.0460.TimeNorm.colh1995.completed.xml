@@ -735,7 +735,7 @@
 	<entity>
 		<id>110@e@NYT19980206.0460@colh1995</id>
 		<span>861,866</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
@@ -1112,7 +1112,7 @@
 	<entity>
 		<id>152@e@NYT19980206.0460@colh1995</id>
 		<span>2979,2984</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>

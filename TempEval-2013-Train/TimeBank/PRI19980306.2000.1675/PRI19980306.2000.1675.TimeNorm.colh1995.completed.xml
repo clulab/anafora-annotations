@@ -50,7 +50,7 @@
 	<entity>
 		<id>13@e@PRI19980306.2000.1675@colh1995</id>
 		<span>204,210</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>

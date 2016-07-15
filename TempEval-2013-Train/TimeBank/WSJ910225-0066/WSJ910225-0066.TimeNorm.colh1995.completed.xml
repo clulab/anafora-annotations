@@ -146,7 +146,7 @@
 	<entity>
 		<id>65@e@WSJ910225-0066@colh1995</id>
 		<span>730,735</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
@@ -807,7 +807,7 @@
 	<entity>
 		<id>141@e@WSJ910225-0066@colh1995</id>
 		<span>9449,9454</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
@@ -925,7 +925,7 @@
 	<entity>
 		<id>152@e@WSJ910225-0066@colh1995</id>
 		<span>11823,11828</span>
-		<type>Nth</type>
+		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
