@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>15:49:15 22-05-2016</savetime>
+  <savetime>10:42:03 25-06-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -1405,15 +1405,6 @@
 	</entity>
 
 	<entity>
-		<id>315@e@ID001_clinic_003@gold</id>
-		<span>4151,4155</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>316@e@ID001_clinic_003@gold</id>
 		<span>4158,4162</span>
 		<type>Calendar-Interval</type>
@@ -1423,6 +1414,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1435,6 +1429,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1460,6 +1457,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1472,6 +1472,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1484,6 +1487,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1496,6 +1502,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1544,11 +1553,18 @@
 
 	<entity>
 		<id>329@e@ID001_clinic_003@gold</id>
-		<span>4943,4951</span>
+		<span>4947,4951</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>330@e@ID001_clinic_003@gold</Every>
+			<Number>380@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1561,15 +1577,25 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
 		<id>331@e@ID001_clinic_003@gold</id>
-		<span>5049,5057</span>
+		<span>5053,5057</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>332@e@ID001_clinic_003@gold</Every>
+			<Number>385@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1582,15 +1608,25 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
 		<id>333@e@ID001_clinic_003@gold</id>
-		<span>5168,5176</span>
+		<span>5172,5176</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>334@e@ID001_clinic_003@gold</Every>
+			<Number>386@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1603,15 +1639,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-	</entity>
-
-	<entity>
-		<id>335@e@ID001_clinic_003@gold</id>
-		<span>5231,5239</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1624,15 +1654,25 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
 		<id>337@e@ID001_clinic_003@gold</id>
-		<span>5323,5331</span>
+		<span>5327,5331</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>338@e@ID001_clinic_003@gold</Every>
+			<Number>393@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1645,6 +1685,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1780,17 +1823,9 @@
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>350@e@ID001_clinic_003@gold</id>
-		<span>5748,5751</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Minutes</Type>
-			<Number></Number>
+			<Type>Other</Type>
+			<Every>397@e@ID001_clinic_003@gold</Every>
+			<Number>396@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -1811,48 +1846,35 @@
 	</entity>
 
 	<entity>
-		<id>352@e@ID001_clinic_003@gold</id>
-		<span>4391,4399</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>353@e@ID001_clinic_003@gold</id>
-		<span>4553,4562</span>
+		<span>4557,4562</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>319@e@ID001_clinic_003@gold</Every>
+			<Number>368@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
 		</properties>
-	</entity>
-
-	<entity>
-		<id>354@e@ID001_clinic_003@gold</id>
-		<span>4667,4676</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
 		<id>355@e@ID001_clinic_003@gold</id>
-		<span>4725,4733</span>
+		<span>4729,4733</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>321@e@ID001_clinic_003@gold</Every>
+			<Number>375@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
 		</properties>
-	</entity>
-
-	<entity>
-		<id>356@e@ID001_clinic_003@gold</id>
-		<span>4762,4770</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1930,6 +1952,489 @@
 			<Interval></Interval>
 			<Period>351@e@ID001_clinic_003@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>364@e@ID001_clinic_003@gold</id>
+		<span>4151,4155</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>365@e@ID001_clinic_003@gold</id>
+		<span>4151,4155</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>316@e@ID001_clinic_003@gold</Every>
+			<Number>364@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>366@e@ID001_clinic_003@gold</id>
+		<span>4391,4392</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>367@e@ID001_clinic_003@gold</id>
+		<span>4393,4399</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>317@e@ID001_clinic_003@gold</Every>
+			<Number>366@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>368@e@ID001_clinic_003@gold</id>
+		<span>4553,4556</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>2</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>369@e@ID001_clinic_003@gold</id>
+		<span>4534,4535</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>370@e@ID001_clinic_003@gold</id>
+		<span>4536,4543</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>353@e@ID001_clinic_003@gold</Every>
+			<Number>369@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>371@e@ID001_clinic_003@gold</id>
+		<span>4649,4650</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>372@e@ID001_clinic_003@gold</id>
+		<span>4667,4670</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>2</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>373@e@ID001_clinic_003@gold</id>
+		<span>4671,4676</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>320@e@ID001_clinic_003@gold</Every>
+			<Number>372@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>374@e@ID001_clinic_003@gold</id>
+		<span>4651,4657</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>373@e@ID001_clinic_003@gold</Every>
+			<Number>371@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>375@e@ID001_clinic_003@gold</id>
+		<span>4725,4728</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>376@e@ID001_clinic_003@gold</id>
+		<span>4707,4708</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>377@e@ID001_clinic_003@gold</id>
+		<span>4709,4715</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>355@e@ID001_clinic_003@gold</Every>
+			<Number>376@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>378@e@ID001_clinic_003@gold</id>
+		<span>4762,4763</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>379@e@ID001_clinic_003@gold</id>
+		<span>4764,4770</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>322@e@ID001_clinic_003@gold</Every>
+			<Number>378@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>380@e@ID001_clinic_003@gold</id>
+		<span>4943,4946</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>381@e@ID001_clinic_003@gold</id>
+		<span>4925,4926</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>382@e@ID001_clinic_003@gold</id>
+		<span>4927,4933</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>329@e@ID001_clinic_003@gold</Every>
+			<Number>381@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>383@e@ID001_clinic_003@gold</id>
+		<span>5031,5032</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>384@e@ID001_clinic_003@gold</id>
+		<span>5033,5039</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>331@e@ID001_clinic_003@gold</Every>
+			<Number>383@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>385@e@ID001_clinic_003@gold</id>
+		<span>5049,5052</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>386@e@ID001_clinic_003@gold</id>
+		<span>5168,5171</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>387@e@ID001_clinic_003@gold</id>
+		<span>5150,5151</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>388@e@ID001_clinic_003@gold</id>
+		<span>5152,5158</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>333@e@ID001_clinic_003@gold</Every>
+			<Number>387@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>389@e@ID001_clinic_003@gold</id>
+		<span>5231,5234</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>390@e@ID001_clinic_003@gold</id>
+		<span>5235,5239</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>336@e@ID001_clinic_003@gold</Every>
+			<Number>389@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>391@e@ID001_clinic_003@gold</id>
+		<span>5213,5214</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>392@e@ID001_clinic_003@gold</id>
+		<span>5215,5221</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>390@e@ID001_clinic_003@gold</Every>
+			<Number>391@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>393@e@ID001_clinic_003@gold</id>
+		<span>5323,5326</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>394@e@ID001_clinic_003@gold</id>
+		<span>5304,5305</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>395@e@ID001_clinic_003@gold</id>
+		<span>5306,5313</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>337@e@ID001_clinic_003@gold</Every>
+			<Number>394@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>396@e@ID001_clinic_003@gold</id>
+		<span>5744,5746</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>90</Value>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>397@e@ID001_clinic_003@gold</id>
+		<span>5748,5751</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Minute</Type>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 		<addition>
 			<adjudication>gold</adjudication>
