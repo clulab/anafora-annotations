@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>11:31:06 26-03-2016</savetime>
+  <savetime>14:39:56 27-06-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -117,19 +117,6 @@
 	</entity>
 
 	<entity>
-		<id>169@e@sample-3-982-540-2@gold</id>
-		<span>528,531</span>
-		<type>Before</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>237@e@sample-3-982-540-2@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>170@e@sample-3-982-540-2@gold</id>
 		<span>667,670</span>
 		<type>Month-Of-Year</type>
@@ -168,32 +155,6 @@
 	</entity>
 
 	<entity>
-		<id>173@e@sample-3-982-540-2@gold</id>
-		<span>1704,1708</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Unknown</Interval-Type>
-			<Interval>238@e@sample-3-982-540-2@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>174@e@sample-3-982-540-2@gold</id>
-		<span>1821,1826</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>175@e@sample-3-982-540-2@gold</Interval>
-			<Period>239@e@sample-3-982-540-2@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>175@e@sample-3-982-540-2@gold</id>
 		<span>1827,1834</span>
 		<type>Event</type>
@@ -219,7 +180,7 @@
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>243@e@sample-3-982-540-2@gold</Interval>
+			<Interval></Interval>
 			<Period>179@e@sample-3-982-540-2@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
@@ -238,37 +199,11 @@
 	</entity>
 
 	<entity>
-		<id>180@e@sample-3-982-540-2@gold</id>
-		<span>2103,2108</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>181@e@sample-3-982-540-2@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>181@e@sample-3-982-540-2@gold</id>
 		<span>2117,2127</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
 		<properties>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>182@e@sample-3-982-540-2@gold</id>
-		<span>2174,2178</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>244@e@sample-3-982-540-2@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -306,7 +241,7 @@
 			<Type>May</Type>
 			<Sub-Interval></Sub-Interval>
 			<Number></Number>
-			<Modifier>245@e@sample-3-982-540-2@gold</Modifier>
+			<Modifier>252@e@sample-3-982-540-2@gold</Modifier>
 		</properties>
 	</entity>
 
@@ -446,6 +381,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -459,18 +397,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-	</entity>
-
-	<entity>
-		<id>199@e@sample-3-982-540-2@gold</id>
-		<span>3125,3129</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>2000</Value>
-			<Sub-Interval>197@e@sample-3-982-540-2@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -537,19 +466,6 @@
 	</entity>
 
 	<entity>
-		<id>205@e@sample-3-982-540-2@gold</id>
-		<span>3535,3539</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>246@e@sample-3-982-540-2@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>206@e@sample-3-982-540-2@gold</id>
 		<span>4177,4181</span>
 		<type>Last</type>
@@ -560,6 +476,30 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>207@e@sample-3-982-540-2@gold</id>
+		<span>4263,4267</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>208@e@sample-3-982-540-2@gold</id>
+		<span>4284,4288</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 
@@ -607,19 +547,6 @@
 			<Value>1999</Value>
 			<Sub-Interval>211@e@sample-3-982-540-2@gold</Sub-Interval>
 			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>213@e@sample-3-982-540-2@gold</id>
-		<span>4520,4523</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -703,15 +630,6 @@
 	</entity>
 
 	<entity>
-		<id>220@e@sample-3-982-540-2@gold</id>
-		<span>6482,6485</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>221@e@sample-3-982-540-2@gold</id>
 		<span>6505,6507</span>
 		<type>Day-Of-Month</type>
@@ -779,21 +697,25 @@
 
 	<entity>
 		<id>226@e@sample-3-982-540-2@gold</id>
-		<span>363,367</span>
-		<type>Event</type>
-		<parentsType>Other</parentsType>
+		<span>169,179</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
 		<properties>
+			<Interval-Type>Unknown</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>227@e@sample-3-982-540-2@gold</id>
-		<span>487,491</span>
-		<type>After</type>
+		<span>528,531</span>
+		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>257@e@sample-3-982-540-2@gold</Interval>
+			<Interval>246@e@sample-3-982-540-2@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
@@ -810,6 +732,41 @@
 
 	<entity>
 		<id>229@e@sample-3-982-540-2@gold</id>
+		<span>1564,1567</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>228@e@sample-3-982-540-2@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>230@e@sample-3-982-540-2@gold</id>
+		<span>1708,1717</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>231@e@sample-3-982-540-2@gold</id>
+		<span>1704,1708</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>230@e@sample-3-982-540-2@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>232@e@sample-3-982-540-2@gold</id>
 		<span>1840,1850</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
@@ -822,8 +779,8 @@
 	</entity>
 
 	<entity>
-		<id>230@e@sample-3-982-540-2@gold</id>
-		<span>2304,2313</span>
+		<id>233@e@sample-3-982-540-2@gold</id>
+		<span>2178,2187</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
 		<properties>
@@ -832,33 +789,148 @@
 
 	<entity>
 		<id>234@e@sample-3-982-540-2@gold</id>
-		<span>2430,2433</span>
-		<type>NotNormalizable</type>
-		<parentsType>Other</parentsType>
+		<span>2174,2178</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
 		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>233@e@sample-3-982-540-2@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>235@e@sample-3-982-540-2@gold</id>
-		<span>2445,2448</span>
-		<type>NotNormalizable</type>
-		<parentsType>Other</parentsType>
+		<span>2430,2433</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>187@e@sample-3-982-540-2@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>236@e@sample-3-982-540-2@gold</id>
+		<span>2445,2448</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>189@e@sample-3-982-540-2@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>237@e@sample-3-982-540-2@gold</id>
 		<span>2471,2475</span>
-		<type>NotNormalizable</type>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>191@e@sample-3-982-540-2@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>238@e@sample-3-982-540-2@gold</id>
+		<span>2893,2903</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Unknown</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>240@e@sample-3-982-540-2@gold</id>
+		<span>3125,3129</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2000</Value>
+			<Sub-Interval>196@e@sample-3-982-540-2@gold</Sub-Interval>
+			<Sub-Interval>197@e@sample-3-982-540-2@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>241@e@sample-3-982-540-2@gold</id>
+		<span>3539,3548</span>
+		<type>Event</type>
 		<parentsType>Other</parentsType>
 		<properties>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>237@e@sample-3-982-540-2@gold</id>
+		<id>242@e@sample-3-982-540-2@gold</id>
+		<span>3535,3539</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>241@e@sample-3-982-540-2@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>243@e@sample-3-982-540-2@gold</id>
+		<span>6482,6485</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>100</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>244@e@sample-3-982-540-2@gold</id>
+		<span>6482,6485</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>256@e@sample-3-982-540-2@gold</Every>
+			<Number>243@e@sample-3-982-540-2@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>245@e@sample-3-982-540-2@gold</id>
+		<span>1872,1877</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>250@e@sample-3-982-540-2@gold</Interval>
+			<Period>249@e@sample-3-982-540-2@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>246@e@sample-3-982-540-2@gold</id>
 		<span>531,540</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
@@ -867,28 +939,19 @@
 	</entity>
 
 	<entity>
-		<id>238@e@sample-3-982-540-2@gold</id>
-		<span>1708,1717</span>
-		<type>Event</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>239@e@sample-3-982-540-2@gold</id>
+		<id>247@e@sample-3-982-540-2@gold</id>
 		<span>1815,1820</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Weeks</Type>
-			<Number>240@e@sample-3-982-540-2@gold</Number>
+			<Number>248@e@sample-3-982-540-2@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>240@e@sample-3-982-540-2@gold</id>
+		<id>248@e@sample-3-982-540-2@gold</id>
 		<span>1802,1814</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -898,7 +961,7 @@
 	</entity>
 
 	<entity>
-		<id>241@e@sample-3-982-540-2@gold</id>
+		<id>249@e@sample-3-982-540-2@gold</id>
 		<span>1866,1871</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
@@ -910,7 +973,7 @@
 	</entity>
 
 	<entity>
-		<id>242@e@sample-3-982-540-2@gold</id>
+		<id>250@e@sample-3-982-540-2@gold</id>
 		<span>1878,1885</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
@@ -919,29 +982,20 @@
 	</entity>
 
 	<entity>
-		<id>243@e@sample-3-982-540-2@gold</id>
-		<span>1872,1877</span>
+		<id>251@e@sample-3-982-540-2@gold</id>
+		<span>2103,2108</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>242@e@sample-3-982-540-2@gold</Interval>
-			<Period>241@e@sample-3-982-540-2@gold</Period>
+			<Interval>181@e@sample-3-982-540-2@gold</Interval>
+			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>244@e@sample-3-982-540-2@gold</id>
-		<span>2178,2187</span>
-		<type>Event</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>245@e@sample-3-982-540-2@gold</id>
+		<id>252@e@sample-3-982-540-2@gold</id>
 		<span>2332,2338</span>
 		<type>Modifier</type>
 		<parentsType>Other</parentsType>
@@ -951,8 +1005,21 @@
 	</entity>
 
 	<entity>
-		<id>246@e@sample-3-982-540-2@gold</id>
-		<span>3539,3548</span>
+		<id>253@e@sample-3-982-540-2@gold</id>
+		<span>4520,4523</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>254@e@sample-3-982-540-2@gold</id>
+		<span>279,288</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
 		<properties>
@@ -960,80 +1027,8 @@
 	</entity>
 
 	<entity>
-		<id>247@e@sample-3-982-540-2@gold</id>
+		<id>255@e@sample-3-982-540-2@gold</id>
 		<span>372,380</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>226@e@sample-3-982-540-2@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>248@e@sample-3-982-540-2@gold</id>
-		<span>2361,2365</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Unknown</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>249@e@sample-3-982-540-2@gold</id>
-		<span>2356,2360</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>230@e@sample-3-982-540-2@gold</Interval>
-			<Period>248@e@sample-3-982-540-2@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>250@e@sample-3-982-540-2@gold</id>
-		<span>2893,2903</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>194@e@sample-3-982-540-2@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>251@e@sample-3-982-540-2@gold</id>
-		<span>3114,3117</span>
-		<type>NotNormalizable</type>
-		<parentsType>Other</parentsType>
-		<properties>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>252@e@sample-3-982-540-2@gold</id>
-		<span>6486,6492</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Minute</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>253@e@sample-3-982-540-2@gold</id>
-		<span>169,179</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
@@ -1045,29 +1040,32 @@
 	</entity>
 
 	<entity>
-		<id>254@e@sample-3-982-540-2@gold</id>
-		<span>126,135</span>
-		<type>Event</type>
-		<parentsType>Other</parentsType>
+		<id>256@e@sample-3-982-540-2@gold</id>
+		<span>6486,6492</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
 		<properties>
+			<Type>Minute</Type>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>255@e@sample-3-982-540-2@gold</id>
+		<id>257@e@sample-3-982-540-2@gold</id>
 		<span>417,422</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>256@e@sample-3-982-540-2@gold</Interval>
+			<Interval>258@e@sample-3-982-540-2@gold</Interval>
 			<Period>168@e@sample-3-982-540-2@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>256@e@sample-3-982-540-2@gold</id>
+		<id>258@e@sample-3-982-540-2@gold</id>
 		<span>384,395</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
@@ -1076,25 +1074,31 @@
 	</entity>
 
 	<entity>
-		<id>257@e@sample-3-982-540-2@gold</id>
-		<span>443,451</span>
-		<type>Event</type>
-		<parentsType>Other</parentsType>
+		<id>259@e@sample-3-982-540-2@gold</id>
+		<span>3114,3117</span>
+		<type>Union</type>
+		<parentsType>Operator</parentsType>
 		<properties>
+			<Repeating-Intervals>196@e@sample-3-982-540-2@gold</Repeating-Intervals>
+			<Repeating-Intervals>197@e@sample-3-982-540-2@gold</Repeating-Intervals>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
-		<id>258@e@sample-3-982-540-2@gold</id>
-		<span>1564,1567</span>
-		<type>Before</type>
+		<id>260@e@sample-3-982-540-2@gold</id>
+		<span>3114,3117</span>
+		<type>Intersection</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>228@e@sample-3-982-540-2@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
+			<Intervals>240@e@sample-3-982-540-2@gold</Intervals>
+			<Repeating-Intervals>259@e@sample-3-982-540-2@gold</Repeating-Intervals>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 </annotations>
