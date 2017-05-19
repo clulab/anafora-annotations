@@ -1,0 +1,6664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>15:43:52 18-03-2017</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>541@e@ID153_clinic_450@gold</id>
+		<span>116,128</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>542@e@ID153_clinic_450@gold</id>
+		<span>132,139</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>543@e@ID153_clinic_450@gold</id>
+		<span>168,174</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>544@e@ID153_clinic_450@gold</id>
+		<span>200,207</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>545@e@ID153_clinic_450@gold</id>
+		<span>216,223</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>546@e@ID153_clinic_450@gold</id>
+		<span>232,239</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>547@e@ID153_clinic_450@gold</id>
+		<span>241,251</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>548@e@ID153_clinic_450@gold</id>
+		<span>254,260</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>549@e@ID153_clinic_450@gold</id>
+		<span>263,267</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>550@e@ID153_clinic_450@gold</id>
+		<span>434,444</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>551@e@ID153_clinic_450@gold</id>
+		<span>447,456</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>552@e@ID153_clinic_450@gold</id>
+		<span>497,506</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>553@e@ID153_clinic_450@gold</id>
+		<span>565,572</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>554@e@ID153_clinic_450@gold</id>
+		<span>603,606</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>555@e@ID153_clinic_450@gold</id>
+		<span>611,620</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>556@e@ID153_clinic_450@gold</id>
+		<span>663,670</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>557@e@ID153_clinic_450@gold</id>
+		<span>686,692</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>558@e@ID153_clinic_450@gold</id>
+		<span>736,740</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>559@e@ID153_clinic_450@gold</id>
+		<span>755,764</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>560@e@ID153_clinic_450@gold</id>
+		<span>805,813</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>561@e@ID153_clinic_450@gold</id>
+		<span>875,880</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>562@e@ID153_clinic_450@gold</id>
+		<span>889,892</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>563@e@ID153_clinic_450@gold</id>
+		<span>917,924</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>564@e@ID153_clinic_450@gold</id>
+		<span>938,949</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>565@e@ID153_clinic_450@gold</id>
+		<span>1040,1050</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>566@e@ID153_clinic_450@gold</id>
+		<span>1075,1079</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>567@e@ID153_clinic_450@gold</id>
+		<span>1090,1096</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>568@e@ID153_clinic_450@gold</id>
+		<span>1103,1107</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>569@e@ID153_clinic_450@gold</id>
+		<span>1133,1137</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>570@e@ID153_clinic_450@gold</id>
+		<span>1146,1150</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>571@e@ID153_clinic_450@gold</id>
+		<span>1194,1200</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>572@e@ID153_clinic_450@gold</id>
+		<span>1230,1239</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>573@e@ID153_clinic_450@gold</id>
+		<span>1284,1288</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>575@e@ID153_clinic_450@gold</id>
+		<span>1327,1331</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>576@e@ID153_clinic_450@gold</id>
+		<span>1332,1341</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>577@e@ID153_clinic_450@gold</id>
+		<span>1363,1366</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>578@e@ID153_clinic_450@gold</id>
+		<span>1384,1390</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>579@e@ID153_clinic_450@gold</id>
+		<span>1413,1423</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>580@e@ID153_clinic_450@gold</id>
+		<span>1424,1437</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>581@e@ID153_clinic_450@gold</id>
+		<span>1442,1446</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>582@e@ID153_clinic_450@gold</id>
+		<span>1518,1527</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>583@e@ID153_clinic_450@gold</id>
+		<span>1561,1567</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>584@e@ID153_clinic_450@gold</id>
+		<span>1572,1578</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>585@e@ID153_clinic_450@gold</id>
+		<span>1743,1748</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>586@e@ID153_clinic_450@gold</id>
+		<span>1782,1792</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>587@e@ID153_clinic_450@gold</id>
+		<span>1802,1809</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>589@e@ID153_clinic_450@gold</id>
+		<span>1859,1869</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>590@e@ID153_clinic_450@gold</id>
+		<span>1888,1899</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>591@e@ID153_clinic_450@gold</id>
+		<span>1908,1914</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>592@e@ID153_clinic_450@gold</id>
+		<span>1938,1947</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>593@e@ID153_clinic_450@gold</id>
+		<span>1959,1964</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>594@e@ID153_clinic_450@gold</id>
+		<span>1973,1976</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>595@e@ID153_clinic_450@gold</id>
+		<span>2032,2037</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>596@e@ID153_clinic_450@gold</id>
+		<span>2045,2053</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>597@e@ID153_clinic_450@gold</id>
+		<span>2077,2084</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>598@e@ID153_clinic_450@gold</id>
+		<span>2089,2095</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>599@e@ID153_clinic_450@gold</id>
+		<span>2129,2139</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>600@e@ID153_clinic_450@gold</id>
+		<span>2151,2160</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>601@e@ID153_clinic_450@gold</id>
+		<span>2165,2174</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>602@e@ID153_clinic_450@gold</id>
+		<span>2191,2197</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>603@e@ID153_clinic_450@gold</id>
+		<span>2233,2237</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>604@e@ID153_clinic_450@gold</id>
+		<span>2257,2264</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>605@e@ID153_clinic_450@gold</id>
+		<span>2287,2291</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>606@e@ID153_clinic_450@gold</id>
+		<span>2319,2324</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>607@e@ID153_clinic_450@gold</id>
+		<span>2331,2339</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>608@e@ID153_clinic_450@gold</id>
+		<span>2355,2361</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>609@e@ID153_clinic_450@gold</id>
+		<span>2367,2374</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>610@e@ID153_clinic_450@gold</id>
+		<span>2410,2418</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>611@e@ID153_clinic_450@gold</id>
+		<span>2447,2456</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>612@e@ID153_clinic_450@gold</id>
+		<span>2468,2474</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>613@e@ID153_clinic_450@gold</id>
+		<span>2480,2490</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>614@e@ID153_clinic_450@gold</id>
+		<span>2491,2504</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>615@e@ID153_clinic_450@gold</id>
+		<span>2520,2529</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>616@e@ID153_clinic_450@gold</id>
+		<span>2543,2551</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>617@e@ID153_clinic_450@gold</id>
+		<span>2574,2583</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>618@e@ID153_clinic_450@gold</id>
+		<span>2587,2595</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>619@e@ID153_clinic_450@gold</id>
+		<span>2614,2623</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>620@e@ID153_clinic_450@gold</id>
+		<span>2650,2656</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>621@e@ID153_clinic_450@gold</id>
+		<span>2690,2696</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>622@e@ID153_clinic_450@gold</id>
+		<span>2728,2734</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>623@e@ID153_clinic_450@gold</id>
+		<span>2735,2744</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>624@e@ID153_clinic_450@gold</id>
+		<span>2765,2775</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>625@e@ID153_clinic_450@gold</id>
+		<span>2779,2787</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>626@e@ID153_clinic_450@gold</id>
+		<span>2806,2810</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>627@e@ID153_clinic_450@gold</id>
+		<span>2849,2852</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>628@e@ID153_clinic_450@gold</id>
+		<span>2872,2875</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>629@e@ID153_clinic_450@gold</id>
+		<span>2908,2917</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>630@e@ID153_clinic_450@gold</id>
+		<span>2934,2943</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>631@e@ID153_clinic_450@gold</id>
+		<span>3010,3023</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>632@e@ID153_clinic_450@gold</id>
+		<span>3027,3033</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>634@e@ID153_clinic_450@gold</id>
+		<span>3065,3070</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>635@e@ID153_clinic_450@gold</id>
+		<span>3078,3082</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>636@e@ID153_clinic_450@gold</id>
+		<span>3092,3098</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>637@e@ID153_clinic_450@gold</id>
+		<span>3110,3114</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>638@e@ID153_clinic_450@gold</id>
+		<span>3126,3132</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>639@e@ID153_clinic_450@gold</id>
+		<span>3137,3148</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>640@e@ID153_clinic_450@gold</id>
+		<span>3158,3162</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>641@e@ID153_clinic_450@gold</id>
+		<span>3201,3207</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>642@e@ID153_clinic_450@gold</id>
+		<span>3217,3226</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>643@e@ID153_clinic_450@gold</id>
+		<span>3245,3254</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>644@e@ID153_clinic_450@gold</id>
+		<span>3266,3272</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>645@e@ID153_clinic_450@gold</id>
+		<span>3311,3322</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>646@e@ID153_clinic_450@gold</id>
+		<span>3367,3381</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>647@e@ID153_clinic_450@gold</id>
+		<span>3391,3405</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>648@e@ID153_clinic_450@gold</id>
+		<span>3423,3432</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>649@e@ID153_clinic_450@gold</id>
+		<span>3437,3444</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>650@e@ID153_clinic_450@gold</id>
+		<span>3460,3470</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>651@e@ID153_clinic_450@gold</id>
+		<span>3471,3474</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>652@e@ID153_clinic_450@gold</id>
+		<span>3512,3515</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>653@e@ID153_clinic_450@gold</id>
+		<span>3532,3536</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>654@e@ID153_clinic_450@gold</id>
+		<span>3558,3562</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>656@e@ID153_clinic_450@gold</id>
+		<span>3612,3618</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>657@e@ID153_clinic_450@gold</id>
+		<span>3633,3637</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>658@e@ID153_clinic_450@gold</id>
+		<span>3646,3649</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>659@e@ID153_clinic_450@gold</id>
+		<span>3662,3667</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>660@e@ID153_clinic_450@gold</id>
+		<span>3684,3693</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>661@e@ID153_clinic_450@gold</id>
+		<span>3712,3719</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>662@e@ID153_clinic_450@gold</id>
+		<span>3723,3727</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>663@e@ID153_clinic_450@gold</id>
+		<span>3777,3780</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>664@e@ID153_clinic_450@gold</id>
+		<span>3781,3790</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>665@e@ID153_clinic_450@gold</id>
+		<span>3820,3828</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>668@e@ID153_clinic_450@gold</id>
+		<span>3892,3900</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>669@e@ID153_clinic_450@gold</id>
+		<span>3913,3921</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>670@e@ID153_clinic_450@gold</id>
+		<span>3947,3951</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>671@e@ID153_clinic_450@gold</id>
+		<span>3981,3989</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>672@e@ID153_clinic_450@gold</id>
+		<span>4007,4012</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>673@e@ID153_clinic_450@gold</id>
+		<span>4030,4037</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>675@e@ID153_clinic_450@gold</id>
+		<span>4083,4092</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>676@e@ID153_clinic_450@gold</id>
+		<span>4097,4101</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>677@e@ID153_clinic_450@gold</id>
+		<span>4117,4124</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>678@e@ID153_clinic_450@gold</id>
+		<span>4161,4167</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>679@e@ID153_clinic_450@gold</id>
+		<span>4177,4180</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>682@e@ID153_clinic_450@gold</id>
+		<span>4322,4328</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>683@e@ID153_clinic_450@gold</id>
+		<span>4337,4351</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>684@e@ID153_clinic_450@gold</id>
+		<span>4355,4362</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>685@e@ID153_clinic_450@gold</id>
+		<span>4378,4388</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>686@e@ID153_clinic_450@gold</id>
+		<span>4392,4396</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>687@e@ID153_clinic_450@gold</id>
+		<span>4408,4413</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>688@e@ID153_clinic_450@gold</id>
+		<span>4425,4428</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>689@e@ID153_clinic_450@gold</id>
+		<span>4566,4570</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>690@e@ID153_clinic_450@gold</id>
+		<span>4586,4593</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>691@e@ID153_clinic_450@gold</id>
+		<span>4620,4626</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>692@e@ID153_clinic_450@gold</id>
+		<span>4705,4708</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>693@e@ID153_clinic_450@gold</id>
+		<span>4751,4760</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>695@e@ID153_clinic_450@gold</id>
+		<span>4811,4817</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>696@e@ID153_clinic_450@gold</id>
+		<span>4845,4856</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>698@e@ID153_clinic_450@gold</id>
+		<span>4896,4905</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>700@e@ID153_clinic_450@gold</id>
+		<span>4936,4944</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>701@e@ID153_clinic_450@gold</id>
+		<span>4959,4966</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>702@e@ID153_clinic_450@gold</id>
+		<span>5001,5005</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>703@e@ID153_clinic_450@gold</id>
+		<span>5038,5044</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>704@e@ID153_clinic_450@gold</id>
+		<span>5085,5094</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>705@e@ID153_clinic_450@gold</id>
+		<span>5113,5124</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>707@e@ID153_clinic_450@gold</id>
+		<span>5152,5157</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>708@e@ID153_clinic_450@gold</id>
+		<span>5188,5194</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>709@e@ID153_clinic_450@gold</id>
+		<span>5214,5222</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>710@e@ID153_clinic_450@gold</id>
+		<span>5225,5233</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>711@e@ID153_clinic_450@gold</id>
+		<span>5253,5261</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>712@e@ID153_clinic_450@gold</id>
+		<span>5305,5319</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>713@e@ID153_clinic_450@gold</id>
+		<span>5333,5341</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>714@e@ID153_clinic_450@gold</id>
+		<span>5391,5397</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>715@e@ID153_clinic_450@gold</id>
+		<span>5422,5426</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>717@e@ID153_clinic_450@gold</id>
+		<span>5484,5492</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>718@e@ID153_clinic_450@gold</id>
+		<span>5493,5502</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>719@e@ID153_clinic_450@gold</id>
+		<span>5503,5513</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>720@e@ID153_clinic_450@gold</id>
+		<span>5518,5530</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>721@e@ID153_clinic_450@gold</id>
+		<span>5579,5589</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>722@e@ID153_clinic_450@gold</id>
+		<span>5598,5613</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>723@e@ID153_clinic_450@gold</id>
+		<span>5642,5648</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>724@e@ID153_clinic_450@gold</id>
+		<span>5683,5696</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>725@e@ID153_clinic_450@gold</id>
+		<span>5707,5710</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>727@e@ID153_clinic_450@gold</id>
+		<span>5752,5759</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>729@e@ID153_clinic_450@gold</id>
+		<span>5837,5841</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>730@e@ID153_clinic_450@gold</id>
+		<span>5847,5852</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>733@e@ID153_clinic_450@gold</id>
+		<span>5910,5916</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>734@e@ID153_clinic_450@gold</id>
+		<span>5930,5936</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>735@e@ID153_clinic_450@gold</id>
+		<span>5943,5955</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>736@e@ID153_clinic_450@gold</id>
+		<span>5981,5985</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>737@e@ID153_clinic_450@gold</id>
+		<span>5992,5998</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>738@e@ID153_clinic_450@gold</id>
+		<span>6008,6014</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>739@e@ID153_clinic_450@gold</id>
+		<span>6034,6042</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>741@e@ID153_clinic_450@gold</id>
+		<span>6098,6108</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>743@e@ID153_clinic_450@gold</id>
+		<span>6179,6183</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>744@e@ID153_clinic_450@gold</id>
+		<span>6220,6227</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>745@e@ID153_clinic_450@gold</id>
+		<span>6242,6248</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>747@e@ID153_clinic_450@gold</id>
+		<span>6273,6281</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>749@e@ID153_clinic_450@gold</id>
+		<span>6317,6324</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>750@e@ID153_clinic_450@gold</id>
+		<span>6336,6348</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>751@e@ID153_clinic_450@gold</id>
+		<span>6353,6356</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>752@e@ID153_clinic_450@gold</id>
+		<span>6521,6528</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>753@e@ID153_clinic_450@gold</id>
+		<span>6547,6553</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>754@e@ID153_clinic_450@gold</id>
+		<span>6582,6596</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>755@e@ID153_clinic_450@gold</id>
+		<span>6606,6613</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>756@e@ID153_clinic_450@gold</id>
+		<span>6619,6625</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>757@e@ID153_clinic_450@gold</id>
+		<span>6661,6668</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>758@e@ID153_clinic_450@gold</id>
+		<span>6684,6692</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>759@e@ID153_clinic_450@gold</id>
+		<span>6711,6718</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>760@e@ID153_clinic_450@gold</id>
+		<span>6735,6740</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>761@e@ID153_clinic_450@gold</id>
+		<span>6747,6758</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>762@e@ID153_clinic_450@gold</id>
+		<span>6764,6772</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>763@e@ID153_clinic_450@gold</id>
+		<span>6777,6788</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>764@e@ID153_clinic_450@gold</id>
+		<span>6805,6813</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>765@e@ID153_clinic_450@gold</id>
+		<span>6819,6826</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>766@e@ID153_clinic_450@gold</id>
+		<span>6838,6846</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>767@e@ID153_clinic_450@gold</id>
+		<span>6879,6884</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>769@e@ID153_clinic_450@gold</id>
+		<span>6905,6912</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>770@e@ID153_clinic_450@gold</id>
+		<span>6927,6932</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>771@e@ID153_clinic_450@gold</id>
+		<span>6940,6945</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>772@e@ID153_clinic_450@gold</id>
+		<span>6946,6951</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>773@e@ID153_clinic_450@gold</id>
+		<span>7003,7007</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>774@e@ID153_clinic_450@gold</id>
+		<span>7026,7030</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>775@e@ID153_clinic_450@gold</id>
+		<span>7034,7041</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>776@e@ID153_clinic_450@gold</id>
+		<span>7056,7060</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>777@e@ID153_clinic_450@gold</id>
+		<span>7074,7081</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>778@e@ID153_clinic_450@gold</id>
+		<span>7085,7092</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>779@e@ID153_clinic_450@gold</id>
+		<span>7115,7125</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>780@e@ID153_clinic_450@gold</id>
+		<span>7161,7166</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>781@e@ID153_clinic_450@gold</id>
+		<span>7182,7189</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>782@e@ID153_clinic_450@gold</id>
+		<span>7194,7203</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>783@e@ID153_clinic_450@gold</id>
+		<span>7209,7221</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>784@e@ID153_clinic_450@gold</id>
+		<span>7249,7255</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>785@e@ID153_clinic_450@gold</id>
+		<span>7273,7282</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>787@e@ID153_clinic_450@gold</id>
+		<span>7331,7336</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>788@e@ID153_clinic_450@gold</id>
+		<span>7375,7381</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>790@e@ID153_clinic_450@gold</id>
+		<span>7393,7396</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>791@e@ID153_clinic_450@gold</id>
+		<span>7397,7403</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>792@e@ID153_clinic_450@gold</id>
+		<span>7444,7452</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>793@e@ID153_clinic_450@gold</id>
+		<span>7920,7925</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>794@e@ID153_clinic_450@gold</id>
+		<span>8008,8012</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>795@e@ID153_clinic_450@gold</id>
+		<span>8129,8136</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>797@e@ID153_clinic_450@gold</id>
+		<span>8242,8246</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>798@e@ID153_clinic_450@gold</id>
+		<span>8252,8258</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>799@e@ID153_clinic_450@gold</id>
+		<span>8277,8286</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>800@e@ID153_clinic_450@gold</id>
+		<span>8297,8301</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>801@e@ID153_clinic_450@gold</id>
+		<span>8330,8336</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>802@e@ID153_clinic_450@gold</id>
+		<span>8415,8419</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>803@e@ID153_clinic_450@gold</id>
+		<span>8459,8465</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>804@e@ID153_clinic_450@gold</id>
+		<span>8521,8527</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>805@e@ID153_clinic_450@gold</id>
+		<span>8549,8555</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>806@e@ID153_clinic_450@gold</id>
+		<span>8665,8674</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>807@e@ID153_clinic_450@gold</id>
+		<span>8709,8716</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>808@e@ID153_clinic_450@gold</id>
+		<span>8736,8741</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>809@e@ID153_clinic_450@gold</id>
+		<span>8838,8847</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>810@e@ID153_clinic_450@gold</id>
+		<span>8854,8862</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>811@e@ID153_clinic_450@gold</id>
+		<span>8898,8902</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>812@e@ID153_clinic_450@gold</id>
+		<span>8917,8923</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>813@e@ID153_clinic_450@gold</id>
+		<span>8949,8956</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>814@e@ID153_clinic_450@gold</id>
+		<span>8968,8978</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>815@e@ID153_clinic_450@gold</id>
+		<span>8992,9003</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>816@e@ID153_clinic_450@gold</id>
+		<span>9098,9104</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>817@e@ID153_clinic_450@gold</id>
+		<span>9112,9119</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>818@e@ID153_clinic_450@gold</id>
+		<span>9149,9156</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>819@e@ID153_clinic_450@gold</id>
+		<span>9167,9175</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>820@e@ID153_clinic_450@gold</id>
+		<span>9187,9199</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>821@e@ID153_clinic_450@gold</id>
+		<span>9214,9223</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>822@e@ID153_clinic_450@gold</id>
+		<span>9433,9439</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>823@e@ID153_clinic_450@gold</id>
+		<span>9451,9457</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>824@e@ID153_clinic_450@gold</id>
+		<span>9469,9475</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>825@e@ID153_clinic_450@gold</id>
+		<span>9490,9496</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>826@e@ID153_clinic_450@gold</id>
+		<span>9513,9516</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>827@e@ID153_clinic_450@gold</id>
+		<span>9530,9533</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>828@e@ID153_clinic_450@gold</id>
+		<span>9543,9554</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>829@e@ID153_clinic_450@gold</id>
+		<span>9593,9601</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>830@e@ID153_clinic_450@gold</id>
+		<span>9614,9623</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>831@e@ID153_clinic_450@gold</id>
+		<span>9635,9648</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>832@e@ID153_clinic_450@gold</id>
+		<span>9674,9678</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>833@e@ID153_clinic_450@gold</id>
+		<span>9758,9768</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>834@e@ID153_clinic_450@gold</id>
+		<span>9813,9821</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>835@e@ID153_clinic_450@gold</id>
+		<span>9832,9844</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>836@e@ID153_clinic_450@gold</id>
+		<span>9853,9860</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>837@e@ID153_clinic_450@gold</id>
+		<span>9862,9867</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>838@e@ID153_clinic_450@gold</id>
+		<span>9871,9878</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>839@e@ID153_clinic_450@gold</id>
+		<span>9949,9957</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>840@e@ID153_clinic_450@gold</id>
+		<span>9965,9976</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>841@e@ID153_clinic_450@gold</id>
+		<span>10021,10026</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>842@e@ID153_clinic_450@gold</id>
+		<span>10031,10039</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>843@e@ID153_clinic_450@gold</id>
+		<span>10068,10072</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>844@e@ID153_clinic_450@gold</id>
+		<span>10077,10083</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>845@e@ID153_clinic_450@gold</id>
+		<span>10092,10099</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>846@e@ID153_clinic_450@gold</id>
+		<span>10101,10108</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>847@e@ID153_clinic_450@gold</id>
+		<span>10112,10116</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>848@e@ID153_clinic_450@gold</id>
+		<span>10125,10127</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>849@e@ID153_clinic_450@gold</id>
+		<span>10132,10134</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>850@e@ID153_clinic_450@gold</id>
+		<span>10151,10157</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>851@e@ID153_clinic_450@gold</id>
+		<span>10172,10178</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>852@e@ID153_clinic_450@gold</id>
+		<span>10203,10211</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>853@e@ID153_clinic_450@gold</id>
+		<span>10213,10218</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>854@e@ID153_clinic_450@gold</id>
+		<span>10252,10255</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>855@e@ID153_clinic_450@gold</id>
+		<span>10268,10276</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>856@e@ID153_clinic_450@gold</id>
+		<span>10296,10301</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>857@e@ID153_clinic_450@gold</id>
+		<span>10376,10380</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>858@e@ID153_clinic_450@gold</id>
+		<span>10391,10396</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>859@e@ID153_clinic_450@gold</id>
+		<span>10402,10408</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>860@e@ID153_clinic_450@gold</id>
+		<span>10410,10420</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>861@e@ID153_clinic_450@gold</id>
+		<span>10425,10433</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>862@e@ID153_clinic_450@gold</id>
+		<span>10454,10460</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>863@e@ID153_clinic_450@gold</id>
+		<span>10476,10482</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>864@e@ID153_clinic_450@gold</id>
+		<span>10486,10504</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>865@e@ID153_clinic_450@gold</id>
+		<span>10522,10531</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>866@e@ID153_clinic_450@gold</id>
+		<span>10535,10541</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>867@e@ID153_clinic_450@gold</id>
+		<span>10578,10588</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>868@e@ID153_clinic_450@gold</id>
+		<span>10622,10627</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>869@e@ID153_clinic_450@gold</id>
+		<span>10636,10644</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>870@e@ID153_clinic_450@gold</id>
+		<span>10672,10676</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>871@e@ID153_clinic_450@gold</id>
+		<span>10751,10764</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>872@e@ID153_clinic_450@gold</id>
+		<span>10766,10776</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>873@e@ID153_clinic_450@gold</id>
+		<span>10833,10844</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>874@e@ID153_clinic_450@gold</id>
+		<span>10848,10853</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>875@e@ID153_clinic_450@gold</id>
+		<span>10864,10874</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>876@e@ID153_clinic_450@gold</id>
+		<span>10876,10887</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>877@e@ID153_clinic_450@gold</id>
+		<span>10892,10898</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>878@e@ID153_clinic_450@gold</id>
+		<span>10977,10983</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>879@e@ID153_clinic_450@gold</id>
+		<span>10987,10994</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>880@e@ID153_clinic_450@gold</id>
+		<span>11090,11096</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>881@e@ID153_clinic_450@gold</id>
+		<span>11163,11170</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>882@e@ID153_clinic_450@gold</id>
+		<span>11183,11192</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>883@e@ID153_clinic_450@gold</id>
+		<span>11204,11216</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>884@e@ID153_clinic_450@gold</id>
+		<span>11229,11238</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>885@e@ID153_clinic_450@gold</id>
+		<span>11253,11264</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>886@e@ID153_clinic_450@gold</id>
+		<span>11275,11284</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>887@e@ID153_clinic_450@gold</id>
+		<span>11319,11322</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>888@e@ID153_clinic_450@gold</id>
+		<span>11351,11356</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>889@e@ID153_clinic_450@gold</id>
+		<span>11426,11429</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>890@e@ID153_clinic_450@gold</id>
+		<span>11485,11494</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>891@e@ID153_clinic_450@gold</id>
+		<span>11507,11517</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>892@e@ID153_clinic_450@gold</id>
+		<span>11519,11526</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>893@e@ID153_clinic_450@gold</id>
+		<span>11538,11548</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>894@e@ID153_clinic_450@gold</id>
+		<span>11569,11575</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>895@e@ID153_clinic_450@gold</id>
+		<span>11614,11618</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>897@e@ID153_clinic_450@gold</id>
+		<span>11653,11659</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>898@e@ID153_clinic_450@gold</id>
+		<span>11660,11666</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>899@e@ID153_clinic_450@gold</id>
+		<span>11668,11674</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>900@e@ID153_clinic_450@gold</id>
+		<span>11688,11694</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>901@e@ID153_clinic_450@gold</id>
+		<span>11709,11717</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>902@e@ID153_clinic_450@gold</id>
+		<span>11728,11735</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>903@e@ID153_clinic_450@gold</id>
+		<span>11791,11795</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>904@e@ID153_clinic_450@gold</id>
+		<span>11806,11810</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>905@e@ID153_clinic_450@gold</id>
+		<span>11867,11876</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>906@e@ID153_clinic_450@gold</id>
+		<span>11880,11888</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>907@e@ID153_clinic_450@gold</id>
+		<span>11918,11924</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>908@e@ID153_clinic_450@gold</id>
+		<span>11933,11943</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>909@e@ID153_clinic_450@gold</id>
+		<span>11945,11953</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>910@e@ID153_clinic_450@gold</id>
+		<span>11962,11966</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>911@e@ID153_clinic_450@gold</id>
+		<span>11968,11974</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>912@e@ID153_clinic_450@gold</id>
+		<span>11983,11992</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>913@e@ID153_clinic_450@gold</id>
+		<span>11999,12005</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>914@e@ID153_clinic_450@gold</id>
+		<span>12016,12021</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>915@e@ID153_clinic_450@gold</id>
+		<span>12037,12043</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>916@e@ID153_clinic_450@gold</id>
+		<span>12065,12070</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>917@e@ID153_clinic_450@gold</id>
+		<span>12072,12082</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>918@e@ID153_clinic_450@gold</id>
+		<span>12094,12104</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>919@e@ID153_clinic_450@gold</id>
+		<span>12110,12114</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>920@e@ID153_clinic_450@gold</id>
+		<span>12179,12185</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>921@e@ID153_clinic_450@gold</id>
+		<span>12186,12191</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>922@e@ID153_clinic_450@gold</id>
+		<span>12199,12203</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>923@e@ID153_clinic_450@gold</id>
+		<span>12205,12213</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>924@e@ID153_clinic_450@gold</id>
+		<span>12215,12224</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>925@e@ID153_clinic_450@gold</id>
+		<span>12229,12241</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>926@e@ID153_clinic_450@gold</id>
+		<span>12261,12269</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>927@e@ID153_clinic_450@gold</id>
+		<span>12279,12286</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>928@e@ID153_clinic_450@gold</id>
+		<span>12294,12301</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>929@e@ID153_clinic_450@gold</id>
+		<span>12305,12313</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>930@e@ID153_clinic_450@gold</id>
+		<span>12339,12345</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>931@e@ID153_clinic_450@gold</id>
+		<span>12346,12355</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>932@e@ID153_clinic_450@gold</id>
+		<span>12357,12363</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>933@e@ID153_clinic_450@gold</id>
+		<span>12365,12373</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>934@e@ID153_clinic_450@gold</id>
+		<span>12388,12392</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>935@e@ID153_clinic_450@gold</id>
+		<span>12446,12452</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>936@e@ID153_clinic_450@gold</id>
+		<span>12469,12473</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>937@e@ID153_clinic_450@gold</id>
+		<span>12475,12483</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>938@e@ID153_clinic_450@gold</id>
+		<span>12488,12497</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>939@e@ID153_clinic_450@gold</id>
+		<span>12515,12521</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>940@e@ID153_clinic_450@gold</id>
+		<span>12522,12528</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>941@e@ID153_clinic_450@gold</id>
+		<span>12537,12542</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>942@e@ID153_clinic_450@gold</id>
+		<span>12557,12563</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>943@e@ID153_clinic_450@gold</id>
+		<span>12564,12571</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>944@e@ID153_clinic_450@gold</id>
+		<span>12575,12583</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>945@e@ID153_clinic_450@gold</id>
+		<span>12598,12606</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>946@e@ID153_clinic_450@gold</id>
+		<span>12610,12617</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>947@e@ID153_clinic_450@gold</id>
+		<span>12649,12659</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>948@e@ID153_clinic_450@gold</id>
+		<span>12681,12690</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>949@e@ID153_clinic_450@gold</id>
+		<span>151,158</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>950@e@ID153_clinic_450@gold</id>
+		<span>462,468</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>951@e@ID153_clinic_450@gold</id>
+		<span>589,594</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>953@e@ID153_clinic_450@gold</id>
+		<span>718,723</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>954@e@ID153_clinic_450@gold</id>
+		<span>828,839</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>955@e@ID153_clinic_450@gold</id>
+		<span>844,848</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>956@e@ID153_clinic_450@gold</id>
+		<span>930,934</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>957@e@ID153_clinic_450@gold</id>
+		<span>963,969</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>958@e@ID153_clinic_450@gold</id>
+		<span>1016,1023</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>959@e@ID153_clinic_450@gold</id>
+		<span>1173,1179</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>960@e@ID153_clinic_450@gold</id>
+		<span>1477,1482</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>961@e@ID153_clinic_450@gold</id>
+		<span>1589,1593</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>964@e@ID153_clinic_450@gold</id>
+		<span>1693,1702</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>965@e@ID153_clinic_450@gold</id>
+		<span>1763,1769</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>967@e@ID153_clinic_450@gold</id>
+		<span>1880,1884</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>968@e@ID153_clinic_450@gold</id>
+		<span>1993,2001</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>969@e@ID153_clinic_450@gold</id>
+		<span>2118,2125</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>970@e@ID153_clinic_450@gold</id>
+		<span>2509,2513</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>971@e@ID153_clinic_450@gold</id>
+		<span>2563,2567</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>975@e@ID153_clinic_450@gold</id>
+		<span>3326,3329</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>978@e@ID153_clinic_450@gold</id>
+		<span>3604,3608</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>979@e@ID153_clinic_450@gold</id>
+		<span>3676,3683</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>980@e@ID153_clinic_450@gold</id>
+		<span>3808,3812</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>982@e@ID153_clinic_450@gold</id>
+		<span>4039,4044</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>983@e@ID153_clinic_450@gold</id>
+		<span>4199,4208</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>984@e@ID153_clinic_450@gold</id>
+		<span>4489,4497</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>987@e@ID153_clinic_450@gold</id>
+		<span>5342,5346</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>988@e@ID153_clinic_450@gold</id>
+		<span>5354,5361</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>989@e@ID153_clinic_450@gold</id>
+		<span>5398,5402</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>990@e@ID153_clinic_450@gold</id>
+		<span>5453,5458</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>992@e@ID153_clinic_450@gold</id>
+		<span>6636,6644</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>993@e@ID153_clinic_450@gold</id>
+		<span>6868,6874</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>994@e@ID153_clinic_450@gold</id>
+		<span>6954,6958</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>996@e@ID153_clinic_450@gold</id>
+		<span>7347,7351</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>997@e@ID153_clinic_450@gold</id>
+		<span>7787,7794</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>998@e@ID153_clinic_450@gold</id>
+		<span>7838,7842</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>999@e@ID153_clinic_450@gold</id>
+		<span>7862,7870</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1000@e@ID153_clinic_450@gold</id>
+		<span>7874,7877</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1001@e@ID153_clinic_450@gold</id>
+		<span>7933,7937</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1003@e@ID153_clinic_450@gold</id>
+		<span>8046,8053</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1008@e@ID153_clinic_450@gold</id>
+		<span>8359,8363</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1010@e@ID153_clinic_450@gold</id>
+		<span>8392,8396</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1012@e@ID153_clinic_450@gold</id>
+		<span>8430,8438</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1014@e@ID153_clinic_450@gold</id>
+		<span>8471,8475</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1015@e@ID153_clinic_450@gold</id>
+		<span>8510,8518</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1016@e@ID153_clinic_450@gold</id>
+		<span>8542,8545</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1017@e@ID153_clinic_450@gold</id>
+		<span>8628,8636</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1018@e@ID153_clinic_450@gold</id>
+		<span>8720,8723</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1019@e@ID153_clinic_450@gold</id>
+		<span>8771,8775</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1020@e@ID153_clinic_450@gold</id>
+		<span>8779,8782</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1021@e@ID153_clinic_450@gold</id>
+		<span>8805,8812</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1023@e@ID153_clinic_450@gold</id>
+		<span>8927,8930</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1024@e@ID153_clinic_450@gold</id>
+		<span>9030,9033</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1025@e@ID153_clinic_450@gold</id>
+		<span>9014,9021</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1026@e@ID153_clinic_450@gold</id>
+		<span>9053,9057</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1027@e@ID153_clinic_450@gold</id>
+		<span>9087,9095</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1028@e@ID153_clinic_450@gold</id>
+		<span>9061,9064</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1031@e@ID153_clinic_450@gold</id>
+		<span>9823,9828</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1032@e@ID153_clinic_450@gold</id>
+		<span>9929,9935</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1033@e@ID153_clinic_450@gold</id>
+		<span>10327,10335</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1034@e@ID153_clinic_450@gold</id>
+		<span>10369,10372</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1035@e@ID153_clinic_450@gold</id>
+		<span>10610,10618</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1036@e@ID153_clinic_450@gold</id>
+		<span>10687,10693</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1037@e@ID153_clinic_450@gold</id>
+		<span>10711,10717</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1038@e@ID153_clinic_450@gold</id>
+		<span>10812,10817</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1039@e@ID153_clinic_450@gold</id>
+		<span>10925,10929</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1040@e@ID153_clinic_450@gold</id>
+		<span>11017,11022</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1041@e@ID153_clinic_450@gold</id>
+		<span>11027,11035</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1042@e@ID153_clinic_450@gold</id>
+		<span>11068,11074</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1043@e@ID153_clinic_450@gold</id>
+		<span>11058,11067</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1044@e@ID153_clinic_450@gold</id>
+		<span>11082,11086</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1046@e@ID153_clinic_450@gold</id>
+		<span>11363,11367</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1047@e@ID153_clinic_450@gold</id>
+		<span>11460,11466</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1049@e@ID153_clinic_450@gold</id>
+		<span>11856,11863</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1050@e@ID153_clinic_450@gold</id>
+		<span>12057,12063</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1051@e@ID153_clinic_450@gold</id>
+		<span>12423,12426</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1053@e@ID153_clinic_450@gold</id>
+		<span>12638,12645</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1054@e@ID153_clinic_450@gold</id>
+		<span>1164,1169</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1055@e@ID153_clinic_450@gold</id>
+		<span>1215,1220</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1056@e@ID153_clinic_450@gold</id>
+		<span>1259,1264</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1057@e@ID153_clinic_450@gold</id>
+		<span>1403,1407</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1058@e@ID153_clinic_450@gold</id>
+		<span>1463,1467</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1059@e@ID153_clinic_450@gold</id>
+		<span>1502,1513</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1060@e@ID153_clinic_450@gold</id>
+		<span>1703,1710</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1061@e@ID153_clinic_450@gold</id>
+		<span>2201,2210</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1062@e@ID153_clinic_450@gold</id>
+		<span>2533,2537</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1063@e@ID153_clinic_450@gold</id>
+		<span>2701,2709</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1064@e@ID153_clinic_450@gold</id>
+		<span>2893,2897</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1065@e@ID153_clinic_450@gold</id>
+		<span>2991,2998</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1066@e@ID153_clinic_450@gold</id>
+		<span>3118,3122</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1067@e@ID153_clinic_450@gold</id>
+		<span>3175,3186</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1068@e@ID153_clinic_450@gold</id>
+		<span>3191,3200</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1069@e@ID153_clinic_450@gold</id>
+		<span>3492,3496</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1070@e@ID153_clinic_450@gold</id>
+		<span>4240,4242</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1071@e@ID153_clinic_450@gold</id>
+		<span>5793,5799</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1072@e@ID153_clinic_450@gold</id>
+		<span>6194,6200</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1073@e@ID153_clinic_450@gold</id>
+		<span>6262,6265</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1074@e@ID153_clinic_450@gold</id>
+		<span>6369,6375</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1077@e@ID153_clinic_450@gold</id>
+		<span>6863,6867</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1078@e@ID153_clinic_450@gold</id>
+		<span>6968,6973</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1079@e@ID153_clinic_450@gold</id>
+		<span>7104,7110</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1080@e@ID153_clinic_450@gold</id>
+		<span>7344,7346</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1081@e@ID153_clinic_450@gold</id>
+		<span>8121,8128</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1082@e@ID153_clinic_450@gold</id>
+		<span>8168,8172</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1083@e@ID153_clinic_450@gold</id>
+		<span>8290,8293</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1084@e@ID153_clinic_450@gold</id>
+		<span>8420,8428</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1085@e@ID153_clinic_450@gold</id>
+		<span>8441,8445</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1086@e@ID153_clinic_450@gold</id>
+		<span>8493,8499</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1087@e@ID153_clinic_450@gold</id>
+		<span>10060,10067</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1088@e@ID153_clinic_450@gold</id>
+		<span>10118,10124</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1089@e@ID153_clinic_450@gold</id>
+		<span>10235,10244</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1090@e@ID153_clinic_450@gold</id>
+		<span>10436,10447</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1091@e@ID153_clinic_450@gold</id>
+		<span>10556,10563</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1092@e@ID153_clinic_450@gold</id>
+		<span>10665,10671</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1093@e@ID153_clinic_450@gold</id>
+		<span>10704,10710</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1094@e@ID153_clinic_450@gold</id>
+		<span>10678,10683</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1095@e@ID153_clinic_450@gold</id>
+		<span>11153,11157</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1096@e@ID153_clinic_450@gold</id>
+		<span>11300,11305</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1097@e@ID153_clinic_450@gold</id>
+		<span>11373,11379</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1098@e@ID153_clinic_450@gold</id>
+		<span>11435,11439</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1099@e@ID153_clinic_450@gold</id>
+		<span>11838,11844</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1100@e@ID153_clinic_450@gold</id>
+		<span>12123,12130</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1101@e@ID153_clinic_450@gold</id>
+		<span>8887,8893</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1102@e@ID153_clinic_450@gold</id>
+		<span>5379,5390</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1103@e@ID153_clinic_450@gold</id>
+		<span>5326,5332</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1282@e@ID153_clinic_450@gold</id>
+		<span>16,18</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>May</Type>
+			<Sub-Interval>1359@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1283@e@ID153_clinic_450@gold</id>
+		<span>12590,12597</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1284@e@ID153_clinic_450@gold</id>
+		<span>11780,11786</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1285@e@ID153_clinic_450@gold</id>
+		<span>40,42</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1286@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1286@e@ID153_clinic_450@gold</id>
+		<span>43,45</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>27</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1287@e@ID153_clinic_450@gold</id>
+		<span>11630,11634</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2009</Value>
+			<Sub-Interval>1288@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1288@e@ID153_clinic_450@gold</id>
+		<span>11622,11629</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>January</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1289@e@ID153_clinic_450@gold</id>
+		<span>9683,9686</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Minute</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1290@e@ID153_clinic_450@gold</id>
+		<span>9679,9681</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>1289@e@ID153_clinic_450@gold</Every>
+			<Number>1291@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1291@e@ID153_clinic_450@gold</id>
+		<span>9679,9681</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>74</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1292@e@ID153_clinic_450@gold</id>
+		<span>108,110</span>
+		<type>Minute-Of-Hour</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>40</Value>
+			<Sub-Interval>1293@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1293@e@ID153_clinic_450@gold</id>
+		<span>111,113</span>
+		<type>Second-Of-Minute</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>17</Value>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1294@e@ID153_clinic_450@gold</id>
+		<span>143,150</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1295@e@ID153_clinic_450@gold</id>
+		<span>176,180</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1296@e@ID153_clinic_450@gold</id>
+		<span>696,700</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1297@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1297@e@ID153_clinic_450@gold</id>
+		<span>701,705</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1298@e@ID153_clinic_450@gold</id>
+		<span>986,990</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1299@e@ID153_clinic_450@gold</id>
+		<span>1001,1005</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1300@e@ID153_clinic_450@gold</id>
+		<span>9583,9585</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>27</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1301@e@ID153_clinic_450@gold</id>
+		<span>9579,9582</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1300@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1302@e@ID153_clinic_450@gold</id>
+		<span>1605,1609</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1303@e@ID153_clinic_450@gold</id>
+		<span>9423,9425</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>27</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1304@e@ID153_clinic_450@gold</id>
+		<span>1646,1655</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1305@e@ID153_clinic_450@gold</id>
+		<span>1656,1662</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1306@e@ID153_clinic_450@gold</id>
+		<span>1830,1838</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>1307@e@ID153_clinic_450@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1307@e@ID153_clinic_450@gold</id>
+		<span>1830,1838</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1308@e@ID153_clinic_450@gold</id>
+		<span>1841,1846</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>589@e@ID153_clinic_450@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1309@e@ID153_clinic_450@gold</id>
+		<span>1849,1851</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>25</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1310@e@ID153_clinic_450@gold</id>
+		<span>2599,2603</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1311@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1311@e@ID153_clinic_450@gold</id>
+		<span>2604,2608</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1312@e@ID153_clinic_450@gold</id>
+		<span>2673,2677</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1313@e@ID153_clinic_450@gold</id>
+		<span>3047,3055</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1314@e@ID153_clinic_450@gold</id>
+		<span>3406,3415</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1315@e@ID153_clinic_450@gold</id>
+		<span>3478,3482</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1316@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1316@e@ID153_clinic_450@gold</id>
+		<span>3483,3487</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1317@e@ID153_clinic_450@gold</id>
+		<span>9419,9422</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1303@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1318@e@ID153_clinic_450@gold</id>
+		<span>9350,9352</span>
+		<type>AMPM-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>AM</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1319@e@ID153_clinic_450@gold</id>
+		<span>9347,9349</span>
+		<type>Minute-Of-Hour</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>4</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1320@e@ID153_clinic_450@gold</id>
+		<span>3842,3845</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1321@e@ID153_clinic_450@gold</id>
+		<span>3848,3851</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1322@e@ID153_clinic_450@gold</id>
+		<span>9345,9346</span>
+		<type>Hour-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>9</Value>
+			<AMPM-Of-Day>1318@e@ID153_clinic_450@gold</AMPM-Of-Day>
+			<Time-Zone></Time-Zone>
+			<Sub-Interval>1319@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1323@e@ID153_clinic_450@gold</id>
+		<span>3866,3869</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>?</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1324@e@ID153_clinic_450@gold</id>
+		<span>4045,4047</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>70</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1325@e@ID153_clinic_450@gold</id>
+		<span>4209,4217</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1326@e@ID153_clinic_450@gold</id>
+		<span>4209,4217</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>1325@e@ID153_clinic_450@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1327@e@ID153_clinic_450@gold</id>
+		<span>4243,4248</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>1328@e@ID153_clinic_450@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1328@e@ID153_clinic_450@gold</id>
+		<span>4243,4248</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1329@e@ID153_clinic_450@gold</id>
+		<span>4697,4699</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>57</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1330@e@ID153_clinic_450@gold</id>
+		<span>4700,4704</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1329@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1331@e@ID153_clinic_450@gold</id>
+		<span>4791,4799</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1332@e@ID153_clinic_450@gold</id>
+		<span>4860,4868</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>December</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1333@e@ID153_clinic_450@gold</id>
+		<span>4869,4873</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2009</Value>
+			<Sub-Interval>1332@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1334@e@ID153_clinic_450@gold</id>
+		<span>4910,4923</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Approx</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1335@e@ID153_clinic_450@gold</id>
+		<span>4926,4931</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Months</Type>
+			<Number></Number>
+			<Modifier>1334@e@ID153_clinic_450@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1336@e@ID153_clinic_450@gold</id>
+		<span>9318,9325</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Tuesday</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1337@e@ID153_clinic_450@gold</id>
+		<span>5024,5030</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1338@e@ID153_clinic_450@gold</id>
+		<span>5128,5133</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1339@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1339@e@ID153_clinic_450@gold</id>
+		<span>5134,5136</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>12</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1340@e@ID153_clinic_450@gold</id>
+		<span>9065,9067</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>15</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1341@e@ID153_clinic_450@gold</id>
+		<span>5459,5464</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1342@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1342@e@ID153_clinic_450@gold</id>
+		<span>5465,5467</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>12</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1343@e@ID153_clinic_450@gold</id>
+		<span>9065,9067</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1340@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1344@e@ID153_clinic_450@gold</id>
+		<span>5714,5719</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1345@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1345@e@ID153_clinic_450@gold</id>
+		<span>5720,5722</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>12</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1346@e@ID153_clinic_450@gold</id>
+		<span>9025,9029</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1347@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1347@e@ID153_clinic_450@gold</id>
+		<span>9022,9024</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>27</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1348@e@ID153_clinic_450@gold</id>
+		<span>5773,5776</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>6</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1349@e@ID153_clinic_450@gold</id>
+		<span>5777,5783</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Months</Type>
+			<Number>1348@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1350@e@ID153_clinic_450@gold</id>
+		<span>5858,5863</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>3</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1351@e@ID153_clinic_450@gold</id>
+		<span>5864,5869</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>1352@e@ID153_clinic_450@gold</Every>
+			<Number>1350@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1352@e@ID153_clinic_450@gold</id>
+		<span>5872,5875</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1353@e@ID153_clinic_450@gold</id>
+		<span>5883,5890</span>
+		<type>Part-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Morning</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1354@e@ID153_clinic_450@gold</id>
+		<span>8931,8933</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>52</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1355@e@ID153_clinic_450@gold</id>
+		<span>6062,6064</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>16</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1356@e@ID153_clinic_450@gold</id>
+		<span>6065,6071</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Months</Type>
+			<Number>1355@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1357@e@ID153_clinic_450@gold</id>
+		<span>6123,6130</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>January</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1358@e@ID153_clinic_450@gold</id>
+		<span>6131,6135</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2009</Value>
+			<Sub-Interval>1357@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1359@e@ID153_clinic_450@gold</id>
+		<span>19,21</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>30</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1360@e@ID153_clinic_450@gold</id>
+		<span>6288,6293</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>1361@e@ID153_clinic_450@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1361@e@ID153_clinic_450@gold</id>
+		<span>6288,6293</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1362@e@ID153_clinic_450@gold</id>
+		<span>8931,8933</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1354@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1363@e@ID153_clinic_450@gold</id>
+		<span>6437,6438</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1364@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1364@e@ID153_clinic_450@gold</id>
+		<span>6439,6441</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>27</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1365@e@ID153_clinic_450@gold</id>
+		<span>8824,8828</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1366@e@ID153_clinic_450@gold</id>
+		<span>6448,6449</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1367@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1367@e@ID153_clinic_450@gold</id>
+		<span>6450,6452</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>27</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1368@e@ID153_clinic_450@gold</id>
+		<span>6508,6512</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1369@e@ID153_clinic_450@gold</id>
+		<span>8783,8785</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>83</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1370@e@ID153_clinic_450@gold</id>
+		<span>6979,6988</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1371@e@ID153_clinic_450@gold</id>
+		<span>7147,7160</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1372@e@ID153_clinic_450@gold</id>
+		<span>7168,7172</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1373@e@ID153_clinic_450@gold</id>
+		<span>7283,7296</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Approx</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1374@e@ID153_clinic_450@gold</id>
+		<span>7297,7299</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>30</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1375@e@ID153_clinic_450@gold</id>
+		<span>7300,7305</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1374@e@ID153_clinic_450@gold</Number>
+			<Modifier>1373@e@ID153_clinic_450@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1376@e@ID153_clinic_450@gold</id>
+		<span>8724,8726</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>60</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1377@e@ID153_clinic_450@gold</id>
+		<span>7383,7387</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2008</Value>
+			<Sub-Interval></Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1378@e@ID153_clinic_450@gold</id>
+		<span>7430,7435</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>792@e@ID153_clinic_450@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1379@e@ID153_clinic_450@gold</id>
+		<span>8405,8412</span>
+		<type>Part-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Night</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1380@e@ID153_clinic_450@gold</id>
+		<span>7671,7678</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Tuesday</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1381@e@ID153_clinic_450@gold</id>
+		<span>8380,8391</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>2-4</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1382@e@ID153_clinic_450@gold</id>
+		<span>8310,8314</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1383@e@ID153_clinic_450@gold</id>
+		<span>8305,8309</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1382@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1384@e@ID153_clinic_450@gold</id>
+		<span>7700,7702</span>
+		<type>Hour-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>9</Value>
+			<AMPM-Of-Day>1386@e@ID153_clinic_450@gold</AMPM-Of-Day>
+			<Time-Zone></Time-Zone>
+			<Sub-Interval>1385@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1385@e@ID153_clinic_450@gold</id>
+		<span>7703,7705</span>
+		<type>Minute-Of-Hour</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>4</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1386@e@ID153_clinic_450@gold</id>
+		<span>7706,7708</span>
+		<type>AMPM-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>AM</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1387@e@ID153_clinic_450@gold</id>
+		<span>8020,8026</span>
+		<type>Season-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Summer</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1388@e@ID153_clinic_450@gold</id>
+		<span>8141,8154</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Approx</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1389@e@ID153_clinic_450@gold</id>
+		<span>8155,8157</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>30</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1390@e@ID153_clinic_450@gold</id>
+		<span>8158,8163</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1389@e@ID153_clinic_450@gold</Number>
+			<Modifier>1388@e@ID153_clinic_450@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1394@e@ID153_clinic_450@gold</id>
+		<span>105,107</span>
+		<type>Hour-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>9</Value>
+			<AMPM-Of-Day></AMPM-Of-Day>
+			<Time-Zone></Time-Zone>
+			<Sub-Interval>1292@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1395@e@ID153_clinic_450@gold</id>
+		<span>6057,6061</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1356@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1396@e@ID153_clinic_450@gold</id>
+		<span>5768,5772</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1349@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1397@e@ID153_clinic_450@gold</id>
+		<span>4932,4935</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1335@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1398@e@ID153_clinic_450@gold</id>
+		<span>8392,8396</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>1379@e@ID153_clinic_450@gold</Every>
+			<Number>1381@e@ID153_clinic_450@gold</Number>
+			<Modifier>1452@e@ID153_clinic_450@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1399@e@ID153_clinic_450@gold</id>
+		<span>7306,7309</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1375@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1400@e@ID153_clinic_450@gold</id>
+		<span>97,99</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>30</Value>
+			<Sub-Interval>1394@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1401@e@ID153_clinic_450@gold</id>
+		<span>93,96</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>May</Type>
+			<Sub-Interval>1400@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1403@e@ID153_clinic_450@gold</id>
+		<span>8813,8818</span>
+		<type>Between</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Start-Interval-Type>Link</Start-Interval-Type>
+			<Start-Interval>1021@e@ID153_clinic_450@gold</Start-Interval>
+			<End-Interval-Type>Link</End-Interval-Type>
+			<End-Interval>1404@e@ID153_clinic_450@gold</End-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1404@e@ID153_clinic_450@gold</id>
+		<span>8819,8823</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>1019@e@ID153_clinic_450@gold</Interval>
+			<Period>1365@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1405@e@ID153_clinic_450@gold</id>
+		<span>1642,1646</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>1304@e@ID153_clinic_450@gold</Interval>
+			<Period>1305@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1406@e@ID153_clinic_450@gold</id>
+		<span>3584,3587</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>1418@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1407@e@ID153_clinic_450@gold</id>
+		<span>7686,7688</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>27</Value>
+			<Sub-Interval>1384@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1408@e@ID153_clinic_450@gold</id>
+		<span>7680,7685</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1407@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1409@e@ID153_clinic_450@gold</id>
+		<span>9333,9335</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>27</Value>
+			<Sub-Interval>1322@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1410@e@ID153_clinic_450@gold</id>
+		<span>9327,9332</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>1409@e@ID153_clinic_450@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1411@e@ID153_clinic_450@gold</id>
+		<span>6443,6447</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1366@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1412@e@ID153_clinic_450@gold</id>
+		<span>5138,5142</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1338@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1413@e@ID153_clinic_450@gold</id>
+		<span>22,26</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1282@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1414@e@ID153_clinic_450@gold</id>
+		<span>5469,5473</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1341@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1415@e@ID153_clinic_450@gold</id>
+		<span>5724,5728</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1344@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1416@e@ID153_clinic_450@gold</id>
+		<span>9337,9341</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1410@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1417@e@ID153_clinic_450@gold</id>
+		<span>6432,6436</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1363@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1418@e@ID153_clinic_450@gold</id>
+		<span>3579,3583</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number></Number>
+			<Modifier>1434@e@ID153_clinic_450@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1419@e@ID153_clinic_450@gold</id>
+		<span>46,50</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1285@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1420@e@ID153_clinic_450@gold</id>
+		<span>7690,7694</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1408@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1421@e@ID153_clinic_450@gold</id>
+		<span>9427,9431</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1317@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1422@e@ID153_clinic_450@gold</id>
+		<span>8783,8785</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1369@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1423@e@ID153_clinic_450@gold</id>
+		<span>1295,1300</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier>1447@e@ID153_clinic_450@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1424@e@ID153_clinic_450@gold</id>
+		<span>9587,9591</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1301@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1425@e@ID153_clinic_450@gold</id>
+		<span>6702,6706</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Week</Type>
+			<Number></Number>
+			<Modifier>1453@e@ID153_clinic_450@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1426@e@ID153_clinic_450@gold</id>
+		<span>100,104</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>1401@e@ID153_clinic_450@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1427@e@ID153_clinic_450@gold</id>
+		<span>8724,8726</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1376@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1428@e@ID153_clinic_450@gold</id>
+		<span>11330,11334</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>1459@e@ID153_clinic_450@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1429@e@ID153_clinic_450@gold</id>
+		<span>9318,9325</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>1416@e@ID153_clinic_450@gold</Intervals>
+			<Repeating-Intervals>1336@e@ID153_clinic_450@gold</Repeating-Intervals>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1430@e@ID153_clinic_450@gold</id>
+		<span>7671,7678</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>1420@e@ID153_clinic_450@gold</Intervals>
+			<Repeating-Intervals>1380@e@ID153_clinic_450@gold</Repeating-Intervals>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1431@e@ID153_clinic_450@gold</id>
+		<span>3861,3865</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>1456@e@ID153_clinic_450@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1433@e@ID153_clinic_450@gold</id>
+		<span>6282,6287</span>
+		<type>Between</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Start-Interval-Type>Unknown</Start-Interval-Type>
+			<Start-Interval></Start-Interval>
+			<End-Interval-Type>Link</End-Interval-Type>
+			<End-Interval>1360@e@ID153_clinic_450@gold</End-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1434@e@ID153_clinic_450@gold</id>
+		<span>3572,3576</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>More-Than</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1435@e@ID153_clinic_450@gold</id>
+		<span>5879,5882</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>1353@e@ID153_clinic_450@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1436@e@ID153_clinic_450@gold</id>
+		<span>5879,5882</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>1435@e@ID153_clinic_450@gold</Intervals>
+			<Repeating-Intervals>1352@e@ID153_clinic_450@gold</Repeating-Intervals>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1438@e@ID153_clinic_450@gold</id>
+		<span>8183,8186</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>1439@e@ID153_clinic_450@gold</Every>
+			<Number>1442@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1439@e@ID153_clinic_450@gold</id>
+		<span>8199,8203</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Week</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1440@e@ID153_clinic_450@gold</id>
+		<span>8207,8210</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>10</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1441@e@ID153_clinic_450@gold</id>
+		<span>8211,8215</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number>1440@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1442@e@ID153_clinic_450@gold</id>
+		<span>8183,8186</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1443@e@ID153_clinic_450@gold</id>
+		<span>8183,8186</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>1441@e@ID153_clinic_450@gold</Every>
+			<Number>1442@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1444@e@ID153_clinic_450@gold</id>
+		<span>5847,5852</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>1351@e@ID153_clinic_450@gold</Every>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1445@e@ID153_clinic_450@gold</id>
+		<span>7878,7880</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>15</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1446@e@ID153_clinic_450@gold</id>
+		<span>7878,7880</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>1445@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1447@e@ID153_clinic_450@gold</id>
+		<span>1289,1294</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>End</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1448@e@ID153_clinic_450@gold</id>
+		<span>1613,1620</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1449@e@ID153_clinic_450@gold</id>
+		<span>1601,1604</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>1448@e@ID153_clinic_450@gold</Interval>
+			<Period>1302@e@ID153_clinic_450@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1450@e@ID153_clinic_450@gold</id>
+		<span>3047,3055</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>1313@e@ID153_clinic_450@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1451@e@ID153_clinic_450@gold</id>
+		<span>3908,3912</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1452@e@ID153_clinic_450@gold</id>
+		<span>8366,8379</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Approx</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1453@e@ID153_clinic_450@gold</id>
+		<span>6693,6699</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Less-Than</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1454@e@ID153_clinic_450@gold</id>
+		<span>1852,1858</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Minute</Type>
+			<Number>1309@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1455@e@ID153_clinic_450@gold</id>
+		<span>3842,3845</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>1321@e@ID153_clinic_450@gold</Every>
+			<Number>1320@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1456@e@ID153_clinic_450@gold</id>
+		<span>3870,3874</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Day</Type>
+			<Number>1323@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1457@e@ID153_clinic_450@gold</id>
+		<span>4048,4055</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Minute</Type>
+			<Number>1324@e@ID153_clinic_450@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1458@e@ID153_clinic_450@gold</id>
+		<span>6895,6896</span>
+		<type>Hour-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>3</Value>
+			<AMPM-Of-Day></AMPM-Of-Day>
+			<Time-Zone></Time-Zone>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>1459@e@ID153_clinic_450@gold</id>
+		<span>11335,11339</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Year</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

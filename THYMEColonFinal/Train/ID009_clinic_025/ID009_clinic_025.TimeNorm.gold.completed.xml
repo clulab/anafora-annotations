@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>22:02:55 04-06-2016</savetime>
+  <savetime>09:10:35 12-09-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -919,20 +919,20 @@
 	</entity>
 
 	<entity>
-		<id>137@e@ID009_clinic_025@gold</id>
+		<id>138@e@ID009_clinic_025@gold</id>
 		<span>16,18</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>February</Type>
-			<Sub-Interval>138@e@ID009_clinic_025@gold</Sub-Interval>
+			<Sub-Interval>139@e@ID009_clinic_025@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>138@e@ID009_clinic_025@gold</id>
+		<id>139@e@ID009_clinic_025@gold</id>
 		<span>19,21</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -945,32 +945,32 @@
 	</entity>
 
 	<entity>
-		<id>139@e@ID009_clinic_025@gold</id>
+		<id>140@e@ID009_clinic_025@gold</id>
 		<span>22,26</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>137@e@ID009_clinic_025@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>140@e@ID009_clinic_025@gold</id>
-		<span>40,42</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>February</Type>
-			<Sub-Interval>141@e@ID009_clinic_025@gold</Sub-Interval>
-			<Number></Number>
+			<Sub-Interval>138@e@ID009_clinic_025@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>141@e@ID009_clinic_025@gold</id>
+		<span>40,42</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>February</Type>
+			<Sub-Interval>142@e@ID009_clinic_025@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>142@e@ID009_clinic_025@gold</id>
 		<span>43,45</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -983,19 +983,19 @@
 	</entity>
 
 	<entity>
-		<id>142@e@ID009_clinic_025@gold</id>
+		<id>143@e@ID009_clinic_025@gold</id>
 		<span>46,50</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>140@e@ID009_clinic_025@gold</Sub-Interval>
+			<Sub-Interval>141@e@ID009_clinic_025@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>143@e@ID009_clinic_025@gold</id>
+		<id>144@e@ID009_clinic_025@gold</id>
 		<span>937,942</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
@@ -1008,7 +1008,7 @@
 	</entity>
 
 	<entity>
-		<id>144@e@ID009_clinic_025@gold</id>
+		<id>145@e@ID009_clinic_025@gold</id>
 		<span>1618,1620</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -1018,19 +1018,19 @@
 	</entity>
 
 	<entity>
-		<id>145@e@ID009_clinic_025@gold</id>
+		<id>146@e@ID009_clinic_025@gold</id>
 		<span>1621,1625</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Years</Type>
-			<Number>144@e@ID009_clinic_025@gold</Number>
+			<Number>145@e@ID009_clinic_025@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>146@e@ID009_clinic_025@gold</id>
+		<id>147@e@ID009_clinic_025@gold</id>
 		<span>1855,1858</span>
 		<type>Modifier</type>
 		<parentsType>Other</parentsType>
@@ -1040,19 +1040,46 @@
 	</entity>
 
 	<entity>
-		<id>147@e@ID009_clinic_025@gold</id>
+		<id>148@e@ID009_clinic_025@gold</id>
+		<span>1862,1865</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>149@e@ID009_clinic_025@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>149@e@ID009_clinic_025@gold</id>
 		<span>1866,1870</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Year</Type>
 			<Number></Number>
-			<Modifier>146@e@ID009_clinic_025@gold</Modifier>
+			<Modifier>147@e@ID009_clinic_025@gold</Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>149@e@ID009_clinic_025@gold</id>
+		<id>150@e@ID009_clinic_025@gold</id>
+		<span>1876,1880</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>96@e@ID009_clinic_025@gold</Interval>
+			<Period>151@e@ID009_clinic_025@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>151@e@ID009_clinic_025@gold</id>
 		<span>1881,1885</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
@@ -1064,7 +1091,21 @@
 	</entity>
 
 	<entity>
-		<id>151@e@ID009_clinic_025@gold</id>
+		<id>152@e@ID009_clinic_025@gold</id>
+		<span>2594,2598</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>154@e@ID009_clinic_025@gold</id>
 		<span>2699,2704</span>
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
@@ -1077,7 +1118,226 @@
 	</entity>
 
 	<entity>
-		<id>152@e@ID009_clinic_025@gold</id>
+		<id>155@e@ID009_clinic_025@gold</id>
+		<span>2755,2758</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>156@e@ID009_clinic_025@gold</id>
+		<span>503,506</span>
+		<type>PreAnnotation</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>157@e@ID009_clinic_025@gold</id>
+		<span>19,21</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>24</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>158@e@ID009_clinic_025@gold</id>
+		<span>16,18</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>February</Type>
+			<Sub-Interval>157@e@ID009_clinic_025@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>159@e@ID009_clinic_025@gold</id>
+		<span>22,26</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval></Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>160@e@ID009_clinic_025@gold</id>
+		<span>43,45</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>24</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>161@e@ID009_clinic_025@gold</id>
+		<span>40,42</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>February</Type>
+			<Sub-Interval>160@e@ID009_clinic_025@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>162@e@ID009_clinic_025@gold</id>
+		<span>46,50</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval>161@e@ID009_clinic_025@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>163@e@ID009_clinic_025@gold</id>
+		<span>937,942</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>33@e@ID009_clinic_025@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>164@e@ID009_clinic_025@gold</id>
+		<span>1621,1625</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Years</Type>
+			<Number>165@e@ID009_clinic_025@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>165@e@ID009_clinic_025@gold</id>
+		<span>1618,1620</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>75</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>166@e@ID009_clinic_025@gold</id>
+		<span>1855,1858</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>End</Type>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>167@e@ID009_clinic_025@gold</id>
+		<span>1866,1870</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Year</Type>
+			<Number></Number>
+			<Modifier>166@e@ID009_clinic_025@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>168@e@ID009_clinic_025@gold</id>
+		<span>1881,1885</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>169@e@ID009_clinic_025@gold</id>
+		<span>1876,1880</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>168@e@ID009_clinic_025@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>170@e@ID009_clinic_025@gold</id>
+		<span>2594,2598</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>171@e@ID009_clinic_025@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>171@e@ID009_clinic_025@gold</id>
+		<span>2599,2604</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Month</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>172@e@ID009_clinic_025@gold</id>
+		<span>2583,2589</span>
+		<type>Between</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Start-Interval-Type>Link</Start-Interval-Type>
+			<Start-Interval>170@e@ID009_clinic_025@gold</Start-Interval>
+			<End-Interval-Type>DocTime</End-Interval-Type>
+			<End-Interval></End-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>173@e@ID009_clinic_025@gold</id>
 		<span>2755,2758</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>

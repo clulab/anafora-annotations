@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:42:03 25-06-2016</savetime>
+  <savetime>08:35:32 12-09-2016</savetime>
   <progress>completed</progress>
 </info>
 
@@ -847,20 +847,20 @@
 	</entity>
 
 	<entity>
-		<id>269@e@ID001_clinic_003@gold</id>
+		<id>398@e@ID001_clinic_003@gold</id>
 		<span>16,18</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>April</Type>
-			<Sub-Interval>270@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>399@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>270@e@ID001_clinic_003@gold</id>
+		<id>399@e@ID001_clinic_003@gold</id>
 		<span>19,21</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -873,32 +873,32 @@
 	</entity>
 
 	<entity>
-		<id>271@e@ID001_clinic_003@gold</id>
+		<id>400@e@ID001_clinic_003@gold</id>
 		<span>22,26</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>269@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>398@e@ID001_clinic_003@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>272@e@ID001_clinic_003@gold</id>
+		<id>401@e@ID001_clinic_003@gold</id>
 		<span>40,42</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>April</Type>
-			<Sub-Interval>273@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>402@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>273@e@ID001_clinic_003@gold</id>
+		<id>402@e@ID001_clinic_003@gold</id>
 		<span>43,45</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -911,32 +911,32 @@
 	</entity>
 
 	<entity>
-		<id>274@e@ID001_clinic_003@gold</id>
+		<id>403@e@ID001_clinic_003@gold</id>
 		<span>46,50</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>272@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>401@e@ID001_clinic_003@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>275@e@ID001_clinic_003@gold</id>
+		<id>404@e@ID001_clinic_003@gold</id>
 		<span>183,188</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>276@e@ID001_clinic_003@gold</Interval>
+			<Interval>405@e@ID001_clinic_003@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>276@e@ID001_clinic_003@gold</id>
+		<id>405@e@ID001_clinic_003@gold</id>
 		<span>193,200</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
@@ -945,20 +945,20 @@
 	</entity>
 
 	<entity>
-		<id>277@e@ID001_clinic_003@gold</id>
+		<id>406@e@ID001_clinic_003@gold</id>
 		<span>722,726</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Period>278@e@ID001_clinic_003@gold</Period>
+			<Period>407@e@ID001_clinic_003@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>278@e@ID001_clinic_003@gold</id>
+		<id>407@e@ID001_clinic_003@gold</id>
 		<span>727,731</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
@@ -970,46 +970,65 @@
 	</entity>
 
 	<entity>
-		<id>279@e@ID001_clinic_003@gold</id>
+		<id>408@e@ID001_clinic_003@gold</id>
 		<span>896,909</span>
 		<type>Modifier</type>
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Approx</Type>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>280@e@ID001_clinic_003@gold</id>
+		<id>409@e@ID001_clinic_003@gold</id>
 		<span>910,914</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
 		<properties>
 			<Value>4</Value>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>281@e@ID001_clinic_003@gold</id>
+		<id>410@e@ID001_clinic_003@gold</id>
+		<span>915,921</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Months</Type>
+			<Number>409@e@ID001_clinic_003@gold</Number>
+			<Modifier>408@e@ID001_clinic_003@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>411@e@ID001_clinic_003@gold</id>
+		<span>1039,1046</span>
+		<type>Between</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Start-Interval-Type>DocTime</Start-Interval-Type>
+			<Start-Interval></Start-Interval>
+			<End-Interval-Type>Link</End-Interval-Type>
+			<End-Interval>77@e@ID001_clinic_003@gold</End-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>412@e@ID001_clinic_003@gold</id>
 		<span>1697,1701</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>282@e@ID001_clinic_003@gold</Interval>
+			<Interval>413@e@ID001_clinic_003@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>282@e@ID001_clinic_003@gold</id>
+		<id>413@e@ID001_clinic_003@gold</id>
 		<span>1701,1710</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
@@ -1018,7 +1037,7 @@
 	</entity>
 
 	<entity>
-		<id>283@e@ID001_clinic_003@gold</id>
+		<id>414@e@ID001_clinic_003@gold</id>
 		<span>1846,1854</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1031,19 +1050,19 @@
 	</entity>
 
 	<entity>
-		<id>284@e@ID001_clinic_003@gold</id>
+		<id>415@e@ID001_clinic_003@gold</id>
 		<span>1855,1859</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>283@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>414@e@ID001_clinic_003@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>285@e@ID001_clinic_003@gold</id>
+		<id>416@e@ID001_clinic_003@gold</id>
 		<span>1888,1895</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -1053,32 +1072,32 @@
 	</entity>
 
 	<entity>
-		<id>286@e@ID001_clinic_003@gold</id>
+		<id>417@e@ID001_clinic_003@gold</id>
 		<span>1896,1900</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>Day</Type>
-			<Number>285@e@ID001_clinic_003@gold</Number>
+			<Number>416@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>287@e@ID001_clinic_003@gold</id>
+		<id>418@e@ID001_clinic_003@gold</id>
 		<span>2079,2087</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>February</Type>
-			<Sub-Interval>288@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>419@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>288@e@ID001_clinic_003@gold</id>
+		<id>419@e@ID001_clinic_003@gold</id>
 		<span>2088,2090</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1091,32 +1110,32 @@
 	</entity>
 
 	<entity>
-		<id>289@e@ID001_clinic_003@gold</id>
+		<id>420@e@ID001_clinic_003@gold</id>
 		<span>2092,2096</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>287@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>418@e@ID001_clinic_003@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>290@e@ID001_clinic_003@gold</id>
+		<id>421@e@ID001_clinic_003@gold</id>
 		<span>2129,2137</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>February</Type>
-			<Sub-Interval>291@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>422@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>291@e@ID001_clinic_003@gold</id>
+		<id>422@e@ID001_clinic_003@gold</id>
 		<span>2138,2140</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1129,32 +1148,32 @@
 	</entity>
 
 	<entity>
-		<id>292@e@ID001_clinic_003@gold</id>
+		<id>423@e@ID001_clinic_003@gold</id>
 		<span>2142,2146</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>290@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>421@e@ID001_clinic_003@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>293@e@ID001_clinic_003@gold</id>
+		<id>424@e@ID001_clinic_003@gold</id>
 		<span>2381,2389</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>February</Type>
-			<Sub-Interval>294@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>425@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>294@e@ID001_clinic_003@gold</id>
+		<id>425@e@ID001_clinic_003@gold</id>
 		<span>2390,2392</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1167,32 +1186,32 @@
 	</entity>
 
 	<entity>
-		<id>295@e@ID001_clinic_003@gold</id>
+		<id>426@e@ID001_clinic_003@gold</id>
 		<span>2394,2398</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>293@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>424@e@ID001_clinic_003@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>296@e@ID001_clinic_003@gold</id>
+		<id>427@e@ID001_clinic_003@gold</id>
 		<span>2648,2652</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>297@e@ID001_clinic_003@gold</Interval>
+			<Interval>428@e@ID001_clinic_003@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>297@e@ID001_clinic_003@gold</id>
+		<id>428@e@ID001_clinic_003@gold</id>
 		<span>2652,2661</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
@@ -1201,7 +1220,7 @@
 	</entity>
 
 	<entity>
-		<id>298@e@ID001_clinic_003@gold</id>
+		<id>429@e@ID001_clinic_003@gold</id>
 		<span>2825,2830</span>
 		<type>Modifier</type>
 		<parentsType>Other</parentsType>
@@ -1211,7 +1230,7 @@
 	</entity>
 
 	<entity>
-		<id>299@e@ID001_clinic_003@gold</id>
+		<id>430@e@ID001_clinic_003@gold</id>
 		<span>2831,2834</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -1221,32 +1240,32 @@
 	</entity>
 
 	<entity>
-		<id>300@e@ID001_clinic_003@gold</id>
+		<id>431@e@ID001_clinic_003@gold</id>
 		<span>2835,2840</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Weeks</Type>
-			<Number>299@e@ID001_clinic_003@gold</Number>
-			<Modifier>298@e@ID001_clinic_003@gold</Modifier>
+			<Number>430@e@ID001_clinic_003@gold</Number>
+			<Modifier>429@e@ID001_clinic_003@gold</Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>301@e@ID001_clinic_003@gold</id>
+		<id>432@e@ID001_clinic_003@gold</id>
 		<span>2841,2844</span>
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Period>300@e@ID001_clinic_003@gold</Period>
+			<Period>431@e@ID001_clinic_003@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>302@e@ID001_clinic_003@gold</id>
+		<id>433@e@ID001_clinic_003@gold</id>
 		<span>3033,3038</span>
 		<type>Between</type>
 		<parentsType>Operator</parentsType>
@@ -1259,7 +1278,7 @@
 	</entity>
 
 	<entity>
-		<id>303@e@ID001_clinic_003@gold</id>
+		<id>434@e@ID001_clinic_003@gold</id>
 		<span>3492,3505</span>
 		<type>Modifier</type>
 		<parentsType>Other</parentsType>
@@ -1269,32 +1288,32 @@
 	</entity>
 
 	<entity>
-		<id>304@e@ID001_clinic_003@gold</id>
+		<id>435@e@ID001_clinic_003@gold</id>
 		<span>3506,3510</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>1980</Value>
 			<Sub-Interval></Sub-Interval>
-			<Modifier>303@e@ID001_clinic_003@gold</Modifier>
+			<Modifier>434@e@ID001_clinic_003@gold</Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>305@e@ID001_clinic_003@gold</id>
+		<id>436@e@ID001_clinic_003@gold</id>
 		<span>3611,3616</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>306@e@ID001_clinic_003@gold</Interval>
+			<Interval>437@e@ID001_clinic_003@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>306@e@ID001_clinic_003@gold</id>
+		<id>437@e@ID001_clinic_003@gold</id>
 		<span>3617,3624</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
@@ -1303,18 +1322,18 @@
 	</entity>
 
 	<entity>
-		<id>307@e@ID001_clinic_003@gold</id>
+		<id>438@e@ID001_clinic_003@gold</id>
 		<span>3998,4006</span>
 		<type>Intersection</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Intervals>311@e@ID001_clinic_003@gold</Intervals>
-			<Repeating-Intervals>308@e@ID001_clinic_003@gold</Repeating-Intervals>
+			<Intervals>442@e@ID001_clinic_003@gold</Intervals>
+			<Repeating-Intervals>439@e@ID001_clinic_003@gold</Repeating-Intervals>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>308@e@ID001_clinic_003@gold</id>
+		<id>439@e@ID001_clinic_003@gold</id>
 		<span>3998,4006</span>
 		<type>Day-Of-Week</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1327,60 +1346,60 @@
 	</entity>
 
 	<entity>
-		<id>309@e@ID001_clinic_003@gold</id>
+		<id>440@e@ID001_clinic_003@gold</id>
 		<span>4008,4013</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>April</Type>
-			<Sub-Interval>310@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>441@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>310@e@ID001_clinic_003@gold</id>
+		<id>441@e@ID001_clinic_003@gold</id>
 		<span>4014,4015</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>1</Value>
-			<Sub-Interval>312@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>443@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>311@e@ID001_clinic_003@gold</id>
+		<id>442@e@ID001_clinic_003@gold</id>
 		<span>4017,4021</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>309@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>440@e@ID001_clinic_003@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>312@e@ID001_clinic_003@gold</id>
+		<id>443@e@ID001_clinic_003@gold</id>
 		<span>4027,4029</span>
 		<type>Hour-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>1</Value>
-			<AMPM-Of-Day>314@e@ID001_clinic_003@gold</AMPM-Of-Day>
+			<AMPM-Of-Day>445@e@ID001_clinic_003@gold</AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
-			<Sub-Interval>313@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>444@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>313@e@ID001_clinic_003@gold</id>
+		<id>444@e@ID001_clinic_003@gold</id>
 		<span>4030,4032</span>
 		<type>Minute-Of-Hour</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1393,7 +1412,7 @@
 	</entity>
 
 	<entity>
-		<id>314@e@ID001_clinic_003@gold</id>
+		<id>445@e@ID001_clinic_003@gold</id>
 		<span>4033,4035</span>
 		<type>AMPM-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1405,7 +1424,30 @@
 	</entity>
 
 	<entity>
-		<id>316@e@ID001_clinic_003@gold</id>
+		<id>446@e@ID001_clinic_003@gold</id>
+		<span>4151,4155</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>447@e@ID001_clinic_003@gold</id>
+		<span>4151,4155</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>448@e@ID001_clinic_003@gold</Every>
+			<Number>446@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>448@e@ID001_clinic_003@gold</id>
 		<span>4158,4162</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1414,13 +1456,33 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>317@e@ID001_clinic_003@gold</id>
+		<id>449@e@ID001_clinic_003@gold</id>
+		<span>4391,4392</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>450@e@ID001_clinic_003@gold</id>
+		<span>4393,4399</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>451@e@ID001_clinic_003@gold</Every>
+			<Number>449@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>451@e@ID001_clinic_003@gold</id>
 		<span>4415,4419</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1429,13 +1491,10 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>318@e@ID001_clinic_003@gold</id>
+		<id>452@e@ID001_clinic_003@gold</id>
 		<span>4452,4458</span>
 		<type>Day-Of-Week</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1448,7 +1507,53 @@
 	</entity>
 
 	<entity>
-		<id>319@e@ID001_clinic_003@gold</id>
+		<id>453@e@ID001_clinic_003@gold</id>
+		<span>4534,4535</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>454@e@ID001_clinic_003@gold</id>
+		<span>4536,4543</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>353@e@ID001_clinic_003@gold</Every>
+			<Number>369@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>455@e@ID001_clinic_003@gold</id>
+		<span>4553,4556</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>2</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>456@e@ID001_clinic_003@gold</id>
+		<span>4557,4562</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>457@e@ID001_clinic_003@gold</Every>
+			<Number>455@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>457@e@ID001_clinic_003@gold</id>
 		<span>4565,4568</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1457,13 +1562,56 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>320@e@ID001_clinic_003@gold</id>
+		<id>458@e@ID001_clinic_003@gold</id>
+		<span>4649,4650</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>459@e@ID001_clinic_003@gold</id>
+		<span>4651,4657</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>373@e@ID001_clinic_003@gold</Every>
+			<Number>371@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>460@e@ID001_clinic_003@gold</id>
+		<span>4667,4670</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>2</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>461@e@ID001_clinic_003@gold</id>
+		<span>4671,4676</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>462@e@ID001_clinic_003@gold</Every>
+			<Number>460@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>462@e@ID001_clinic_003@gold</id>
 		<span>4679,4682</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1472,13 +1620,56 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>321@e@ID001_clinic_003@gold</id>
+		<id>463@e@ID001_clinic_003@gold</id>
+		<span>4707,4708</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>464@e@ID001_clinic_003@gold</id>
+		<span>4709,4715</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>355@e@ID001_clinic_003@gold</Every>
+			<Number>376@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>465@e@ID001_clinic_003@gold</id>
+		<span>4725,4728</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>466@e@ID001_clinic_003@gold</id>
+		<span>4729,4733</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>467@e@ID001_clinic_003@gold</Every>
+			<Number>465@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>467@e@ID001_clinic_003@gold</id>
 		<span>4734,4739</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1487,13 +1678,33 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>322@e@ID001_clinic_003@gold</id>
+		<id>468@e@ID001_clinic_003@gold</id>
+		<span>4762,4763</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>469@e@ID001_clinic_003@gold</id>
+		<span>4764,4770</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>470@e@ID001_clinic_003@gold</Every>
+			<Number>468@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>470@e@ID001_clinic_003@gold</id>
 		<span>4786,4790</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1502,13 +1713,10 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>323@e@ID001_clinic_003@gold</id>
+		<id>471@e@ID001_clinic_003@gold</id>
 		<span>4811,4813</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -1518,19 +1726,41 @@
 	</entity>
 
 	<entity>
-		<id>324@e@ID001_clinic_003@gold</id>
+		<id>472@e@ID001_clinic_003@gold</id>
 		<span>4814,4821</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Minutes</Type>
-			<Number>323@e@ID001_clinic_003@gold</Number>
+			<Number>471@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>327@e@ID001_clinic_003@gold</id>
+		<id>473@e@ID001_clinic_003@gold</id>
+		<span>4822,4828</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>474@e@ID001_clinic_003@gold</Interval>
+			<Period>472@e@ID001_clinic_003@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>474@e@ID001_clinic_003@gold</id>
+		<span>4835,4839</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>475@e@ID001_clinic_003@gold</id>
 		<span>4885,4887</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -1540,35 +1770,65 @@
 	</entity>
 
 	<entity>
-		<id>328@e@ID001_clinic_003@gold</id>
+		<id>476@e@ID001_clinic_003@gold</id>
 		<span>4888,4895</span>
 		<type>Period</type>
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Minutes</Type>
-			<Number>327@e@ID001_clinic_003@gold</Number>
+			<Number>475@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>329@e@ID001_clinic_003@gold</id>
+		<id>477@e@ID001_clinic_003@gold</id>
+		<span>4925,4926</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>478@e@ID001_clinic_003@gold</id>
+		<span>4927,4933</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>480@e@ID001_clinic_003@gold</Every>
+			<Number>477@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>479@e@ID001_clinic_003@gold</id>
+		<span>4943,4946</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>480@e@ID001_clinic_003@gold</id>
 		<span>4947,4951</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>330@e@ID001_clinic_003@gold</Every>
-			<Number>380@e@ID001_clinic_003@gold</Number>
+			<Every>481@e@ID001_clinic_003@gold</Every>
+			<Number>479@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>330@e@ID001_clinic_003@gold</id>
+		<id>481@e@ID001_clinic_003@gold</id>
 		<span>4952,4957</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1577,29 +1837,56 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>331@e@ID001_clinic_003@gold</id>
+		<id>482@e@ID001_clinic_003@gold</id>
+		<span>5031,5032</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>483@e@ID001_clinic_003@gold</id>
+		<span>5033,5039</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>485@e@ID001_clinic_003@gold</Every>
+			<Number>482@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>484@e@ID001_clinic_003@gold</id>
+		<span>5049,5052</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>485@e@ID001_clinic_003@gold</id>
 		<span>5053,5057</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>332@e@ID001_clinic_003@gold</Every>
-			<Number>385@e@ID001_clinic_003@gold</Number>
+			<Every>486@e@ID001_clinic_003@gold</Every>
+			<Number>484@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>332@e@ID001_clinic_003@gold</id>
+		<id>486@e@ID001_clinic_003@gold</id>
 		<span>5058,5063</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1608,29 +1895,56 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>333@e@ID001_clinic_003@gold</id>
+		<id>487@e@ID001_clinic_003@gold</id>
+		<span>5150,5151</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>488@e@ID001_clinic_003@gold</id>
+		<span>5152,5158</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>490@e@ID001_clinic_003@gold</Every>
+			<Number>487@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>489@e@ID001_clinic_003@gold</id>
+		<span>5168,5171</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>490@e@ID001_clinic_003@gold</id>
 		<span>5172,5176</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>334@e@ID001_clinic_003@gold</Every>
-			<Number>386@e@ID001_clinic_003@gold</Number>
+			<Every>491@e@ID001_clinic_003@gold</Every>
+			<Number>489@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>334@e@ID001_clinic_003@gold</id>
+		<id>491@e@ID001_clinic_003@gold</id>
 		<span>5177,5182</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1639,13 +1953,43 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>336@e@ID001_clinic_003@gold</id>
+		<id>492@e@ID001_clinic_003@gold</id>
+		<span>5213,5214</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>494@e@ID001_clinic_003@gold</id>
+		<span>5231,5234</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>495@e@ID001_clinic_003@gold</id>
+		<span>5235,5239</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>496@e@ID001_clinic_003@gold</Every>
+			<Number>494@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>496@e@ID001_clinic_003@gold</id>
 		<span>5240,5245</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1654,29 +1998,56 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>337@e@ID001_clinic_003@gold</id>
+		<id>497@e@ID001_clinic_003@gold</id>
+		<span>5304,5305</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>498@e@ID001_clinic_003@gold</id>
+		<span>5306,5313</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>500@e@ID001_clinic_003@gold</Every>
+			<Number>497@e@ID001_clinic_003@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>499@e@ID001_clinic_003@gold</id>
+		<span>5323,5326</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>1</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>500@e@ID001_clinic_003@gold</id>
 		<span>5327,5331</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>338@e@ID001_clinic_003@gold</Every>
-			<Number>393@e@ID001_clinic_003@gold</Number>
+			<Every>501@e@ID001_clinic_003@gold</Every>
+			<Number>499@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>338@e@ID001_clinic_003@gold</id>
+		<id>501@e@ID001_clinic_003@gold</id>
 		<span>5332,5337</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1685,13 +2056,10 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>339@e@ID001_clinic_003@gold</id>
+		<id>502@e@ID001_clinic_003@gold</id>
 		<span>5409,5417</span>
 		<type>Day-Of-Week</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1704,58 +2072,71 @@
 	</entity>
 
 	<entity>
-		<id>340@e@ID001_clinic_003@gold</id>
+		<id>503@e@ID001_clinic_003@gold</id>
 		<span>5409,5417</span>
 		<type>Intersection</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Intervals>342@e@ID001_clinic_003@gold</Intervals>
-			<Repeating-Intervals>339@e@ID001_clinic_003@gold</Repeating-Intervals>
+			<Intervals>506@e@ID001_clinic_003@gold</Intervals>
+			<Repeating-Intervals>502@e@ID001_clinic_003@gold</Repeating-Intervals>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>341@e@ID001_clinic_003@gold</id>
+		<id>504@e@ID001_clinic_003@gold</id>
+		<span>5419,5424</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>April</Type>
+			<Sub-Interval>505@e@ID001_clinic_003@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>505@e@ID001_clinic_003@gold</id>
 		<span>5425,5427</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>1</Value>
-			<Sub-Interval>343@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>507@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>342@e@ID001_clinic_003@gold</id>
+		<id>506@e@ID001_clinic_003@gold</id>
 		<span>5429,5433</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>358@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval></Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>343@e@ID001_clinic_003@gold</id>
+		<id>507@e@ID001_clinic_003@gold</id>
 		<span>5437,5438</span>
 		<type>Hour-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Value>3</Value>
-			<AMPM-Of-Day>345@e@ID001_clinic_003@gold</AMPM-Of-Day>
+			<AMPM-Of-Day>509@e@ID001_clinic_003@gold</AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
-			<Sub-Interval>344@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>508@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>344@e@ID001_clinic_003@gold</id>
+		<id>508@e@ID001_clinic_003@gold</id>
 		<span>5439,5441</span>
 		<type>Minute-Of-Hour</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1768,7 +2149,7 @@
 	</entity>
 
 	<entity>
-		<id>345@e@ID001_clinic_003@gold</id>
+		<id>509@e@ID001_clinic_003@gold</id>
 		<span>5442,5444</span>
 		<type>AMPM-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1780,20 +2161,20 @@
 	</entity>
 
 	<entity>
-		<id>346@e@ID001_clinic_003@gold</id>
+		<id>510@e@ID001_clinic_003@gold</id>
 		<span>5511,5514</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>April</Type>
-			<Sub-Interval>347@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>511@e@ID001_clinic_003@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>347@e@ID001_clinic_003@gold</id>
+		<id>511@e@ID001_clinic_003@gold</id>
 		<span>5515,5516</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -1806,105 +2187,54 @@
 	</entity>
 
 	<entity>
-		<id>348@e@ID001_clinic_003@gold</id>
+		<id>512@e@ID001_clinic_003@gold</id>
 		<span>5518,5522</span>
 		<type>Year</type>
 		<parentsType>Interval</parentsType>
 		<properties>
 			<Value>2010</Value>
-			<Sub-Interval>346@e@ID001_clinic_003@gold</Sub-Interval>
+			<Sub-Interval>510@e@ID001_clinic_003@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>349@e@ID001_clinic_003@gold</id>
+		<id>513@e@ID001_clinic_003@gold</id>
+		<span>5744,5746</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>90</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>514@e@ID001_clinic_003@gold</id>
 		<span>5744,5746</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>397@e@ID001_clinic_003@gold</Every>
-			<Number>396@e@ID001_clinic_003@gold</Number>
+			<Every>515@e@ID001_clinic_003@gold</Every>
+			<Number>513@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>351@e@ID001_clinic_003@gold</id>
-		<span>915,921</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Months</Type>
-			<Number>280@e@ID001_clinic_003@gold</Number>
-			<Modifier>279@e@ID001_clinic_003@gold</Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>353@e@ID001_clinic_003@gold</id>
-		<span>4557,4562</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>319@e@ID001_clinic_003@gold</Every>
-			<Number>368@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>355@e@ID001_clinic_003@gold</id>
-		<span>4729,4733</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>321@e@ID001_clinic_003@gold</Every>
-			<Number>375@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>357@e@ID001_clinic_003@gold</id>
-		<span>4822,4828</span>
-		<type>Before</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>362@e@ID001_clinic_003@gold</Interval>
-			<Period>324@e@ID001_clinic_003@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>358@e@ID001_clinic_003@gold</id>
-		<span>5419,5424</span>
-		<type>Month-Of-Year</type>
+		<id>515@e@ID001_clinic_003@gold</id>
+		<span>5748,5751</span>
+		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Type>April</Type>
-			<Sub-Interval>341@e@ID001_clinic_003@gold</Sub-Interval>
+			<Type>Minute</Type>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>359@e@ID001_clinic_003@gold</id>
+		<id>516@e@ID001_clinic_003@gold</id>
 		<span>6241,6247</span>
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
@@ -1918,32 +2248,51 @@
 	</entity>
 
 	<entity>
-		<id>360@e@ID001_clinic_003@gold</id>
-		<span>1039,1046</span>
-		<type>Between</type>
+		<id>517@e@ID001_clinic_003@gold</id>
+		<span>3682,3686</span>
+		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Start-Interval-Type>DocTime</Start-Interval-Type>
-			<Start-Interval></Start-Interval>
-			<End-Interval-Type>Link</End-Interval-Type>
-			<End-Interval>77@e@ID001_clinic_003@gold</End-Interval>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>519@e@ID001_clinic_003@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>362@e@ID001_clinic_003@gold</id>
-		<span>4835,4839</span>
+		<id>518@e@ID001_clinic_003@gold</id>
+		<span>3761,3765</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>520@e@ID001_clinic_003@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>519@e@ID001_clinic_003@gold</id>
+		<span>3706,3716</span>
 		<type>Event</type>
 		<parentsType>Other</parentsType>
 		<properties>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>363@e@ID001_clinic_003@gold</id>
+		<id>520@e@ID001_clinic_003@gold</id>
+		<span>3766,3769</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>521@e@ID001_clinic_003@gold</id>
 		<span>893,895</span>
 		<type>After</type>
 		<parentsType>Operator</parentsType>
@@ -1953,492 +2302,19 @@
 			<Period>351@e@ID001_clinic_003@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 	<entity>
-		<id>364@e@ID001_clinic_003@gold</id>
-		<span>4151,4155</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>365@e@ID001_clinic_003@gold</id>
-		<span>4151,4155</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>316@e@ID001_clinic_003@gold</Every>
-			<Number>364@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>366@e@ID001_clinic_003@gold</id>
-		<span>4391,4392</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>367@e@ID001_clinic_003@gold</id>
-		<span>4393,4399</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>317@e@ID001_clinic_003@gold</Every>
-			<Number>366@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>368@e@ID001_clinic_003@gold</id>
-		<span>4553,4556</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>2</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>369@e@ID001_clinic_003@gold</id>
-		<span>4534,4535</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>370@e@ID001_clinic_003@gold</id>
-		<span>4536,4543</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>353@e@ID001_clinic_003@gold</Every>
-			<Number>369@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>371@e@ID001_clinic_003@gold</id>
-		<span>4649,4650</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>372@e@ID001_clinic_003@gold</id>
-		<span>4667,4670</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>2</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>373@e@ID001_clinic_003@gold</id>
-		<span>4671,4676</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>320@e@ID001_clinic_003@gold</Every>
-			<Number>372@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>374@e@ID001_clinic_003@gold</id>
-		<span>4651,4657</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>373@e@ID001_clinic_003@gold</Every>
-			<Number>371@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>375@e@ID001_clinic_003@gold</id>
-		<span>4725,4728</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>376@e@ID001_clinic_003@gold</id>
-		<span>4707,4708</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>377@e@ID001_clinic_003@gold</id>
-		<span>4709,4715</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>355@e@ID001_clinic_003@gold</Every>
-			<Number>376@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>378@e@ID001_clinic_003@gold</id>
-		<span>4762,4763</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>379@e@ID001_clinic_003@gold</id>
-		<span>4764,4770</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>322@e@ID001_clinic_003@gold</Every>
-			<Number>378@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>380@e@ID001_clinic_003@gold</id>
-		<span>4943,4946</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>381@e@ID001_clinic_003@gold</id>
-		<span>4925,4926</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>382@e@ID001_clinic_003@gold</id>
-		<span>4927,4933</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>329@e@ID001_clinic_003@gold</Every>
-			<Number>381@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>383@e@ID001_clinic_003@gold</id>
-		<span>5031,5032</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>384@e@ID001_clinic_003@gold</id>
-		<span>5033,5039</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>331@e@ID001_clinic_003@gold</Every>
-			<Number>383@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>385@e@ID001_clinic_003@gold</id>
-		<span>5049,5052</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>386@e@ID001_clinic_003@gold</id>
-		<span>5168,5171</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>387@e@ID001_clinic_003@gold</id>
-		<span>5150,5151</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>388@e@ID001_clinic_003@gold</id>
-		<span>5152,5158</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>333@e@ID001_clinic_003@gold</Every>
-			<Number>387@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>389@e@ID001_clinic_003@gold</id>
-		<span>5231,5234</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>390@e@ID001_clinic_003@gold</id>
-		<span>5235,5239</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>336@e@ID001_clinic_003@gold</Every>
-			<Number>389@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>391@e@ID001_clinic_003@gold</id>
-		<span>5213,5214</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>392@e@ID001_clinic_003@gold</id>
+		<id>522@e@ID001_clinic_003@gold</id>
 		<span>5215,5221</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>390@e@ID001_clinic_003@gold</Every>
-			<Number>391@e@ID001_clinic_003@gold</Number>
+			<Every>495@e@ID001_clinic_003@gold</Every>
+			<Number>492@e@ID001_clinic_003@gold</Number>
 			<Modifier></Modifier>
 		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>393@e@ID001_clinic_003@gold</id>
-		<span>5323,5326</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>394@e@ID001_clinic_003@gold</id>
-		<span>5304,5305</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>1</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>395@e@ID001_clinic_003@gold</id>
-		<span>5306,5313</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>337@e@ID001_clinic_003@gold</Every>
-			<Number>394@e@ID001_clinic_003@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>396@e@ID001_clinic_003@gold</id>
-		<span>5744,5746</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>90</Value>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
-	</entity>
-
-	<entity>
-		<id>397@e@ID001_clinic_003@gold</id>
-		<span>5748,5751</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Minute</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-		<addition>
-			<adjudication>gold</adjudication>
-		</addition>
 	</entity>
 
 </annotations>
