@@ -134,7 +134,7 @@
 			<Value>15</Value>
 			<AMPM-Of-Day></AMPM-Of-Day>
 			<Time-Zone></Time-Zone>
-			<Sub-Interval>71@e@APW19980213.1380@gold</Sub-Interval>
+			<Sub-Interval>69@e@APW19980213.1380@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
@@ -142,32 +142,6 @@
 
 	<entity>
 		<id>69@e@APW19980213.1380@gold</id>
-		<span>84,86</span>
-		<type>Minute-Of-Hour</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>44</Value>
-			<Sub-Interval>72@e@APW19980213.1380@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>70@e@APW19980213.1380@gold</id>
-		<span>84,86</span>
-		<type>Minute-Of-Hour</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>44</Value>
-			<Sub-Interval>72@e@APW19980213.1380@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>71@e@APW19980213.1380@gold</id>
 		<span>84,86</span>
 		<type>Minute-Of-Hour</type>
 		<parentsType>Repeating-Interval</parentsType>

@@ -487,19 +487,6 @@
 	</entity>
 
 	<entity>
-		<id>129@e@WSJ900813-0157@gold</id>
-		<span>4997,5001</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>128@e@WSJ900813-0157@gold</Interval>
-			<Period>112@e@WSJ900813-0157@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>130@e@WSJ900813-0157@gold</id>
 		<span>5867,5874</span>
 		<type>Last</type>

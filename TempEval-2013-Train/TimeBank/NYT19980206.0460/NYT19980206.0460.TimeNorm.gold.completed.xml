@@ -1115,27 +1115,30 @@
 	<entity>
 		<id>244@e@NYT19980206.0460@gold</id>
 		<span>2863,2870</span>
-		<type>Frequency</type>
+		<type>Number</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Value>358000</Value>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>245@e@NYT19980206.0460@gold</id>
 		<span>2910,2917</span>
-		<type>Frequency</type>
+		<type>Number</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Value>381000</Value>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>246@e@NYT19980206.0460@gold</id>
 		<span>2963,2970</span>
-		<type>Frequency</type>
+		<type>Number</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Value>242000</Value>
 		</properties>
 	</entity>
 
@@ -1255,6 +1258,42 @@
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>170@e@NYT19980206.0460@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>257@e@NYT19980206.0460@gold</id>
+		<span>2845,2849</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>199@e@NYT19980206.0460@gold</Every>
+			<Number>244@e@NYT19980206.0460@gold</Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>258@e@NYT19980206.0460@gold</id>
+		<span>2845,2849</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>199@e@NYT19980206.0460@gold</Every>
+			<Number>245@e@NYT19980206.0460@gold</Number>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>259@e@NYT19980206.0460@gold</id>
+		<span>2845,2849</span>
+		<type>Frequency</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Other</Type>
+			<Every>199@e@NYT19980206.0460@gold</Every>
+			<Number>246@e@NYT19980206.0460@gold</Number>
 		</properties>
 	</entity>
 

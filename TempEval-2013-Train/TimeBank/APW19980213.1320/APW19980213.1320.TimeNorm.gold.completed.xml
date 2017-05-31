@@ -595,19 +595,56 @@
 
 	<entity>
 		<id>134@e@APW19980213.1320@gold</id>
-		<span>724,736</span>
+		<span>729,736</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>108@e@APW19980213.1320@gold</Every>
+			<Number>136@e@APW19980213.1320@gold</Number>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>135@e@APW19980213.1320@gold</id>
-		<span>1036,1052</span>
+		<span>1047,1052</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>120@e@APW19980213.1320@gold</Every>
+			<Number>137@e@APW19980213.1320@gold</Number>
+			<Modifier>138@e@APW19980213.1320@gold</Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>136@e@APW19980213.1320@gold</id>
+		<span>724,728</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>4</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>137@e@APW19980213.1320@gold</id>
+		<span>1043,1046</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>700</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>138@e@APW19980213.1320@gold</id>
+		<span>1036,1042</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>Approx</Type>
 		</properties>
 	</entity>
 

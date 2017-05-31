@@ -255,10 +255,14 @@
 
 	<entity>
 		<id>66@e@VOA19980303.1600.2745@gold</id>
-		<span>1855,1873</span>
+		<span>1870,1873</span>
 		<type>Frequency</type>
 		<parentsType>Other</parentsType>
 		<properties>
+			<Type>Other</Type>
+			<Every>67@e@VOA19980303.1600.2745@gold</Every>
+			<Number>68@e@VOA19980303.1600.2745@gold</Number>
+			<Modifier>69@e@VOA19980303.1600.2745@gold</Modifier>
 		</properties>
 	</entity>
 
@@ -271,6 +275,26 @@
 			<Type>Year</Type>
 			<Number></Number>
 			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>68@e@VOA19980303.1600.2745@gold</id>
+		<span>1855,1869</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>50000</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>69@e@VOA19980303.1600.2745@gold</id>
+		<span>1850,1854</span>
+		<type>Modifier</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Type>More-Than</Type>
 		</properties>
 	</entity>
 

@@ -78,7 +78,7 @@
 
 	<entity>
 		<id>160@e@AP900815-0044@gold</id>
-		<span>30,34</span>
+		<span>30,33</span>
 		<type>Time-Zone</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
@@ -132,7 +132,7 @@
 		<properties>
 			<Value>13</Value>
 			<AMPM-Of-Day></AMPM-Of-Day>
-			<Time-Zone>59@e@AP900815-0044@aescgar</Time-Zone>
+			<Time-Zone>166@e@AP900815-0044@gold</Time-Zone>
 			<Sub-Interval>165@e@AP900815-0044@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
