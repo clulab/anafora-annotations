@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>13:49:42 22-04-2017</savetime>
@@ -761,6 +760,7 @@
 			<Interval>128@e@ID020_clinic_060@nigo6833</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -816,6 +816,7 @@
 			<Interval>131@e@ID020_clinic_060@nigo6833</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -885,6 +886,7 @@
 			<Interval>85@e@ID020_clinic_060@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval>139@e@ID020_clinic_060@nigo6833</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -898,6 +900,7 @@
 			<Interval>61@e@ID020_clinic_060@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -942,6 +945,7 @@
 			<Interval>144@e@ID020_clinic_060@nigo6833</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

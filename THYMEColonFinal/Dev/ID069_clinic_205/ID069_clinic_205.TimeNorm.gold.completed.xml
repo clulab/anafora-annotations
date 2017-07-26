@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <data>
 <info>
   <savetime>16:42:47 11-06-2017</savetime>
@@ -1798,7 +1797,7 @@
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
@@ -2010,6 +2009,7 @@
 			<Interval>481@e@ID069_clinic_205@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2032,6 +2032,7 @@
 			<Interval>483@e@ID069_clinic_205@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2054,6 +2055,7 @@
 			<Interval></Interval>
 			<Period>506@e@ID069_clinic_205@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2080,6 +2082,7 @@
 			<Interval></Interval>
 			<Period>440@e@ID069_clinic_205@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2119,6 +2122,7 @@
 			<Interval>458@e@ID069_clinic_205@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval>457@e@ID069_clinic_205@gold</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2132,6 +2136,7 @@
 			<Interval></Interval>
 			<Period>466@e@ID069_clinic_205@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2303,6 +2308,7 @@
 			<Interval></Interval>
 			<Period>437@e@ID069_clinic_205@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2339,6 +2345,7 @@
 			<Interval>223@e@ID069_clinic_205@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
