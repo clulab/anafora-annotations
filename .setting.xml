@@ -1,19 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <setting>
 	<projects>
-		<project name="TempEval-2013-Train" numOfAnnotator="2">
+		<project name="Demo" numOfAnnotator="2">
 			<admin>anaforaadmin</admin>
-			<annotator>annotatorGroup</annotator>
-			<schema>TimeML</schema>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Coreference</schema>
+			<schema>Thyme2v1</schema>
+			<schema>Medicine</schema>
+			<schema>UMLS</schema>
+		</project>
+		<project name="EPIC" numOfAnnotator="1">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>PropBank</schema>
+		</project>
+		<project name="EventWorkshop" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Coreference</schema>
+			<schema>Medicine</schema>
+			<schema>UMLS</schema>
+		</project>
+		<project name="SHARP" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Coreference</schema>
+			<schema>Medicine</schema>
+			<schema>UMLS</schema>
+		</project>
+		<project name="Temporal" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Coreference</schema>
+			<schema>Medicine</schema>
+			<schema>UMLS</schema>
+		</project>
+		<project name="Training" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Coreference</schema>
+			<schema>Medicine</schema>
+			<schema>UMLS</schema>
+			<schema>BLT</schema>
+		</project>
+		<project name="CrossDocument" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Thyme2v1</schema>
+			<schema>Medicine</schema>
+			<schema>UMLS</schema>
+			<schema>BLT</schema>
+		</project>
+		<project name="Cross-THYMEColonFinal" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Thyme2v1</schema>
+			<schema>Medicine</schema>
+			<schema>UMLS</schema>
+			<schema>BLT</schema>
+		</project>
+		<project name="TempEval-2013" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Thyme2v1</schema>
+			<schema>Medicine</schema>
 			<schema>TimeNorm</schema>
+			<schema>BLT</schema>
+		</project>
+		<project name="THYMEColonFinal" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Thyme2v1</schema>
+			<schema>Medicine</schema>
+			<schema>TimeNorm</schema>
+			<schema>BLT</schema>
+		</project>
+		<project name="THYMEBrainFinal" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Thyme2v1</schema>
+			<schema>Medicine</schema>
+			<schema>TimeNorm</schema>
+			<schema>BLT</schema>
+		</project>
+		<project name="THYME_QA" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Thyme2v1</schema>
+			<schema>Medicine</schema>
+			<schema>TimeNorm</schema>
+			<schema>BLT</schema>
+		</project>
+		<project name="THYME-subevent" numOfAnnotator="2">
+			<admin>anaforaadmin</admin>
+			<annotator>temporal</annotator>
+			<annotator>verbs</annotator>
+			<annotator>sharp</annotator>
+			<schema>Temporal</schema>
+			<schema>Thyme2v1</schema>
+			<schema>Medicine</schema>
+			<schema>TimeNorm</schema>
+			<schema>BLT</schema>
 		</project>
 	</projects>
 	<schemas>
-		<schema name="TimeML">
-			<file>timeml-schema.xml</file>
+		<schema name="Temporal">
+			<mode name="Entity" preannotation="false">
+				<file>temporal-schema.xml</file>
+			</mode>
+			<mode name="Relation" preannotation="true" preannotationFrom="Entity">
+				<file>temporal-schema.xml</file>
+			</mode>
+			<mode name="RelationReGold" preannotation="true" preannotationFrom="Relation" directSetGold="true">
+				<file>temporal-schema.xml</file>
+			</mode>
+			<mode name="THYME2ReGold" preannotation="true" directSetGold="true">
+				<file>temporal-thyme2-ReGold-schema.xml</file>
+			</mode>
 		</schema>
-		<schema name="TimeNorm">
+		<schema name="UMLS">
+			<mode name="Entity" preannotation="false">
+				<file>umls-schema</file>
+			</mode>
+			<mode name="Relation" preannotation="true" preannotationFrom="Entity">
+				<file>umls-schema</file>
+			</mode>
+		</schema>
+		<schema name="Coreference">
+			<file>coref-schema.xml</file>
+		</schema>
+		<schema name="PropBank">
+			<file>propbank-schema.xml</file>
+		</schema>
+		<schema name="Medicine">
+			<file>med-schema.xml</file>
+		</schema>
+		<schema name="BLT">
+			<file>blt-schema.xml</file>
+		</schema>
+		<schema name="BLT-alt">
+			<file>blt-alt-schema.xml</file>
+		</schema>
+		<schema name="THYME_QA">
+			<file>thyme-qa-schema.xml</file>
+		</schema>
+		<schema name="TimeNorm" preannotation="false">
 			<file>timenorm-schema.xml</file>
+		</schema>
+		<schema name="Thyme2v1">
+			<mode name="Coreference" preannotation="true">
+				<file>temporal-p2-schema.xml</file>
+			</mode>
+			<mode name="Correction" preannotation="true">
+				<file>temporal-p2-correction-schema.xml</file>
+			</mode>
+			<mode name="Anatomy" preannotation="true" preannotationFrom="Coreference" directSetGold="true">
+				<file>temporal-p2-schema.xml</file>
+			</mode>
+ 		</schema>
+		<schema name="THYME_REIMERS">
+			<file>thyme-reimers.xml</file>
 		</schema>
 	</schemas>
 </setting>
