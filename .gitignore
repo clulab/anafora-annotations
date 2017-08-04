@@ -3,5 +3,6 @@
 # except for .gitignore and XML files
 !.gitignore
 !*TimeNorm.*completed*.xml
+!*.dct
 # or such files in subdirectories
 !*/
