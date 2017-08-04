@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>17:42:27 08-03-2016</savetime>
+  <savetime>19:02:50 25-05-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -11,25 +11,26 @@
 <annotations>
 	<entity>
 		<id>37@e@wsj_0124@gold</id>
-		<span>12,14</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
+		<span>551,556</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
 		<properties>
-			<Type>November</Type>
-			<Sub-Interval>38@e@wsj_0124@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>45@e@wsj_0124@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>38@e@wsj_0124@gold</id>
-		<span>15,17</span>
-		<type>Day-Of-Month</type>
+		<span>12,14</span>
+		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Value>2</Value>
-			<Sub-Interval></Sub-Interval>
+			<Type>November</Type>
+			<Sub-Interval>46@e@wsj_0124@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
@@ -37,14 +38,13 @@
 
 	<entity>
 		<id>39@e@wsj_0124@gold</id>
-		<span>18,20</span>
-		<type>Two-Digit-Year</type>
-		<parentsType>Operator</parentsType>
+		<span>1198,1207</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Value>89</Value>
-			<Sub-Interval>37@e@wsj_0124@gold</Sub-Interval>
+			<Type>Day</Type>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 
@@ -76,14 +76,14 @@
 
 	<entity>
 		<id>42@e@wsj_0124@gold</id>
-		<span>134,136</span>
-		<type>Two-Digit-Year</type>
-		<parentsType>Operator</parentsType>
+		<span>1025,1027</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Value>89</Value>
-			<Sub-Interval>40@e@wsj_0124@gold</Sub-Interval>
+			<Value>27</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 
@@ -128,15 +128,14 @@
 
 	<entity>
 		<id>46@e@wsj_0124@gold</id>
-		<span>551,556</span>
-		<type>Last</type>
-		<parentsType>Operator</parentsType>
+		<span>15,17</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval>45@e@wsj_0124@gold</Repeating-Interval>
+			<Value>2</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 
@@ -168,14 +167,14 @@
 
 	<entity>
 		<id>49@e@wsj_0124@gold</id>
-		<span>777,784</span>
-		<type>Before</type>
-		<parentsType>Operator</parentsType>
+		<span>1019,1024</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>57@e@wsj_0124@gold</Interval>
-			<Period>58@e@wsj_0124@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
+			<Type>September</Type>
+			<Sub-Interval>42@e@wsj_0124@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 
@@ -195,56 +194,6 @@
 
 	<entity>
 		<id>51@e@wsj_0124@gold</id>
-		<span>1019,1024</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>September</Type>
-			<Sub-Interval>52@e@wsj_0124@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>52@e@wsj_0124@gold</id>
-		<span>1025,1027</span>
-		<type>Day-Of-Month</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>27</Value>
-			<Sub-Interval></Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>53@e@wsj_0124@gold</id>
-		<span>1029,1033</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>1989</Value>
-			<Sub-Interval>51@e@wsj_0124@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>54@e@wsj_0124@gold</id>
-		<span>1198,1207</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Day</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>55@e@wsj_0124@gold</id>
 		<span>1198,1207</span>
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
@@ -253,7 +202,58 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>54@e@wsj_0124@gold</Repeating-Interval>
+			<Repeating-Interval>39@e@wsj_0124@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>52@e@wsj_0124@gold</id>
+		<span>134,136</span>
+		<type>Two-Digit-Year</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>89</Value>
+			<Sub-Interval>40@e@wsj_0124@gold</Sub-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>53@e@wsj_0124@gold</id>
+		<span>18,20</span>
+		<type>Two-Digit-Year</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>89</Value>
+			<Sub-Interval>38@e@wsj_0124@gold</Sub-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>54@e@wsj_0124@gold</id>
+		<span>1029,1033</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>1989</Value>
+			<Sub-Interval>49@e@wsj_0124@gold</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>55@e@wsj_0124@gold</id>
+		<span>777,784</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>57@e@wsj_0124@gold</Interval>
+			<Period>58@e@wsj_0124@gold</Period>
+			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 

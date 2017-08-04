@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>10:15:22 02-01-2016</savetime>
+  <savetime>15:14:59 24-05-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -11,11 +11,11 @@
 <annotations>
 	<entity>
 		<id>48@e@SJMN91-06338157@gold</id>
-		<span>19,26</span>
+		<span>722,731</span>
 		<type>Day-Of-Week</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Type>Tuesday</Type>
+			<Type>Wednesday</Type>
 			<Sub-Interval></Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
@@ -24,12 +24,12 @@
 
 	<entity>
 		<id>49@e@SJMN91-06338157@gold</id>
-		<span>28,36</span>
-		<type>Month-Of-Year</type>
+		<span>19,26</span>
+		<type>Day-Of-Week</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Type>December</Type>
-			<Sub-Interval>50@e@SJMN91-06338157@gold</Sub-Interval>
+			<Type>Tuesday</Type>
+			<Sub-Interval></Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
@@ -50,12 +50,13 @@
 
 	<entity>
 		<id>51@e@SJMN91-06338157@gold</id>
-		<span>40,44</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
+		<span>1984,1990</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Value>1991</Value>
-			<Sub-Interval>49@e@SJMN91-06338157@gold</Sub-Interval>
+			<Type>Monday</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -99,21 +100,19 @@
 
 	<entity>
 		<id>55@e@SJMN91-06338157@gold</id>
-		<span>698,704</span>
-		<type>Last</type>
-		<parentsType>Operator</parentsType>
+		<span>1624,1628</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Semantics>Standard</Semantics>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval>54@e@SJMN91-06338157@gold</Repeating-Interval>
+			<Type>Week</Type>
+			<Number></Number>
+			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>56@e@SJMN91-06338157@gold</id>
-		<span>722,731</span>
+		<span>1619,1623</span>
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
@@ -121,18 +120,18 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>57@e@SJMN91-06338157@gold</Repeating-Interval>
+			<Repeating-Interval>55@e@SJMN91-06338157@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>57@e@SJMN91-06338157@gold</id>
-		<span>722,731</span>
-		<type>Day-Of-Week</type>
+		<span>28,36</span>
+		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
-			<Type>Wednesday</Type>
-			<Sub-Interval></Sub-Interval>
+			<Type>December</Type>
+			<Sub-Interval>50@e@SJMN91-06338157@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
@@ -153,6 +152,19 @@
 
 	<entity>
 		<id>59@e@SJMN91-06338157@gold</id>
+		<span>2242,2248</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Sunday</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>60@e@SJMN91-06338157@gold</id>
 		<span>1234,1240</span>
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
@@ -166,8 +178,8 @@
 	</entity>
 
 	<entity>
-		<id>60@e@SJMN91-06338157@gold</id>
-		<span>1619,1623</span>
+		<id>61@e@SJMN91-06338157@gold</id>
+		<span>722,731</span>
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
@@ -175,25 +187,13 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>61@e@SJMN91-06338157@gold</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>61@e@SJMN91-06338157@gold</id>
-		<span>1624,1628</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Week</Type>
-			<Number></Number>
-			<Modifier></Modifier>
+			<Repeating-Interval>48@e@SJMN91-06338157@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>62@e@SJMN91-06338157@gold</id>
-		<span>1984,1990</span>
+		<span>698,704</span>
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
 		<properties>
@@ -201,20 +201,21 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>63@e@SJMN91-06338157@gold</Repeating-Interval>
+			<Repeating-Interval>54@e@SJMN91-06338157@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>63@e@SJMN91-06338157@gold</id>
 		<span>1984,1990</span>
-		<type>Day-Of-Week</type>
-		<parentsType>Repeating-Interval</parentsType>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
 		<properties>
-			<Type>Monday</Type>
-			<Sub-Interval></Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
+			<Semantics>Standard</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>51@e@SJMN91-06338157@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -228,19 +229,18 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>65@e@SJMN91-06338157@gold</Repeating-Interval>
+			<Repeating-Interval>59@e@SJMN91-06338157@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>65@e@SJMN91-06338157@gold</id>
-		<span>2242,2248</span>
-		<type>Day-Of-Week</type>
-		<parentsType>Repeating-Interval</parentsType>
+		<span>40,44</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
 		<properties>
-			<Type>Sunday</Type>
-			<Sub-Interval></Sub-Interval>
-			<Number></Number>
+			<Value>1991</Value>
+			<Sub-Interval>57@e@SJMN91-06338157@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -263,8 +263,8 @@
 		<type>Intersection</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Intervals>51@e@SJMN91-06338157@gold</Intervals>
-			<Repeating-Intervals>48@e@SJMN91-06338157@gold</Repeating-Intervals>
+			<Intervals>65@e@SJMN91-06338157@gold</Intervals>
+			<Repeating-Intervals>49@e@SJMN91-06338157@gold</Repeating-Intervals>
 		</properties>
 	</entity>
 

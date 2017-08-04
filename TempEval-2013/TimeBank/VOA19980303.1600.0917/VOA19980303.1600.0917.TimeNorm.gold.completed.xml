@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>17:17:52 09-02-2016</savetime>
+  <savetime>15:16:45 24-05-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -11,31 +11,18 @@
 <annotations>
 	<entity>
 		<id>27@e@VOA19980303.1600.0917@gold</id>
-		<span>25,29</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
+		<span>607,611</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
 		<properties>
-			<Value>1998</Value>
-			<Sub-Interval>28@e@VOA19980303.1600.0917@gold</Sub-Interval>
+			<Type>Days</Type>
+			<Number>35@e@VOA19980303.1600.0917@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>28@e@VOA19980303.1600.0917@gold</id>
-		<span>29,31</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>March</Type>
-			<Sub-Interval>29@e@VOA19980303.1600.0917@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>29@e@VOA19980303.1600.0917@gold</id>
 		<span>31,33</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -48,7 +35,7 @@
 	</entity>
 
 	<entity>
-		<id>30@e@VOA19980303.1600.0917@gold</id>
+		<id>29@e@VOA19980303.1600.0917@gold</id>
 		<span>334,337</span>
 		<type>Number</type>
 		<parentsType>Other</parentsType>
@@ -58,7 +45,7 @@
 	</entity>
 
 	<entity>
-		<id>31@e@VOA19980303.1600.0917@gold</id>
+		<id>30@e@VOA19980303.1600.0917@gold</id>
 		<span>397,401</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
@@ -66,12 +53,12 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>32@e@VOA19980303.1600.0917@gold</Repeating-Interval>
+			<Repeating-Interval>31@e@VOA19980303.1600.0917@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>32@e@VOA19980303.1600.0917@gold</id>
+		<id>31@e@VOA19980303.1600.0917@gold</id>
 		<span>402,406</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -83,7 +70,66 @@
 	</entity>
 
 	<entity>
+		<id>32@e@VOA19980303.1600.0917@gold</id>
+		<span>29,31</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>March</Type>
+			<Sub-Interval>28@e@VOA19980303.1600.0917@gold</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
 		<id>33@e@VOA19980303.1600.0917@gold</id>
+		<span>524,527</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>2</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>34@e@VOA19980303.1600.0917@gold</id>
+		<span>528,531</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Days</Type>
+			<Number>33@e@VOA19980303.1600.0917@gold</Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>35@e@VOA19980303.1600.0917@gold</id>
+		<span>603,606</span>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
+		<properties>
+			<Value>2</Value>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>36@e@VOA19980303.1600.0917@gold</id>
+		<span>508,515</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Newswire</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>37@e@VOA19980303.1600.0917@gold</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>37@e@VOA19980303.1600.0917@gold</id>
 		<span>508,515</span>
 		<type>Day-Of-Week</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -96,59 +142,13 @@
 	</entity>
 
 	<entity>
-		<id>34@e@VOA19980303.1600.0917@gold</id>
-		<span>508,515</span>
-		<type>Last</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Semantics>Newswire</Semantics>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval>33@e@VOA19980303.1600.0917@gold</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>35@e@VOA19980303.1600.0917@gold</id>
-		<span>524,527</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>2</Value>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>36@e@VOA19980303.1600.0917@gold</id>
-		<span>528,531</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Days</Type>
-			<Number>35@e@VOA19980303.1600.0917@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>37@e@VOA19980303.1600.0917@gold</id>
-		<span>603,606</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>2</Value>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>38@e@VOA19980303.1600.0917@gold</id>
-		<span>607,611</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
+		<span>25,29</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
 		<properties>
-			<Type>Days</Type>
-			<Number>37@e@VOA19980303.1600.0917@gold</Number>
+			<Value>1998</Value>
+			<Sub-Interval>32@e@VOA19980303.1600.0917@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -160,7 +160,7 @@
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Days</Type>
-			<Number>30@e@VOA19980303.1600.0917@gold</Number>
+			<Number>29@e@VOA19980303.1600.0917@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>

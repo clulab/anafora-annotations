@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>17:11:27 09-02-2016</savetime>
+  <savetime>15:03:52 24-05-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -11,31 +11,19 @@
 <annotations>
 	<entity>
 		<id>24@e@PRI19980303.2000.2550@gold</id>
-		<span>25,29</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>1998</Value>
-			<Sub-Interval>25@e@PRI19980303.2000.2550@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>25@e@PRI19980303.2000.2550@gold</id>
 		<span>29,31</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>March</Type>
-			<Sub-Interval>26@e@PRI19980303.2000.2550@gold</Sub-Interval>
+			<Sub-Interval>25@e@PRI19980303.2000.2550@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>26@e@PRI19980303.2000.2550@gold</id>
+		<id>25@e@PRI19980303.2000.2550@gold</id>
 		<span>31,33</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -48,7 +36,7 @@
 	</entity>
 
 	<entity>
-		<id>27@e@PRI19980303.2000.2550@gold</id>
+		<id>26@e@PRI19980303.2000.2550@gold</id>
 		<span>72,80</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -56,37 +44,24 @@
 			<Type>Day</Type>
 			<Number></Number>
 			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@PRI19980303.2000.2550@gold</id>
+		<span>72,80</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>26@e@PRI19980303.2000.2550@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
 		<id>28@e@PRI19980303.2000.2550@gold</id>
-		<span>72,80</span>
-		<type>Next</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval>27@e@PRI19980303.2000.2550@gold</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>29@e@PRI19980303.2000.2550@gold</id>
-		<span>164,167</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>30@e@PRI19980303.2000.2550@gold</id>
 		<span>276,284</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -98,7 +73,7 @@
 	</entity>
 
 	<entity>
-		<id>31@e@PRI19980303.2000.2550@gold</id>
+		<id>29@e@PRI19980303.2000.2550@gold</id>
 		<span>276,284</span>
 		<type>Next</type>
 		<parentsType>Operator</parentsType>
@@ -106,12 +81,12 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>30@e@PRI19980303.2000.2550@gold</Repeating-Interval>
+			<Repeating-Interval>28@e@PRI19980303.2000.2550@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>32@e@PRI19980303.2000.2550@gold</id>
+		<id>30@e@PRI19980303.2000.2550@gold</id>
 		<span>1788,1791</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
@@ -124,21 +99,21 @@
 	</entity>
 
 	<entity>
-		<id>33@e@PRI19980303.2000.2550@gold</id>
-		<span>3477,3480</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
+		<id>31@e@PRI19980303.2000.2550@gold</id>
+		<span>25,29</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
 		<properties>
-			<Type>Day</Type>
-			<Number></Number>
+			<Value>1998</Value>
+			<Sub-Interval>24@e@PRI19980303.2000.2550@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>34@e@PRI19980303.2000.2550@gold</id>
-		<span>3473,3476</span>
-		<type>After</type>
+		<id>32@e@PRI19980303.2000.2550@gold</id>
+		<span>164,167</span>
+		<type>This</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
@@ -149,15 +124,15 @@
 	</entity>
 
 	<entity>
-		<id>35@e@PRI19980303.2000.2550@gold</id>
-		<span>3477,3480</span>
-		<type>This</type>
+		<id>33@e@PRI19980303.2000.2550@gold</id>
+		<span>3473,3480</span>
+		<type>Next</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>34@e@PRI19980303.2000.2550@gold</Interval>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>33@e@PRI19980303.2000.2550@gold</Repeating-Interval>
+			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 

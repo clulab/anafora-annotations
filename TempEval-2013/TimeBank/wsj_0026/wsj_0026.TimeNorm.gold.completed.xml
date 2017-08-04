@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>17:09:00 08-03-2016</savetime>
+  <savetime>18:54:38 25-05-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -37,32 +37,19 @@
 
 	<entity>
 		<id>21@e@wsj_0026@gold</id>
-		<span>18,20</span>
-		<type>Two-Digit-Year</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Value>89</Value>
-			<Sub-Interval>19@e@wsj_0026@gold</Sub-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>22@e@wsj_0026@gold</id>
 		<span>113,115</span>
 		<type>Month-Of-Year</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>November</Type>
-			<Sub-Interval>23@e@wsj_0026@gold</Sub-Interval>
+			<Sub-Interval>22@e@wsj_0026@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
 
 	<entity>
-		<id>23@e@wsj_0026@gold</id>
+		<id>22@e@wsj_0026@gold</id>
 		<span>116,118</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -75,20 +62,7 @@
 	</entity>
 
 	<entity>
-		<id>24@e@wsj_0026@gold</id>
-		<span>119,121</span>
-		<type>Two-Digit-Year</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Value>89</Value>
-			<Sub-Interval>22@e@wsj_0026@gold</Sub-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>25@e@wsj_0026@gold</id>
+		<id>23@e@wsj_0026@gold</id>
 		<span>597,607</span>
 		<type>Last</type>
 		<parentsType>Operator</parentsType>
@@ -102,7 +76,7 @@
 	</entity>
 
 	<entity>
-		<id>26@e@wsj_0026@gold</id>
+		<id>24@e@wsj_0026@gold</id>
 		<span>1385,1388</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
@@ -115,19 +89,7 @@
 	</entity>
 
 	<entity>
-		<id>27@e@wsj_0026@gold</id>
-		<span>1461,1465</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>1988</Value>
-			<Sub-Interval></Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>28@e@wsj_0026@gold</id>
+		<id>25@e@wsj_0026@gold</id>
 		<span>1539,1543</span>
 		<type>Calendar-Interval</type>
 		<parentsType>Repeating-Interval</parentsType>
@@ -139,15 +101,53 @@
 	</entity>
 
 	<entity>
+		<id>26@e@wsj_0026@gold</id>
+		<span>18,20</span>
+		<type>Two-Digit-Year</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>89</Value>
+			<Sub-Interval>19@e@wsj_0026@gold</Sub-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@wsj_0026@gold</id>
+		<span>119,121</span>
+		<type>Two-Digit-Year</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Value>89</Value>
+			<Sub-Interval>21@e@wsj_0026@gold</Sub-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>28@e@wsj_0026@gold</id>
+		<span>1461,1465</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>1988</Value>
+			<Sub-Interval></Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
 		<id>29@e@wsj_0026@gold</id>
 		<span>1534,1538</span>
 		<type>This</type>
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval>27@e@wsj_0026@gold</Interval>
+			<Interval>28@e@wsj_0026@gold</Interval>
 			<Period></Period>
-			<Repeating-Interval>28@e@wsj_0026@gold</Repeating-Interval>
+			<Repeating-Interval>25@e@wsj_0026@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
