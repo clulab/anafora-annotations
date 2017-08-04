@@ -9,7 +9,7 @@
     <entities type="Duration" color="a6cee3">
       <entity type="Period" color="a6cee3" hotkey="p">
 	<properties>
-	  <property type="Type" input="choice">,Centuries,Quarter-Centuries,Decades,Years,Quarter-Years,Months,Weeks,Days,Hours,Minutes,Seconds,Unknown</property>
+	  <property type="Type" input="choice">,Millennia,Centuries,Quarter-Centuries,Decades,Years,Quarter-Years,Months,Weeks,Days,Hours,Minutes,Seconds,Unknown</property>
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
@@ -18,14 +18,14 @@
     <entities type="Repeating-Interval" color="b2df8a">
       <entity type="Calendar-Interval" color="b2df8a" hotkey="c">
 	<properties>
-	  <property type="Type" input="choice">,Century,Quarter-Century,Decade,Year,Quarter-Year,Month,Week,Day,Hour,Minute,Second</property>
+	  <property type="Type" input="choice">,Millennium,Century,Quarter-Century,Decade,Year,Quarter-Year,Month,Week,Day,Hour,Minute,Second</property>
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
       <entity type="Season-Of-Year" color="b2df8a">
 	<properties>
-	  <property type="Type" input="choice">,Spring,Summer,Fall,Winter</property>
+	  <property type="Type" input="choice">,Unknown,Spring,Summer,Fall,Winter</property>
 	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
@@ -150,7 +150,7 @@
       </entity>
       <entity type="Two-Digit-Year" color="977FA3" hotkey="2">
 	<properties>
-	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Value" input="text" />
 	  <property type="Sub-Interval" input="list" required="False" instanceOf="Season-Of-Year,Month-Of-Year,Week-Of-Year" />
@@ -158,7 +158,7 @@
       </entity>
       <entity type="This" color="977FA3" hotkey="t">
 	<properties>
-	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
@@ -167,7 +167,7 @@
       <entity type="Last" color="977FA3" hotkey="l">
 	<properties>
 	  <property type="Semantics" input="choice">Standard,Newswire</property>
-	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
@@ -175,7 +175,7 @@
       </entity>
       <entity type="Next" color="977FA3" hotkey="n">
 	<properties>
-	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
@@ -183,7 +183,7 @@
       </entity>
       <entity type="Before" color="977FA3" hotkey="b">
 	<properties>
-	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
@@ -191,7 +191,7 @@
       </entity>
       <entity type="After" color="977FA3" hotkey="a">
 	<properties>
-	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
 	  <property type="Repeating-Interval" input="list" maxlink="1" required="False" instanceOf="Calendar-Interval,Season-Of-Year,Month-Of-Year,Week-Of-Year,Day-Of-Month,Day-Of-Week,Part-Of-Week,Part-Of-Day,Hour-Of-Day,Minute-Of-Hour,Second-Of-Minute,Union,Intersection,Every-Nth" />
@@ -199,15 +199,17 @@
       </entity>
       <entity type="Between" color="977FA3">
 	<properties>
-	  <property type="Start-Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Start-Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Start-Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
-	  <property type="End-Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Start-Included" input="choice">Not-Included,Included</property>
+	  <property type="End-Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="End-Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
+	  <property type="End-Included" input="choice">Not-Included,Included</property>
 	</properties>
       </entity>
       <entity type="NthFromStart" color="977FA3">
 	<properties>
-	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Value" input="text" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
@@ -216,7 +218,7 @@
       </entity>
       <entity type="NthFromEnd" color="977FA3">
 	<properties>
-	  <property type="Interval-Type" input="choice">,Link,DocTime,Unknown</property>
+	  <property type="Interval-Type" input="choice">,Link,DocTime,DocTime-Era,DocTime-Year,Unknown</property>
 	  <property type="Interval" input="list" maxlink="1" required="False" instanceOf="Year,Two-Digit-Year,This,Last,Next,Before,After,Between,NthFromStart,NthFromEnd,Event" />
 	  <property type="Value" input="text" />
 	  <property type="Period" input="list" maxlink="1" required="False" instanceOf="Period,Sum,Difference" />
