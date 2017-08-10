@@ -23,6 +23,13 @@
 	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
 	</properties>
       </entity>
+      <entity type="Quarter-Of-Year" color="b2df8a">
+	<properties>
+	  <property type="Value" input="text" />
+	  <property type="Number" input="list" maxlink="1" required="False" instanceOf="Number" />
+	  <property type="Modifier" input="list" maxlink="1" required="False" instanceOf="Modifier" />
+	</properties>
+      </entity>
       <entity type="Season-Of-Year" color="b2df8a">
 	<properties>
 	  <property type="Type" input="choice">,Unknown,Spring,Summer,Fall,Winter</property>
