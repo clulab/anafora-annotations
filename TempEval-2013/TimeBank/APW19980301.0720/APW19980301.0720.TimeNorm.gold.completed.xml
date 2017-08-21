@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>10:59:12 20-05-2017</savetime>
+  <savetime>14:20:21 09-07-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -301,9 +302,9 @@
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>109@e@APW19980301.0720@gold</Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -377,11 +378,14 @@
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Semantics>Interval-Not-Included</Semantics>
-			<Interval-Type>DocTime</Interval-Type>
+			<Interval-Type>DocTime-Year</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>115@e@APW19980301.0720@gold</Repeating-Interval>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -395,6 +399,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -581,11 +588,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period>91@e@APW19980301.0720@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

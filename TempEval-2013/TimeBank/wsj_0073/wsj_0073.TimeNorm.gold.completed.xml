@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>20:03:31 11-06-2017</savetime>
+  <savetime>12:17:04 10-07-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -106,7 +107,7 @@
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
 			<Type>November</Type>
-			<Sub-Interval></Sub-Interval>
+			<Sub-Interval>23@e@wsj_0073@gold</Sub-Interval>
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
@@ -165,11 +166,11 @@
 		<type>Next</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>29@e@wsj_0073@gold</Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

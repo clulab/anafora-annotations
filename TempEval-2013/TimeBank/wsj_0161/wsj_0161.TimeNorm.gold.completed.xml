@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>20:12:45 11-06-2017</savetime>
+  <savetime>12:19:25 10-07-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -102,11 +103,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>29@e@wsj_0161@gold</Interval>
 			<Period>23@e@wsj_0161@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -116,7 +117,7 @@
 		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>Unknown</Interval-Type>
+			<Interval-Type>DocTime-Year</Interval-Type>
 			<Interval></Interval>
 			<Value>3</Value>
 			<Period></Period>
@@ -130,7 +131,7 @@
 		<type>NthFromStart</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Interval-Type>Unknown</Interval-Type>
+			<Interval-Type>DocTime-Year</Interval-Type>
 			<Interval></Interval>
 			<Value>3</Value>
 			<Period></Period>
