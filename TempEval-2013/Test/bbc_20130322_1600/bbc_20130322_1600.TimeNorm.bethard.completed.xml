@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+<info>
+  <savetime>13:48:58 03-06-2017</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>13@e@bbc_20130322_1600@bethard</id>
+		<span>29,31</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>22</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@bbc_20130322_1600@bethard</id>
+		<span>26,28</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>March</Type>
+			<Sub-Interval>13@e@bbc_20130322_1600@bethard</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@bbc_20130322_1600@bethard</id>
+		<span>21,25</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2013</Value>
+			<Sub-Interval>14@e@bbc_20130322_1600@bethard</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@bbc_20130322_1600@bethard</id>
+		<span>501,509</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Saturday</Type>
+			<Sub-Interval>22@e@bbc_20130322_1600@bethard</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@bbc_20130322_1600@bethard</id>
+		<span>497,500</span>
+		<type>Time-Zone</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@bbc_20130322_1600@bethard</id>
+		<span>494,496</span>
+		<type>Minute-Of-Hour</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>0</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@bbc_20130322_1600@bethard</id>
+		<span>491,493</span>
+		<type>Hour-Of-Day</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>15</Value>
+			<AMPM-Of-Day></AMPM-Of-Day>
+			<Time-Zone>17@e@bbc_20130322_1600@bethard</Time-Zone>
+			<Sub-Interval>21@e@bbc_20130322_1600@bethard</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@bbc_20130322_1600@bethard</id>
+		<span>501,509</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>16@e@bbc_20130322_1600@bethard</Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@bbc_20130322_1600@bethard</id>
+		<span>485,490</span>
+		<type>Between</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Start-Interval-Type>Unknown</Start-Interval-Type>
+			<Start-Interval></Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
+			<End-Interval-Type>Link</End-Interval-Type>
+			<End-Interval>23@e@bbc_20130322_1600@bethard</End-Interval>
+			<End-Included>Not-Included</End-Included>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@e@bbc_20130322_1600@bethard</id>
+		<span>660,664</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Weeks</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>26@e@bbc_20130322_1600@bethard</id>
+		<span>665,671</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>27@e@bbc_20130322_1600@bethard</Interval>
+			<Period>25@e@bbc_20130322_1600@bethard</Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@bbc_20130322_1600@bethard</id>
+		<span>676,681</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>28@e@bbc_20130322_1600@bethard</id>
+		<span>802,808</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Friday</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>29@e@bbc_20130322_1600@bethard</id>
+		<span>802,808</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Interval-Included</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

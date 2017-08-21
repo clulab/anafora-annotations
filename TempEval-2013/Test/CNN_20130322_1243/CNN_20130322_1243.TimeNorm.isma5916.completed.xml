@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+<info>
+  <savetime>23:57:20 26-05-2017</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>9@e@CNN_20130322_1243@isma5916</id>
+		<span>27,29</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>22</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@e@CNN_20130322_1243@isma5916</id>
+		<span>21,26</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>March</Type>
+			<Sub-Interval>9@e@CNN_20130322_1243@isma5916</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@CNN_20130322_1243@isma5916</id>
+		<span>31,35</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2013</Value>
+			<Sub-Interval>10@e@CNN_20130322_1243@isma5916</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@CNN_20130322_1243@isma5916</id>
+		<span>107,114</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@CNN_20130322_1243@isma5916</id>
+		<span>96,102</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>12@e@CNN_20130322_1243@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@CNN_20130322_1243@isma5916</id>
+		<span>151,155</span>
+		<type>Calendar-Interval</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Week</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@CNN_20130322_1243@isma5916</id>
+		<span>146,150</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>14@e@CNN_20130322_1243@isma5916</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@CNN_20130322_1243@isma5916</id>
+		<span>652,658</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Seconds</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@CNN_20130322_1243@isma5916</id>
+		<span>663,666</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@CNN_20130322_1243@isma5916</id>
+		<span>648,651</span>
+		<type>This</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>18@e@CNN_20130322_1243@isma5916</Interval>
+			<Period>17@e@CNN_20130322_1243@isma5916</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@CNN_20130322_1243@isma5916</id>
+		<span>1900,1904</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@CNN_20130322_1243@isma5916</id>
+		<span>1895,1899</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period>21@e@CNN_20130322_1243@isma5916</Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@CNN_20130322_1243@isma5916</id>
+		<span>1990,1993</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+<info>
+  <savetime>14:50:35 28-05-2017</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>16@e@CNN_20130322_314@isma5916</id>
+		<span>26,28</span>
+		<type>Day-Of-Month</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Value>22</Value>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@CNN_20130322_314@isma5916</id>
+		<span>20,25</span>
+		<type>Month-Of-Year</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>March</Type>
+			<Sub-Interval>16@e@CNN_20130322_314@isma5916</Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@CNN_20130322_314@isma5916</id>
+		<span>30,34</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2013</Value>
+			<Sub-Interval>17@e@CNN_20130322_314@isma5916</Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@CNN_20130322_314@isma5916</id>
+		<span>63,69</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>20@e@CNN_20130322_314@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@CNN_20130322_314@isma5916</id>
+		<span>70,77</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@CNN_20130322_314@isma5916</id>
+		<span>182,189</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@CNN_20130322_314@isma5916</id>
+		<span>169,175</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Friday</Type>
+			<Sub-Interval></Sub-Interval>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@CNN_20130322_314@isma5916</id>
+		<span>176,181</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>21@e@CNN_20130322_314@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@CNN_20130322_314@isma5916</id>
+		<span>220,227</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@e@CNN_20130322_314@isma5916</id>
+		<span>213,219</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>24@e@CNN_20130322_314@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>26@e@CNN_20130322_314@isma5916</id>
+		<span>301,305</span>
+		<type>Year</type>
+		<parentsType>Interval</parentsType>
+		<properties>
+			<Value>2010</Value>
+			<Sub-Interval></Sub-Interval>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@CNN_20130322_314@isma5916</id>
+		<span>169,175</span>
+		<type>Last</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Interval-Included</Semantics>
+			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
+			<Period></Period>
+			<Repeating-Interval>22@e@CNN_20130322_314@isma5916</Repeating-Interval>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>28@e@CNN_20130322_314@isma5916</id>
+		<span>721,729</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>29@e@CNN_20130322_314@isma5916</id>
+		<span>692,699</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Minutes</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>30@e@CNN_20130322_314@isma5916</id>
+		<span>700,706</span>
+		<type>Before</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>28@e@CNN_20130322_314@isma5916</Interval>
+			<Period>29@e@CNN_20130322_314@isma5916</Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>31@e@CNN_20130322_314@isma5916</id>
+		<span>831,835</span>
+		<type>Period</type>
+		<parentsType>Duration</parentsType>
+		<properties>
+			<Type>Unknown</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>35@e@CNN_20130322_314@isma5916</id>
+		<span>874,878</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>36@e@CNN_20130322_314@isma5916</id>
+		<span>955,960</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>35@e@CNN_20130322_314@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>37@e@CNN_20130322_314@isma5916</id>
+		<span>1250,1254</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>38@e@CNN_20130322_314@isma5916</id>
+		<span>1231,1236</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>37@e@CNN_20130322_314@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>39@e@CNN_20130322_314@isma5916</id>
+		<span>1423,1428</span>
+		<type>After</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>40@e@CNN_20130322_314@isma5916</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>40@e@CNN_20130322_314@isma5916</id>
+		<span>1340,1344</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>41@e@CNN_20130322_314@isma5916</id>
+		<span>824,830</span>
+		<type>NthFromStart</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Interval-Type>Unknown</Interval-Type>
+			<Interval></Interval>
+			<Value>2</Value>
+			<Period>31@e@CNN_20130322_314@isma5916</Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>
