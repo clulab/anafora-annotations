@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>09:10:35 12-09-2016</savetime>
+  <savetime>16:12:38 25-09-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -999,11 +1000,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>33@e@ID009_clinic_025@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1091,30 +1092,16 @@
 	</entity>
 
 	<entity>
-		<id>152@e@ID009_clinic_025@gold</id>
-		<span>2594,2598</span>
-		<type>Last</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Semantics>Interval-Not-Included</Semantics>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>154@e@ID009_clinic_025@gold</id>
 		<span>2699,2704</span>
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>57@e@ID009_clinic_025@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1137,165 +1124,6 @@
 		<type>PreAnnotation</type>
 		<parentsType>Other</parentsType>
 		<properties>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>157@e@ID009_clinic_025@gold</id>
-		<span>19,21</span>
-		<type>Day-Of-Month</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>24</Value>
-			<Sub-Interval></Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>158@e@ID009_clinic_025@gold</id>
-		<span>16,18</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>February</Type>
-			<Sub-Interval>157@e@ID009_clinic_025@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>159@e@ID009_clinic_025@gold</id>
-		<span>22,26</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>2010</Value>
-			<Sub-Interval></Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>160@e@ID009_clinic_025@gold</id>
-		<span>43,45</span>
-		<type>Day-Of-Month</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>24</Value>
-			<Sub-Interval></Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>161@e@ID009_clinic_025@gold</id>
-		<span>40,42</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>February</Type>
-			<Sub-Interval>160@e@ID009_clinic_025@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>162@e@ID009_clinic_025@gold</id>
-		<span>46,50</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>2010</Value>
-			<Sub-Interval>161@e@ID009_clinic_025@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>163@e@ID009_clinic_025@gold</id>
-		<span>937,942</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>33@e@ID009_clinic_025@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>164@e@ID009_clinic_025@gold</id>
-		<span>1621,1625</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Years</Type>
-			<Number>165@e@ID009_clinic_025@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>165@e@ID009_clinic_025@gold</id>
-		<span>1618,1620</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>75</Value>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>166@e@ID009_clinic_025@gold</id>
-		<span>1855,1858</span>
-		<type>Modifier</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>End</Type>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>167@e@ID009_clinic_025@gold</id>
-		<span>1866,1870</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Year</Type>
-			<Number></Number>
-			<Modifier>166@e@ID009_clinic_025@gold</Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>168@e@ID009_clinic_025@gold</id>
-		<span>1881,1885</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Unknown</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>169@e@ID009_clinic_025@gold</id>
-		<span>1876,1880</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period>168@e@ID009_clinic_025@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -1333,23 +1161,10 @@
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>170@e@ID009_clinic_025@gold</Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>173@e@ID009_clinic_025@gold</id>
-		<span>2755,2758</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 

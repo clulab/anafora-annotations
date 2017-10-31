@@ -3329,19 +3329,6 @@
 	</entity>
 
 	<entity>
-		<id>654@e@ID049_clinic_142@gold</id>
-		<span>6814,6819</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
-			<Period></Period>
-			<Repeating-Interval>652@e@ID049_clinic_142@gold</Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>655@e@ID049_clinic_142@gold</id>
 		<span>6017,6021</span>
 		<type>Year</type>

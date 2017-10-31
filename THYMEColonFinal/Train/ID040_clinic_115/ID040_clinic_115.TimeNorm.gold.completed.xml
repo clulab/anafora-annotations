@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>15:33:41 17-10-2016</savetime>
+  <savetime>09:21:25 26-09-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -695,6 +696,7 @@
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>DocTime</Interval-Type>
+			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>252@e@ID040_clinic_115@gold</Repeating-Interval>
 		</properties>
@@ -1714,18 +1716,6 @@
 	<entity>
 		<id>337@e@ID040_clinic_115@gold</id>
 		<span>1386,1389</span>
-		<type>AMPM-Of-Day</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>PM</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>338@e@ID040_clinic_115@gold</id>
-		<span>1386,1388</span>
 		<type>AMPM-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>

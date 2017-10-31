@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>13:41:44 14-01-2017</savetime>
+  <savetime>09:26:37 26-09-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -1431,11 +1432,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>187@e@ID048_clinic_141@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1550,9 +1551,9 @@
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>201@e@ID048_clinic_141@gold</Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>203@e@ID048_clinic_141@gold</End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -1565,9 +1566,9 @@
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>298@e@ID048_clinic_141@gold</Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>191@e@ID048_clinic_141@gold</End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -1667,19 +1668,6 @@
 		<properties>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>187@e@ID048_clinic_141@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>299@e@ID048_clinic_141@gold</id>
-		<span>3359,3364</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>

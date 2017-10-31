@@ -2,7 +2,7 @@
 
 <data>
 <info>
-  <savetime>14:36:33 09-02-2017</savetime>
+  <savetime>14:41:05 27-09-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -603,82 +603,6 @@
 		<properties>
 			<Value>2010</Value>
 			<Sub-Interval>138@e@ID131_path_385@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>141@e@ID131_path_385@gold</id>
-		<span>42,46</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>2010</Value>
-			<Sub-Interval>142@e@ID131_path_385@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>142@e@ID131_path_385@gold</id>
-		<span>38,39</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>July</Type>
-			<Sub-Interval>143@e@ID131_path_385@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>143@e@ID131_path_385@gold</id>
-		<span>40,41</span>
-		<type>Day-Of-Month</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>6</Value>
-			<Sub-Interval></Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>144@e@ID131_path_385@gold</id>
-		<span>20,24</span>
-		<type>Year</type>
-		<parentsType>Interval</parentsType>
-		<properties>
-			<Value>2010</Value>
-			<Sub-Interval>145@e@ID131_path_385@gold</Sub-Interval>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>145@e@ID131_path_385@gold</id>
-		<span>16,17</span>
-		<type>Month-Of-Year</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>July</Type>
-			<Sub-Interval>146@e@ID131_path_385@gold</Sub-Interval>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>146@e@ID131_path_385@gold</id>
-		<span>18,19</span>
-		<type>Day-Of-Month</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Value>2</Value>
-			<Sub-Interval></Sub-Interval>
-			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>

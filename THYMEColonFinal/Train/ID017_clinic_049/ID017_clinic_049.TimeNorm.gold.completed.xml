@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>08:00:42 11-09-2016</savetime>
+  <savetime>16:43:25 30-09-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -798,9 +799,9 @@
 		<properties>
 			<Start-Interval-Type>DocTime</Start-Interval-Type>
 			<Start-Interval></Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>228@e@ID017_clinic_049@gold</End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -1004,7 +1005,7 @@
 		<type>Number</type>
 		<parentsType>Other</parentsType>
 		<properties>
-			<Value>80?</Value>
+			<Value>8?</Value>
 		</properties>
 	</entity>
 
@@ -1573,11 +1574,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>220@e@ID017_clinic_049@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

@@ -3085,19 +3085,6 @@
 	</entity>
 
 	<entity>
-		<id>517@e@ID041_clinic_120@gold</id>
-		<span>2919,2924</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>201@e@ID041_clinic_120@gold</Interval>
-			<Period>589@e@ID041_clinic_120@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>591@e@ID041_clinic_120@gold</id>
 		<span>5695,5697</span>
 		<type>Part-Of-Day</type>
