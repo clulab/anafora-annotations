@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>14:36:37 10-10-2016</savetime>
+  <savetime>17:24:27 15-11-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -740,11 +741,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>128@e@ID043_clinic_124@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1086,7 +1087,7 @@
 
 	<entity>
 		<id>346@e@ID043_clinic_124@gold</id>
-		<span>1125,1127</span>
+		<span>1125,1126</span>
 		<type>Day-Of-Month</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
@@ -1127,11 +1128,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>350@e@ID043_clinic_124@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1196,11 +1197,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>151@e@ID043_clinic_124@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1248,11 +1249,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>108@e@ID043_clinic_124@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1348,7 +1349,7 @@
 
 	<entity>
 		<id>368@e@ID043_clinic_124@gold</id>
-		<span>2095,2098</span>
+		<span>2095,2097</span>
 		<type>AMPM-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
@@ -1386,11 +1387,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period>370@e@ID043_clinic_124@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 

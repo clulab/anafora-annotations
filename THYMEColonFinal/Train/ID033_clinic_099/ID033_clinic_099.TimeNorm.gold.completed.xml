@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>14:58:12 09-10-2016</savetime>
+  <savetime>13:28:02 31-09-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -1881,11 +1882,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>192@e@ID033_clinic_099@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1927,11 +1928,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>487@e@ID033_clinic_099@gold</Interval>
 			<Period>485@e@ID033_clinic_099@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1950,11 +1951,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -1976,11 +1977,11 @@
 		<type>Next</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2036,11 +2037,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>496@e@ID033_clinic_099@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2573,11 +2574,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>544@e@ID033_clinic_099@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2651,9 +2652,9 @@
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>371@e@ID033_clinic_099@gold</Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>DocTime</End-Interval-Type>
 			<End-Interval></End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -2738,17 +2739,6 @@
 
 	<entity>
 		<id>556@e@ID033_clinic_099@gold</id>
-		<span>5181,5189</span>
-		<type>Intersection</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Intervals>533@e@ID033_clinic_099@gold</Intervals>
-			<Repeating-Intervals>529@e@ID033_clinic_099@gold</Repeating-Intervals>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>557@e@ID033_clinic_099@gold</id>
 		<span>5181,5189</span>
 		<type>Intersection</type>
 		<parentsType>Operator</parentsType>

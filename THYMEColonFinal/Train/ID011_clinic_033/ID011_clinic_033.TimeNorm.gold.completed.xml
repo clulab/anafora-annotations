@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>10:05:19 25-08-2016</savetime>
+  <savetime>15:59:36 15-11-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -531,11 +532,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>83@e@ID011_clinic_033@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -545,11 +546,11 @@
 		<type>Next</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -559,11 +560,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>311@e@ID011_clinic_033@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -618,11 +619,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>316@e@ID011_clinic_033@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -875,6 +876,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -888,6 +892,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -900,6 +907,9 @@
 			<Sub-Interval>337@e@ID011_clinic_033@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -915,6 +925,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -928,6 +941,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -940,6 +956,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -1850,11 +1869,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>421@e@ID011_clinic_033@gold</Interval>
 			<Period>419@e@ID011_clinic_033@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2157,6 +2176,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -2170,6 +2192,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -2183,6 +2208,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -2195,6 +2223,9 @@
 			<Sub-Interval>448@e@ID011_clinic_033@gold</Sub-Interval>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -2210,6 +2241,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -2223,6 +2257,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -2235,6 +2272,9 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -2376,11 +2416,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>466@e@ID011_clinic_033@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -2498,6 +2538,49 @@
 			<Repeating-Intervals>364@e@ID011_clinic_033@gold</Repeating-Intervals>
 			<Repeating-Intervals>365@e@ID011_clinic_033@gold</Repeating-Intervals>
 		</properties>
+	</entity>
+
+	<entity>
+		<id>476@e@ID011_clinic_033@gold</id>
+		<span>3624,3630</span>
+		<type>Day-Of-Week</type>
+		<parentsType>Repeating-Interval</parentsType>
+		<properties>
+			<Type>Friday</Type>
+			<Number></Number>
+			<Modifier></Modifier>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>477@e@ID011_clinic_033@gold</id>
+		<span>3624,3630</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>339@e@ID011_clinic_033@gold</Intervals>
+			<Repeating-Intervals>476@e@ID011_clinic_033@gold</Repeating-Intervals>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>478@e@ID011_clinic_033@gold</id>
+		<span>5830,5836</span>
+		<type>Intersection</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Intervals>450@e@ID011_clinic_033@gold</Intervals>
+			<Repeating-Intervals>447@e@ID011_clinic_033@gold</Repeating-Intervals>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 </annotations>

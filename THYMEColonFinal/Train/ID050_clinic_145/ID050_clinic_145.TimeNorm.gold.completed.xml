@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
-  <savetime>14:11:50 10-00-2017</savetime>
+  <savetime>17:28:00 15-11-2017</savetime>
   <progress>completed</progress>
 </info>
 
@@ -105,6 +106,9 @@
 		<parentsType>Other</parentsType>
 		<properties>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -2292,6 +2296,9 @@
 		<parentsType>Other</parentsType>
 		<properties>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -3764,11 +3771,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period>1069@e@ID050_clinic_145@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3800,11 +3807,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period>1072@e@ID050_clinic_145@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -3900,7 +3907,7 @@
 
 	<entity>
 		<id>1081@e@ID050_clinic_145@gold</id>
-		<span>5618,5621</span>
+		<span>5618,5620</span>
 		<type>AMPM-Of-Day</type>
 		<parentsType>Repeating-Interval</parentsType>
 		<properties>
@@ -3938,11 +3945,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period>1083@e@ID050_clinic_145@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -4233,11 +4240,11 @@
 		<type>Before</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>1111@e@ID050_clinic_145@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval>1109@e@ID050_clinic_145@gold</Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -4294,11 +4301,11 @@
 		<type>After</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>1113@e@ID050_clinic_145@gold</Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -4364,9 +4371,9 @@
 		<properties>
 			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>1116@e@ID050_clinic_145@gold</Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>1122@e@ID050_clinic_145@gold</End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -4614,9 +4621,9 @@
 		<properties>
 			<Start-Interval-Type>Unknown</Start-Interval-Type>
 			<Start-Interval></Start-Interval>
+			<Start-Included>Not-Included</Start-Included>
 			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>1142@e@ID050_clinic_145@gold</End-Interval>
-			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
 		</properties>
 	</entity>
@@ -4717,8 +4724,8 @@
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>932@e@ID050_clinic_145@gold</Every>
-			<Number>933@e@ID050_clinic_145@gold</Number>
+			<Every>932@e@ID050_clinic_145@kast8504</Every>
+			<Number>933@e@ID050_clinic_145@kast8504</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -4771,12 +4778,15 @@
 		<type>Next</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>693@e@ID050_clinic_145@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 	<entity>
@@ -4792,34 +4802,6 @@
 	</entity>
 
 	<entity>
-		<id>1156@e@ID050_clinic_145@gold</id>
-		<span>649,658</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>418@e@ID050_clinic_145@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval>1155@e@ID050_clinic_145@gold</Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>1157@e@ID050_clinic_145@gold</id>
-		<span>1022,1031</span>
-		<type>After</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>693@e@ID050_clinic_145@gold</Interval>
-			<Period></Period>
-			<Repeating-Interval></Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>1158@e@ID050_clinic_145@gold</id>
 		<span>5150,5154</span>
 		<type>This</type>
@@ -4827,7 +4809,7 @@
 		<properties>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>527@e@ID050_clinic_145@gold</Interval>
-			<Period>903@e@ID050_clinic_145@gold</Period>
+			<Period>903@e@ID050_clinic_145@nigo6833</Period>
 			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
@@ -4928,8 +4910,8 @@
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>1029@e@ID050_clinic_145@gold</Every>
-			<Number>946@e@ID050_clinic_145@gold</Number>
+			<Every>1029@e@ID050_clinic_145@nigo6833</Every>
+			<Number>946@e@ID050_clinic_145@nigo6833</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -4962,11 +4944,11 @@
 		<type>Next</type>
 		<parentsType>Operator</parentsType>
 		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
 			<Repeating-Interval>1155@e@ID050_clinic_145@gold</Repeating-Interval>
-			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
 	</entity>
 
@@ -5033,6 +5015,23 @@
 			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
+	</entity>
+
+	<entity>
+		<id>1177@e@ID050_clinic_145@gold</id>
+		<span>649,658</span>
+		<type>Next</type>
+		<parentsType>Operator</parentsType>
+		<properties>
+			<Semantics>Interval-Not-Included</Semantics>
+			<Interval-Type>Link</Interval-Type>
+			<Interval>418@e@ID050_clinic_145@gold</Interval>
+			<Period></Period>
+			<Repeating-Interval></Repeating-Interval>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
 	</entity>
 
 </annotations>
