@@ -2589,8 +2589,8 @@
 			<Semantics>Interval-Not-Included</Semantics>
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
-			<Period>1083@e@ID051_clinic_148@gold</Period>
-			<Repeating-Interval></Repeating-Interval>
+			<Period></Period>
+			<Repeating-Interval>1091@e@ID051_clinic_148@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -4896,18 +4896,6 @@
 	</entity>
 
 	<entity>
-		<id>1083@e@ID051_clinic_148@gold</id>
-		<span>478,482</span>
-		<type>Period</type>
-		<parentsType>Duration</parentsType>
-		<properties>
-			<Type>Years</Type>
-			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>1084@e@ID051_clinic_148@gold</id>
 		<span>450,456</span>
 		<type>Period</type>
@@ -4960,7 +4948,7 @@
 		<parentsType>Duration</parentsType>
 		<properties>
 			<Type>Minutes</Type>
-			<Number>846@e@ID051_clinic_148@kast8504</Number>
+			<Number>1042@e@ID051_clinic_148@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -5056,18 +5044,6 @@
 		<properties>
 			<Type>Unknown</Type>
 			<Number></Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>1097@e@ID051_clinic_148@gold</id>
-		<span>7655,7662</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Minute</Type>
-			<Number>1042@e@ID051_clinic_148@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>

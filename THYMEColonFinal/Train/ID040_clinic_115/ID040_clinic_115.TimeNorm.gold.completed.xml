@@ -1616,7 +1616,7 @@
 		<properties>
 			<Type>September</Type>
 			<Sub-Interval></Sub-Interval>
-			<Number>336@e@ID040_clinic_115@gold</Number>
+			<Number>340@e@ID040_clinic_115@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -1700,16 +1700,6 @@
 			<Type>Minute</Type>
 			<Number></Number>
 			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>336@e@ID040_clinic_115@gold</id>
-		<span>2720,2722</span>
-		<type>Number</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Value>10</Value>
 		</properties>
 	</entity>
 

@@ -1374,18 +1374,6 @@
 	</entity>
 
 	<entity>
-		<id>221@e@ID026_clinic_078@gold</id>
-		<span>1262,1267</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Month</Type>
-			<Number>183@e@ID026_clinic_078@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>222@e@ID026_clinic_078@gold</id>
 		<span>1452,1454</span>
 		<type>After</type>

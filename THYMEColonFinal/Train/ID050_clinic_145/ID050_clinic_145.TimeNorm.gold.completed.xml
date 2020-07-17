@@ -4659,7 +4659,7 @@
 			<Interval-Type>DocTime</Interval-Type>
 			<Interval></Interval>
 			<Period></Period>
-			<Repeating-Interval>1176@e@ID050_clinic_145@gold</Repeating-Interval>
+			<Repeating-Interval>1152@e@ID050_clinic_145@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -4724,8 +4724,8 @@
 		<parentsType>Other</parentsType>
 		<properties>
 			<Type>Other</Type>
-			<Every>932@e@ID050_clinic_145@kast8504</Every>
-			<Number>933@e@ID050_clinic_145@kast8504</Number>
+			<Every>1138@e@ID050_clinic_145@gold</Every>
+			<Number>1137@e@ID050_clinic_145@gold</Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
@@ -4798,19 +4798,6 @@
 			<Type>Week</Type>
 			<Number></Number>
 			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>1158@e@ID050_clinic_145@gold</id>
-		<span>5150,5154</span>
-		<type>This</type>
-		<parentsType>Operator</parentsType>
-		<properties>
-			<Interval-Type>Link</Interval-Type>
-			<Interval>527@e@ID050_clinic_145@gold</Interval>
-			<Period>903@e@ID050_clinic_145@nigo6833</Period>
-			<Repeating-Interval></Repeating-Interval>
 		</properties>
 	</entity>
 
@@ -4904,32 +4891,6 @@
 	</entity>
 
 	<entity>
-		<id>1167@e@ID050_clinic_145@gold</id>
-		<span>6995,7002</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>1029@e@ID050_clinic_145@nigo6833</Every>
-			<Number>946@e@ID050_clinic_145@nigo6833</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>1168@e@ID050_clinic_145@gold</id>
-		<span>7791,7794</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Minute</Type>
-			<Every>1138@e@ID050_clinic_145@gold</Every>
-			<Number>1137@e@ID050_clinic_145@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>1169@e@ID050_clinic_145@gold</id>
 		<span>9706,9712</span>
 		<type>Event</type>
@@ -5001,18 +4962,6 @@
 		<properties>
 			<Type>Years</Type>
 			<Number>1172@e@ID050_clinic_145@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
-		<id>1176@e@ID050_clinic_145@gold</id>
-		<span>10195,10198</span>
-		<type>Calendar-Interval</type>
-		<parentsType>Repeating-Interval</parentsType>
-		<properties>
-			<Type>Day</Type>
-			<Number></Number>
 			<Modifier></Modifier>
 		</properties>
 	</entity>
