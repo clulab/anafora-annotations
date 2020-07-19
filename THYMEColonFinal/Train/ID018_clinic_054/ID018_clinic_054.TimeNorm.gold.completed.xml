@@ -4213,19 +4213,6 @@
 	</entity>
 
 	<entity>
-		<id>705@e@ID018_clinic_054@gold</id>
-		<span>8445,8459</span>
-		<type>Frequency</type>
-		<parentsType>Other</parentsType>
-		<properties>
-			<Type>Other</Type>
-			<Every>612@e@ID018_clinic_054@gold</Every>
-			<Number>611@e@ID018_clinic_054@gold</Number>
-			<Modifier></Modifier>
-		</properties>
-	</entity>
-
-	<entity>
 		<id>706@e@ID018_clinic_054@gold</id>
 		<span>3333,3342</span>
 		<type>Event</type>
