@@ -745,10 +745,19 @@
 		<parentsType>Operator</parentsType>
 		<properties>
 			<Interval-Type>Link</Interval-Type>
-			<Interval></Interval>
+			<Interval>151@e@APW19980306.1001@gold</Interval>
 			<Period></Period>
 			<Repeating-Interval></Repeating-Interval>
 			<Semantics>Interval-Not-Included</Semantics>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>151@e@APW19980306.1001@gold</id>
+		<span>3800,3808</span>
+		<type>Event</type>
+		<parentsType>Other</parentsType>
+		<properties>
 		</properties>
 	</entity>
 
