@@ -1699,7 +1699,7 @@
 		<properties>
 			<Interval-Type>Link</Interval-Type>
 			<Interval>455@e@ID179_clinic_525@gold</Interval>
-			<Period></Period>
+			<Period>505@e@ID179_clinic_525@gold</Period>
 			<Repeating-Interval></Repeating-Interval>
 			<Semantics>Interval-Not-Included</Semantics>
 		</properties>
@@ -2302,14 +2302,10 @@
 	<entity>
 		<id>505@e@ID179_clinic_525@gold</id>
 		<span>3935,3936</span>
-		<type>NthFromStart</type>
-		<parentsType>Operator</parentsType>
+		<type>Number</type>
+		<parentsType>Other</parentsType>
 		<properties>
-			<Interval-Type>DocTime</Interval-Type>
-			<Interval></Interval>
 			<Value>2</Value>
-			<Period></Period>
-			<Repeating-Interval>456@e@ID179_clinic_525@gold</Repeating-Interval>
 		</properties>
 	</entity>
 
