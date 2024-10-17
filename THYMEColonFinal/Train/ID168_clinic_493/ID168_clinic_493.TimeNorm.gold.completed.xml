@@ -2407,9 +2407,9 @@
 		<type>Between</type>
 		<parentsType>Operator</parentsType>
 		<properties>
-			<Start-Interval-Type>DocTime</Start-Interval-Type>
+			<Start-Interval-Type>Link</Start-Interval-Type>
 			<Start-Interval>439@e@ID168_clinic_493@gold</Start-Interval>
-			<End-Interval-Type>DocTime</End-Interval-Type>
+			<End-Interval-Type>Link</End-Interval-Type>
 			<End-Interval>441@e@ID168_clinic_493@gold</End-Interval>
 			<Start-Included>Not-Included</Start-Included>
 			<End-Included>Not-Included</End-Included>
